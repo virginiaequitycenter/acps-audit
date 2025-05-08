@@ -1,0 +1,1087 @@
+cohort_year,level,division_number,division_name,school_number,school_name,type_of_graduation_rate,rate_type,graduation_rate,students_in_cohort,total_graduates,advanced_studies,ib,standard,other_diplomas,applied_studies,dropout_rate,data_level,subgroup,perc_advanced
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,71.32,129,92,23,0,57,NA,10,13.95,Economic Advantage,Economically Disadvantaged,25
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,72.41,29,21,9,0,11,0,NA,17.24,English Learner,English Learner,42.857142857142854
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,76.47,34,26,12,0,14,0,0,20.59,Race,Hispanic,46.15384615384615
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,82.39,142,117,21,0,62,NA,28,13.38,Disability,Disabled,17.94871794871795
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.02,131,114,47,0,60,NA,NA,6.87,Race,"Black, not of Hispanic origin",41.228070175438596
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.94,1012,890,575,0,281,NA,28,7.02,All,None,64.6067415730337
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.4,983,869,566,0,270,NA,27,6.71,English Learner,Non-English Learner,65.13233601841196
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.42,812,718,490,0,201,NA,23,6.53,Race,"White, not of Hispanic origin",68.24512534818942
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.85,870,773,554,0,219,0,0,5.98,Disability,Non-Disabled,71.66882276843467
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.37,883,798,552,0,224,NA,18,6,Economic Advantage,Non-ECD,69.17293233082707
+2008,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.55,29,28,23,0,5,0,0,3.45,Race,Asian,82.14285714285714
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,11,11,3,0,6,NA,NA,0,Race,"Black, not of Hispanic origin",27.272727272727273
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,79.17,24,19,5,0,9,NA,NA,12.5,Economic Advantage,Economically Disadvantaged,26.31578947368421
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,89.13,46,41,6,0,21,NA,12,8.7,Disability,Disabled,14.634146341463415
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,91.7,253,232,152,0,68,NA,11,4.74,Race,"White, not of Hispanic origin",65.51724137931035
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.28,272,251,160,0,78,NA,11,4.41,English Learner,Non-English Learner,63.745019920318725
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.31,273,252,160,0,78,NA,12,4.4,All,None,63.492063492063494
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.95,227,211,154,0,57,0,0,3.52,Disability,Non-Disabled,72.98578199052133
+2008,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,93.57,249,233,155,0,69,NA,NA,3.61,Economic Advantage,Non-ECD,66.52360515021459
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,63.04,46,29,4,0,22,0,NA,19.57,Economic Advantage,Economically Disadvantaged,13.793103448275861
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,68.42,19,13,7,0,6,0,0,15.79,English Learner,English Learner,53.84615384615385
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,69.23,13,9,5,0,4,0,0,30.77,Race,Hispanic,55.55555555555556
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,78.57,42,33,7,0,22,0,NA,16.67,Disability,Disabled,21.21212121212121
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,78.57,56,44,16,0,27,0,NA,12.5,Race,"Black, not of Hispanic origin",36.36363636363637
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.63,374,324,238,0,82,0,NA,8.29,All,None,73.45679012345678
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.61,355,311,231,0,76,0,NA,7.89,English Learner,Non-English Learner,74.27652733118971
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.65,332,291,231,0,60,0,0,7.23,Disability,Non-Disabled,79.38144329896907
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.69,283,251,200,0,48,0,NA,6.71,Race,"White, not of Hispanic origin",79.6812749003984
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.94,328,295,234,0,60,0,NA,6.71,Economic Advantage,Non-ECD,79.32203389830508
+2008,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.74,19,18,16,0,2,0,0,5.26,Race,Asian,88.88888888888889
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,73.33,15,11,4,0,7,0,0,20,Race,Hispanic,36.36363636363637
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,75,56,42,13,0,25,NA,NA,10.71,Economic Advantage,Economically Disadvantaged,30.952380952380953
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,75.56,45,34,6,0,12,NA,12,17.78,Disability,Disabled,17.647058823529413
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.48,232,196,126,0,58,NA,NA,8.62,Race,"White, not of Hispanic origin",64.28571428571429
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,85.58,319,273,165,0,92,NA,12,8.15,All,None,60.43956043956044
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,85.81,310,266,163,0,87,NA,12,7.74,English Learner,Non-English Learner,61.278195488721806
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.23,274,239,159,0,80,0,0,6.57,Disability,Non-Disabled,66.52719665271967
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.83,263,231,152,0,67,NA,NA,7.6,Economic Advantage,Non-ECD,65.80086580086581
+2008,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.06,63,58,28,0,26,NA,NA,3.17,Race,"Black, not of Hispanic origin",48.275862068965516
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,68.76,NA,NA,823,15,NA,69,32,28.14,English Learner,English Learner,NA
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,70.66,21283,15034,4320,56,8935,754,973,17.12,Economic Advantage,Economically Disadvantaged,28.734867633364374
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,71.19,NA,NA,NA,38,NA,99,70,21.81,Race,Hispanic,NA
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,73.99,NA,NA,NA,114,NA,759,950,16.42,Race,"Black, not of Hispanic origin",NA
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,75.18,282,212,96,4,98,NA,NA,15.96,Race,American Indian or Alaska Native,45.283018867924525
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,81.3,10910,8868,869,3,4202,NA,NA,13.79,Disability,Disabled,9.799278304014434
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.13,96184,78979,41050,847,33288,NA,NA,10.59,All,None,51.97584167943377
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.24,85274,70111,40181,844,29086,15,0,10.18,Disability,Non-Disabled,57.31055041291666
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.59,NA,NA,NA,832,NA,NA,NA,9.99,English Learner,Non-English Learner,NA
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.23,88,75,42,4,29,0,0,6.82,Race,Native Hawaiian  or Pacific Islander,56
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.39,74901,63945,36730,791,24353,NA,989,8.73,Economic Advantage,Non-ECD,57.43998748924857
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.9,NA,NA,NA,510,NA,943,901,7.44,Race,"White, not of Hispanic origin",NA
+2008,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.35,NA,NA,NA,149,NA,25,23,4.09,Race,Asian,NA
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,71.79,39,28,15,0,13,0,0,20.51,English Learner,English Learner,53.57142857142857
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,72.86,140,102,41,0,54,NA,NA,15.71,Economic Advantage,Economically Disadvantaged,40.19607843137255
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,76.09,138,105,38,0,59,NA,NA,15.94,Race,"Black, not of Hispanic origin",36.19047619047619
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,82.5,40,33,21,0,12,0,0,12.5,Race,Hispanic,63.63636363636363
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.79,131,115,23,0,65,NA,21,6.87,Disability,Disabled,20
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.49,1056,945,647,0,271,NA,21,6.16,All,None,68.46560846560847
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.73,925,830,624,0,206,0,0,6.05,Disability,Non-Disabled,75.18072289156626
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.17,NA,917,632,0,258,NA,21,5.6,English Learner,Non-English Learner,68.92039258451472
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,91.56,829,759,546,0,194,NA,16,4.46,Race,"White, not of Hispanic origin",71.93675889328063
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.03,916,843,606,0,217,NA,16,4.69,Economic Advantage,Non-ECD,71.88612099644128
+2009,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.56,41,40,37,0,3,0,0,2.44,Race,Asian,92.5
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,61.54,13,8,0,0,7,0,NA,23.08,Economic Advantage,Economically Disadvantaged,0
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,72.73,11,8,1,0,7,0,0,18.18,Race,"Black, not of Hispanic origin",12.5
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,90.32,31,28,6,0,13,NA,NA,0,Disability,Disabled,21.428571428571427
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,93.89,262,246,175,0,62,NA,NA,3.44,English Learner,Non-English Learner,71.13821138211382
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,93.94,264,248,175,0,64,NA,NA,3.41,All,None,70.56451612903226
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,94.42,233,220,169,0,51,0,0,3.86,Disability,Non-Disabled,76.81818181818181
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,94.58,240,227,164,0,54,NA,NA,2.92,Race,"White, not of Hispanic origin",72.2466960352423
+2009,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.62,251,240,175,0,57,NA,NA,2.39,Economic Advantage,Non-ECD,72.91666666666667
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,30,30,29,0,1,0,0,0,Race,Asian,96.66666666666667
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,69.86,73,51,17,0,29,NA,NA,19.18,Race,"Black, not of Hispanic origin",33.333333333333336
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,70.31,64,45,18,0,25,NA,NA,15.63,Economic Advantage,Economically Disadvantaged,40
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,80.77,26,21,13,0,8,0,0,11.54,English Learner,English Learner,61.904761904761905
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.76,49,43,10,0,23,NA,NA,8.16,Disability,Disabled,23.25581395348837
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.66,441,391,300,0,81,NA,NA,7.03,All,None,76.72634271099744
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.78,392,348,290,0,58,0,0,6.89,Disability,Non-Disabled,83.33333333333333
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.16,415,370,287,0,73,NA,NA,6.75,English Learner,Non-English Learner,77.56756756756756
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.46,316,289,239,0,45,0,NA,5.06,Race,"White, not of Hispanic origin",82.69896193771626
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.78,377,346,282,0,56,NA,NA,5.57,Economic Advantage,Non-ECD,81.5028901734104
+2009,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,17,16,11,0,5,0,0,5.88,Race,Hispanic,68.75
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,45.45,11,5,2,0,3,0,0,45.45,English Learner,English Learner,40
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,68.42,19,13,7,0,6,0,0,21.05,Race,Hispanic,53.84615384615385
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,79.03,62,49,23,0,22,NA,NA,12.9,Economic Advantage,Economically Disadvantaged,46.93877551020408
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,83.33,36,30,6,0,18,NA,NA,11.11,Disability,Disabled,20
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.31,51,43,20,0,20,NA,NA,11.76,Race,"Black, not of Hispanic origin",46.51162790697674
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,86.97,307,267,169,0,92,NA,NA,7.49,All,None,63.29588014981273
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.45,271,237,163,0,74,0,0,7.01,Disability,Non-Disabled,68.77637130801688
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.51,296,262,167,0,89,NA,NA,6.08,English Learner,Non-English Learner,63.74045801526717
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.98,245,218,146,0,70,NA,NA,6.12,Economic Advantage,Non-ECD,66.97247706422019
+2009,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.22,232,207,140,0,64,NA,NA,5.17,Race,"White, not of Hispanic origin",67.6328502415459
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,68.58,NA,NA,921,6,NA,79,51,27.06,English Learner,English Learner,NA
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.22,NA,NA,NA,48,NA,139,84,20.91,Race,Hispanic,NA
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,73.21,24039,17597,5238,55,10434,812,NA,15.14,Economic Advantage,Economically Disadvantaged,29.76643746093084
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,75.72,NA,NA,NA,66,NA,758,NA,14.66,Race,"Black, not of Hispanic origin",NA
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,78.41,301,236,124,1,103,NA,NA,10.63,Race,American Indian or Alaska Native,52.54237288135593
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.1,11990,9844,1168,1,4756,NA,NA,13.24,Disability,Disabled,11.865095489638358
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.15,89,74,39,2,32,NA,0,8.99,Race,Native Hawaiian  or Pacific Islander,52.7027027027027
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.25,98097,81661,42625,722,34395,NA,NA,9.65,All,None,52.197499418326984
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.41,86107,71817,41457,721,29639,NA,0,9.15,Disability,Non-Disabled,57.72588662851414
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.86,NA,NA,NA,716,NA,NA,NA,8.92,English Learner,Non-English Learner,NA
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.51,74058,64064,37387,667,23961,NA,NA,7.87,Economic Advantage,Non-ECD,58.35882867132867
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.05,NA,NA,NA,438,NA,877,860,6.63,Race,"White, not of Hispanic origin",NA
+2009,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.32,NA,NA,NA,138,NA,31,32,3.63,Race,Asian,NA
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,67.44,43,29,16,0,13,0,0,27.91,English Learner,English Learner,55.172413793103445
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,72.73,44,32,16,0,15,NA,0,25,Race,Hispanic,50
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,85.53,152,130,47,0,65,NA,11,8.55,Economic Advantage,Economically Disadvantaged,36.15384615384615
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.02,131,114,20,0,60,10,24,12.98,Disability,Disabled,17.54385964912281
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.02,131,114,54,0,46,NA,10,7.63,Race,"Black, not of Hispanic origin",47.36842105263158
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,91.97,1021,939,645,0,260,10,24,5.09,All,None,68.69009584664536
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.7,890,825,625,0,200,0,0,3.93,Disability,Non-Disabled,75.75757575757575
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.05,978,910,629,0,247,10,24,4.09,English Learner,Non-English Learner,69.12087912087912
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.1,869,809,598,0,195,NA,13,4.49,Economic Advantage,Non-ECD,73.91841779975279
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.54,789,738,526,0,194,NA,13,3.8,Race,"White, not of Hispanic origin",71.27371273712737
+2010,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.65,46,44,42,0,2,0,0,2.17,Race,Asian,95.45454545454545
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,11,11,10,0,1,0,0,0,Race,Asian,90.9090909090909
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,82.14,28,23,3,0,16,NA,NA,7.14,Economic Advantage,Economically Disadvantaged,13.043478260869565
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.5,40,37,5,0,22,NA,NA,7.5,Disability,Disabled,13.513513513513514
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.26,253,241,163,0,69,NA,NA,2.77,Race,"White, not of Hispanic origin",67.63485477178423
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.26,274,261,175,0,76,NA,NA,2.55,English Learner,Non-English Learner,67.04980842911877
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.29,276,263,177,0,76,NA,NA,2.54,All,None,67.30038022813689
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.76,236,226,172,0,54,0,0,1.69,Disability,Non-Disabled,76.10619469026548
+2010,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.77,248,240,174,0,60,NA,NA,2.02,Economic Advantage,Non-ECD,72.5
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,75,24,18,12,0,6,0,0,20.83,English Learner,English Learner,66.66666666666667
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,76.47,17,13,9,0,4,0,0,23.53,Race,Hispanic,69.23076923076923
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,79.69,64,51,27,0,18,NA,NA,14.06,Economic Advantage,Economically Disadvantaged,52.94117647058823
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.11,47,40,8,0,21,NA,NA,14.89,Disability,Disabled,20
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.84,76,66,38,0,20,NA,NA,9.21,Race,"Black, not of Hispanic origin",57.57575757575758
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.7,430,390,295,0,84,NA,NA,6.05,All,None,75.64102564102564
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.38,383,350,287,0,63,0,0,4.96,Disability,Non-Disabled,82
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.63,406,372,283,0,78,NA,NA,5.17,English Learner,Non-English Learner,76.0752688172043
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.11,304,280,219,0,58,0,NA,4.61,Race,"White, not of Hispanic origin",78.21428571428571
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.62,366,339,268,0,66,0,NA,4.64,Economic Advantage,Non-ECD,79.05604719764011
+2010,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.33,30,28,27,0,1,0,0,3.33,Race,Asian,96.42857142857143
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,52.94,17,9,2,0,7,0,0,41.18,English Learner,English Learner,22.22222222222222
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,63.64,22,14,5,0,8,NA,0,31.82,Race,Hispanic,35.714285714285715
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,82.5,40,33,7,0,13,NA,NA,17.5,Disability,Disabled,21.21212121212121
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.13,223,201,151,0,45,NA,NA,7.62,Economic Advantage,Non-ECD,75.12437810945273
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.91,44,40,15,0,20,NA,NA,6.82,Race,"Black, not of Hispanic origin",37.5
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.43,280,256,168,0,75,NA,NA,6.79,All,None,65.625
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.92,240,223,161,0,62,0,0,5,Disability,Non-Disabled,72.19730941704036
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.92,263,247,166,0,68,NA,NA,4.56,English Learner,Non-English Learner,67.20647773279352
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.17,206,194,141,0,47,NA,NA,4.37,Race,"White, not of Hispanic origin",72.68041237113403
+2010,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.49,57,55,17,0,30,NA,NA,3.51,Economic Advantage,Economically Disadvantaged,30.90909090909091
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,73.94,NA,NA,934,6,NA,74,68,22.13,English Learner,English Learner,NA
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,76.91,NA,NA,NA,46,NA,132,116,17.37,Race,Hispanic,NA
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,78.26,26311,20588,6226,57,12229,871,NA,11.46,Economic Advantage,Economically Disadvantaged,30.240917039051876
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,79.34,NA,NA,NA,65,NA,743,NA,11.69,Race,"Black, not of Hispanic origin",NA
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.13,319,262,132,5,112,NA,NA,10.03,Race,American Indian or Alaska Native,50.38167938931298
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.83,11804,9893,869,3,5072,NA,NA,11.64,Disability,Disabled,8.783988678863842
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.72,97714,83751,43983,758,35061,NA,NA,7.79,All,None,52.5163878640255
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.98,85910,73858,43114,755,29989,NA,0,7.26,Disability,Non-Disabled,58.374177475696605
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.18,NA,NA,NA,752,NA,NA,NA,7.23,English Learner,Non-English Learner,NA
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.46,71403,63163,37757,701,22832,883,992,6.44,Economic Advantage,Non-ECD,59.77708468565458
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.99,NA,NA,NA,466,NA,826,984,5.18,Race,"White, not of Hispanic origin",NA
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.22,92,83,52,0,31,0,0,5.43,Race,Native Hawaiian  or Pacific Islander,62.65060240963855
+2010,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.19,NA,NA,NA,160,NA,25,36,3.45,Race,Asian,NA
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,80.56,36,29,13,0,15,0,NA,16.67,English Learner,English Learner,44.827586206896555
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,86.06,208,179,58,0,107,NA,10,6.25,Economic Advantage,Economically Disadvantaged,32.402234636871505
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.39,119,104,42,0,56,NA,NA,7.56,Race,"Black, not of Hispanic origin",40.38461538461539
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.31,65,60,30,0,26,0,NA,6.15,Race,Hispanic,50
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.48,904,836,640,0,196,0,0,3.65,Disability,Non-Disabled,76.55502392344498
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.02,1031,959,666,0,259,NA,28,3.59,All,None,69.44734098018769
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.47,995,930,653,0,244,NA,27,3.12,English Learner,Non-English Learner,70.21505376344086
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.77,771,723,534,0,166,NA,21,2.98,Race,"White, not of Hispanic origin",73.85892116182572
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.12,34,32,21,0,10,NA,0,0,Race,"Non-Hispanic, two or more races",65.625
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.78,823,780,608,0,152,NA,18,2.92,Economic Advantage,Non-ECD,77.94871794871794
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.85,127,123,26,0,63,NA,28,3.15,Disability,Disabled,21.13821138211382
+2011,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.22,36,35,35,0,0,0,0,0,Race,Asian,100
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,24,24,7,0,11,NA,NA,0,Disability,Disabled,29.166666666666668
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,86.36,22,19,7,0,12,0,0,9.09,Economic Advantage,Economically Disadvantaged,36.8421052631579
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.67,215,210,158,0,47,0,NA,0.93,Race,"White, not of Hispanic origin",75.23809523809524
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.67,215,210,165,0,45,0,0,0.93,Disability,Non-Disabled,78.57142857142857
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.9,238,233,171,0,56,NA,NA,0.84,English Learner,Non-English Learner,73.39055793991416
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.91,239,234,172,0,56,NA,NA,0.84,All,None,73.5042735042735
+2011,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.08,217,215,165,0,44,NA,NA,0,Economic Advantage,Non-ECD,76.74418604651163
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,76.47,17,13,8,0,5,0,0,17.65,English Learner,English Learner,61.53846153846154
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,84.13,63,53,16,0,34,NA,NA,11.11,Race,"Black, not of Hispanic origin",30.18867924528302
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.71,84,72,22,0,46,NA,NA,8.33,Economic Advantage,Economically Disadvantaged,30.555555555555557
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.91,33,30,17,0,12,0,NA,6.06,Race,Hispanic,56.666666666666664
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.43,411,384,302,0,82,0,0,3.89,Disability,Non-Disabled,78.64583333333333
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.7,460,431,313,0,108,NA,NA,3.91,All,None,72.62180974477958
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,17,16,13,0,3,0,0,0,Race,"Non-Hispanic, two or more races",81.25
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.36,443,418,305,0,103,NA,NA,3.39,English Learner,Non-English Learner,72.96650717703349
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.48,376,359,291,0,62,0,NA,2.93,Economic Advantage,Non-ECD,81.05849582172702
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.61,319,305,240,0,59,0,NA,2.82,Race,"White, not of Hispanic origin",78.68852459016394
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.92,49,47,11,0,26,NA,NA,4.08,Disability,Disabled,23.404255319148938
+2011,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.15,26,25,25,0,0,0,0,0,Race,Asian,100
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,82.35,17,14,4,0,10,0,0,17.65,English Learner,English Learner,28.571428571428573
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.66,97,86,29,0,48,NA,NA,4.12,Economic Advantage,Economically Disadvantaged,33.72093023255814
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.7,253,232,169,0,63,0,0,3.95,Disability,Non-Disabled,72.84482758620689
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.02,213,196,130,0,55,NA,NA,3.76,Race,"White, not of Hispanic origin",66.3265306122449
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.38,302,279,175,0,88,NA,12,3.97,All,None,62.72401433691756
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.59,27,25,10,0,13,0,NA,7.41,Race,Hispanic,40
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.98,285,265,171,0,78,NA,12,3.16,English Learner,Non-English Learner,64.52830188679245
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.48,46,43,24,0,16,NA,NA,2.17,Race,"Black, not of Hispanic origin",55.81395348837209
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.15,205,193,146,0,40,NA,NA,3.9,Economic Advantage,Non-ECD,75.64766839378238
+2011,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.92,49,47,6,0,25,NA,12,4.08,Disability,Disabled,12.76595744680851
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,73.67,NA,NA,NA,8,NA,99,88,21.56,English Learner,English Learner,NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,78.52,NA,NA,NA,71,NA,162,157,15.5,Race,Hispanic,NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,79.98,28926,23133,7456,55,13579,864,NA,10.31,Economic Advantage,Economically Disadvantaged,32.23101197423594
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,80.42,NA,NA,NA,60,NA,707,972,10.81,Race,"Black, not of Hispanic origin",NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.01,359,298,142,0,145,NA,NA,7.24,Race,American Indian or Alaska Native,47.651006711409394
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,84.21,11654,9814,924,3,5088,NA,NA,11.15,Disability,Disabled,9.4151212553495
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.59,97958,84823,45513,810,34701,NA,NA,7.18,All,None,53.656437522841685
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.92,86304,75009,44589,807,29613,NA,0,6.65,Disability,Non-Disabled,59.44486661600608
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.2,NA,NA,NA,802,NA,NA,NA,6.51,English Learner,Non-English Learner,NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.5,128,112,61,2,43,NA,NA,6.25,Race,Native Hawaiian  or Pacific Islander,54.464285714285715
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.37,69032,61690,38057,755,21122,811,946,5.87,Economic Advantage,Non-ECD,61.69071162262927
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.79,NA,NA,NA,485,NA,738,921,4.7,Race,"White, not of Hispanic origin",NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.02,NA,NA,NA,32,988,27,28,1.95,Race,"Non-Hispanic, two or more races",NA
+2011,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.57,NA,NA,NA,160,NA,30,40,3.37,Race,Asian,NA
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,81.82,33,27,16,0,10,0,NA,15.15,English Learner,English Learner,59.25925925925926
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.3,121,102,47,0,47,NA,NA,9.09,Race,"Black, not of Hispanic origin",46.07843137254902
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,85.94,64,55,38,0,16,0,NA,10.94,Race,Hispanic,69.0909090909091
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,86.13,137,118,37,0,49,NA,26,8.76,Disability,Disabled,31.35593220338983
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.35,166,145,72,0,60,NA,NA,8.43,Economic Advantage,Economically Disadvantaged,49.6551724137931
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.91,33,30,27,0,2,0,NA,6.06,Race,Asian,90
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.02,1015,934,681,0,221,NA,26,4.53,All,None,72.91220556745182
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.36,982,907,665,0,211,NA,25,4.18,English Learner,Non-English Learner,73.3186328555678
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.93,849,789,609,0,161,NA,17,3.77,Economic Advantage,Non-ECD,77.18631178707224
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.94,878,816,644,0,172,0,0,3.87,Disability,Non-Disabled,78.92156862745098
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.64,755,707,538,0,150,NA,17,3.44,Race,"White, not of Hispanic origin",76.0961810466761
+2012,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.37,38,37,29,0,5,NA,NA,0,Race,"Non-Hispanic, two or more races",78.37837837837837
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,6,0,4,0,0,0,Race,Hispanic,60
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,34,32,8,0,15,0,NA,5.88,Disability,Disabled,25
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.59,227,217,154,0,55,0,NA,1.76,Race,"White, not of Hispanic origin",70.96774193548387
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.83,24,23,10,0,9,0,NA,0,Economic Advantage,Economically Disadvantaged,43.47826086956522
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.11,257,247,177,0,61,0,NA,1.56,All,None,71.65991902834008
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.11,257,247,177,0,61,0,NA,1.56,English Learner,Non-English Learner,71.65991902834008
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.14,233,224,167,0,52,0,NA,1.72,Economic Advantage,Non-ECD,74.55357142857143
+2012,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.41,223,215,169,0,46,0,0,0.9,Disability,Non-Disabled,78.6046511627907
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,82.14,56,46,18,0,23,NA,NA,10.71,Race,"Black, not of Hispanic origin",39.130434782608695
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.71,49,42,15,0,12,NA,11,6.12,Disability,Disabled,35.714285714285715
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.21,29,25,18,0,6,0,NA,10.34,Race,Hispanic,72
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88,75,66,31,0,30,NA,NA,6.67,Economic Advantage,Economically Disadvantaged,46.96969696969697
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.46,26,23,14,0,8,0,NA,7.69,English Learner,English Learner,60.869565217391305
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.36,406,375,289,0,71,NA,11,4.19,All,None,77.06666666666666
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.63,380,352,275,0,63,NA,10,3.95,English Learner,Non-English Learner,78.125
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.28,357,333,274,0,59,0,0,3.92,Disability,Non-Disabled,82.28228228228228
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.35,331,309,258,0,41,NA,NA,3.63,Economic Advantage,Non-ECD,83.49514563106796
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,17,16,12,0,3,0,NA,0,Race,"Non-Hispanic, two or more races",75
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.74,19,18,15,0,2,0,NA,0,Race,Asian,83.33333333333333
+2012,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.05,283,269,225,0,37,NA,NA,2.83,Race,"White, not of Hispanic origin",83.64312267657992
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,10,10,8,0,1,NA,0,0,Race,"Non-Hispanic, two or more races",80
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,78.26,23,18,14,0,4,0,0,17.39,Race,Hispanic,77.77777777777777
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,80.43,46,37,13,0,16,NA,NA,13.04,Disability,Disabled,35.13513513513514
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,85.94,64,55,31,0,20,NA,NA,12.5,Economic Advantage,Economically Disadvantaged,56.36363636363637
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.1,321,286,209,0,69,NA,NA,7.17,All,None,73.07692307692308
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.81,314,282,207,0,67,NA,NA,6.37,English Learner,Non-English Learner,73.40425531914893
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.83,59,53,28,0,22,NA,NA,5.08,Race,"Black, not of Hispanic origin",52.83018867924528
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.88,257,231,178,0,49,0,NA,5.84,Economic Advantage,Non-ECD,77.05627705627705
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.13,223,201,155,0,42,0,NA,6.28,Race,"White, not of Hispanic origin",77.11442786069652
+2012,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.55,275,249,196,0,53,0,0,6.18,Disability,Non-Disabled,78.714859437751
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.48,NA,NA,911,7,NA,115,76,22.23,English Learner,English Learner,NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,80.2,NA,NA,NA,64,NA,171,161,14.22,Race,Hispanic,NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,81.74,30172,24664,8228,78,14175,NA,NA,9.96,Economic Advantage,Economically Disadvantaged,33.36036328251703
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.54,315,260,136,0,112,NA,NA,8.57,Race,American Indian or Alaska Native,52.30769230769231
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.72,NA,NA,NA,66,NA,762,945,9.66,Race,"Black, not of Hispanic origin",NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,84.92,11668,9907,939,4,5073,NA,NA,11.03,Disability,Disabled,9.478146764913697
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.93,97100,85379,46340,789,34359,NA,NA,6.61,All,None,54.27564155120111
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.34,85432,75472,45401,785,29286,NA,0,6.01,Disability,Non-Disabled,60.156084375662495
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.66,NA,NA,NA,782,NA,NA,NA,5.88,English Learner,Non-English Learner,NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.72,66928,60715,38112,711,20184,758,953,5.11,Economic Advantage,Non-ECD,62.771967388618954
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.76,119,108,56,1,49,NA,0,5.04,Race,Native Hawaiian  or Pacific Islander,51.851851851851855
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.88,NA,NA,NA,461,NA,756,929,4.38,Race,"White, not of Hispanic origin",NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.22,NA,NA,NA,33,NA,32,39,3.03,Race,"Non-Hispanic, two or more races",NA
+2012,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.62,NA,NA,NA,164,NA,36,49,2.95,Race,Asian,NA
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,81.82,33,27,11,0,15,NA,0,15.15,English Learner,English Learner,40.74074074074074
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.38,198,175,67,0,88,NA,17,6.57,Economic Advantage,Economically Disadvantaged,38.285714285714285
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.89,45,40,29,0,11,0,0,4.44,Race,"Non-Hispanic, two or more races",72.5
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.89,81,72,46,0,24,NA,NA,7.41,Race,Hispanic,63.888888888888886
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.08,119,106,20,0,46,NA,36,8.4,Disability,Disabled,18.867924528301888
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.79,111,103,44,0,50,0,NA,6.31,Race,"Black, not of Hispanic origin",42.71844660194175
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.51,1032,965,692,0,233,NA,36,3.39,All,None,71.70984455958549
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.89,999,938,681,0,218,NA,36,3,English Learner,Non-English Learner,72.60127931769723
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.09,913,859,672,0,187,0,0,2.74,Disability,Non-Disabled,78.23050058207218
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.27,750,707,535,0,143,NA,26,2.53,Race,"White, not of Hispanic origin",75.67185289957567
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.72,834,790,625,0,145,NA,19,2.64,Economic Advantage,Non-ECD,79.11392405063292
+2013,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.56,41,40,35,0,5,0,0,0,Race,Asian,87.5
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,88.57,35,31,5,0,24,NA,NA,5.71,Economic Advantage,Economically Disadvantaged,16.129032258064516
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.86,14,13,7,0,5,0,NA,0,Race,Hispanic,53.84615384615385
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.74,235,225,161,0,55,NA,NA,1.7,Race,"White, not of Hispanic origin",71.55555555555556
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.74,235,225,176,0,49,0,0,1.7,Disability,Non-Disabled,78.22222222222223
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.93,270,259,181,0,68,NA,NA,1.48,English Learner,Non-English Learner,69.88416988416988
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.94,271,260,182,0,68,NA,NA,1.48,All,None,70
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.03,236,229,177,0,44,0,NA,0.85,Economic Advantage,Non-ECD,77.29257641921397
+2013,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.22,36,35,6,0,19,NA,NA,0,Disability,Disabled,17.142857142857142
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,80.95,21,17,7,0,10,0,0,14.29,English Learner,English Learner,41.1764705882353
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,84.21,38,32,22,0,10,0,0,10.53,Race,Hispanic,68.75
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.5,40,35,7,0,13,0,15,10,Disability,Disabled,20
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.29,84,75,34,0,33,0,NA,7.14,Economic Advantage,Economically Disadvantaged,45.333333333333336
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.47,57,51,20,0,23,0,NA,8.77,Race,"Black, not of Hispanic origin",39.21568627450981
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.01,441,419,321,0,83,0,15,3.17,All,None,76.6109785202864
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.71,420,402,314,0,73,0,15,2.62,English Learner,Non-English Learner,78.1094527363184
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.76,401,384,314,0,70,0,0,2.49,Disability,Non-Disabled,81.77083333333333
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96,25,24,20,0,4,0,0,0,Race,Asian,83.33333333333333
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.36,357,344,287,0,50,0,NA,2.24,Economic Advantage,Non-ECD,83.43023255813954
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.43,28,27,21,0,6,0,0,3.57,Race,"Non-Hispanic, two or more races",77.77777777777777
+2013,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.59,291,284,237,0,40,0,NA,1.03,Race,"White, not of Hispanic origin",83.45070422535211
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,41,41,20,0,20,0,NA,0,Race,"Black, not of Hispanic origin",48.78048780487805
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,81.82,11,9,3,0,5,NA,0,18.18,English Learner,English Learner,33.333333333333336
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,85.71,35,30,6,0,12,NA,NA,11.43,Disability,Disabled,20
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.57,70,62,28,0,27,NA,NA,7.14,Economic Advantage,Economically Disadvantaged,45.16129032258065
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.41,198,181,133,0,38,NA,NA,6.06,Race,"White, not of Hispanic origin",73.48066298342542
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.33,287,265,185,0,68,NA,NA,5.23,All,None,69.81132075471699
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.75,276,256,182,0,63,NA,NA,4.71,English Learner,Non-English Learner,71.09375
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.86,28,26,17,0,8,NA,0,7.14,Race,Hispanic,65.38461538461539
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.25,252,235,179,0,56,0,0,4.37,Disability,Non-Disabled,76.17021276595744
+2013,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.55,217,203,157,0,41,NA,NA,4.61,Economic Advantage,Non-ECD,77.33990147783251
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,70.78,NA,NA,691,4,NA,109,90,23.88,English Learner,English Learner,NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.68,NA,NA,NA,80,NA,163,156,12.24,Race,Hispanic,NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.12,30183,25087,8367,85,14598,891,NA,9.09,Economic Advantage,Economically Disadvantaged,33.351935265276836
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.48,333,278,113,5,145,10,NA,8.71,Race,American Indian or Alaska Native,40.64748201438849
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,84.16,NA,NA,NA,68,NA,662,876,8.59,Race,"Black, not of Hispanic origin",NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.81,11294,9690,1003,2,5130,NA,NA,10.32,Disability,Disabled,10.350877192982455
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.11,96238,85757,46915,880,34407,NA,NA,5.91,All,None,54.70690439264433
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.55,84944,76067,45912,878,29277,NA,0,5.32,Disability,Non-Disabled,60.35731657617627
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.89,NA,NA,NA,876,NA,NA,NA,5.14,English Learner,Non-English Learner,NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.83,120,109,65,0,41,NA,NA,3.33,Race,Native Hawaiian  or Pacific Islander,59.63302752293578
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.74,NA,NA,NA,509,NA,616,894,3.94,Race,"White, not of Hispanic origin",NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.85,66055,60670,38548,795,19809,623,896,4.45,Economic Advantage,Non-ECD,63.53716828745673
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.05,NA,NA,NA,45,NA,37,53,3.87,Race,"Non-Hispanic, two or more races",NA
+2013,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.87,NA,NA,NA,173,NA,25,57,3.22,Race,Asian,NA
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,40,40,32,0,7,0,NA,0,Race,Asian,80
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,68.42,38,26,9,0,14,0,NA,13.16,English Learner,English Learner,34.61538461538461
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,82.05,78,64,31,0,31,0,NA,10.26,Race,Hispanic,48.4375
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.06,201,177,71,0,93,NA,10,4.98,Economic Advantage,Economically Disadvantaged,40.112994350282484
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.24,119,105,46,0,51,NA,NA,4.2,Race,"Black, not of Hispanic origin",43.80952380952381
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.92,113,105,18,0,57,NA,26,5.31,Disability,Disabled,17.142857142857142
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.44,36,34,21,0,10,0,NA,0,Race,"Non-Hispanic, two or more races",61.76470588235294
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.91,1002,951,660,0,261,NA,26,2.2,All,None,69.4006309148265
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.16,889,846,642,0,204,0,0,1.8,Disability,Non-Disabled,75.88652482269504
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.95,964,925,651,0,247,NA,23,1.76,English Learner,Non-English Learner,70.37837837837837
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.63,801,774,589,0,168,NA,16,1.5,Economic Advantage,Non-ECD,76.09819121447029
+2014,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.1,725,704,529,0,159,NA,15,1.24,Race,"White, not of Hispanic origin",75.14204545454545
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,88.89,27,24,6,0,14,0,NA,3.7,Economic Advantage,Economically Disadvantaged,25
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,90,10,9,3,0,5,0,NA,0,Race,"Black, not of Hispanic origin",33.333333333333336
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,90,10,9,4,0,4,0,NA,0,Race,Hispanic,44.44444444444444
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.15,26,25,2,0,15,0,NA,3.85,Disability,Disabled,8
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.66,256,250,183,0,60,0,NA,1.17,English Learner,Non-English Learner,73.2
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.67,257,251,183,0,60,0,NA,1.17,All,None,72.90836653386454
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.84,231,226,181,0,45,0,0,0.87,Disability,Non-Disabled,80.08849557522124
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.19,221,217,165,0,47,0,NA,1.36,Race,"White, not of Hispanic origin",76.036866359447
+2014,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.7,230,227,177,0,46,0,NA,0.87,Economic Advantage,Non-ECD,77.97356828193833
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,25,25,21,0,4,0,0,0,Race,Asian,84
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,66.67,24,16,9,0,7,0,0,8.33,English Learner,English Learner,56.25
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,80,40,32,21,0,11,0,0,10,Race,Hispanic,65.625
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.29,68,58,24,0,32,NA,0,4.41,Race,"Black, not of Hispanic origin",41.37931034482759
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.32,95,82,39,0,40,NA,NA,4.21,Economic Advantage,Economically Disadvantaged,47.5609756097561
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.18,39,34,4,0,20,NA,NA,10.26,Disability,Disabled,11.764705882352942
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,17,16,10,0,4,0,NA,0,Race,"Non-Hispanic, two or more races",62.5
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.12,442,416,298,0,108,NA,NA,2.04,All,None,71.63461538461539
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.79,403,382,294,0,88,0,0,1.24,Disability,Non-Disabled,76.96335078534031
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.69,418,400,289,0,101,NA,NA,1.67,English Learner,Non-English Learner,72.25
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.25,347,334,259,0,68,NA,NA,1.44,Economic Advantage,Non-ECD,77.54491017964072
+2014,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.58,289,282,221,0,55,NA,NA,0.69,Race,"White, not of Hispanic origin",78.36879432624113
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,35,35,10,0,15,NA,NA,0,Disability,Disabled,28.571428571428573
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,69.23,13,9,0,0,7,0,NA,23.08,English Learner,English Learner,0
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,80.77,26,21,6,0,14,0,NA,15.38,Race,Hispanic,28.571428571428573
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90,10,9,7,0,2,0,0,0,Race,"Non-Hispanic, two or more races",77.77777777777777
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.41,73,66,26,0,35,NA,NA,6.85,Economic Advantage,Economically Disadvantaged,39.39393939393939
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.36,241,225,163,0,62,0,0,3.73,Disability,Non-Disabled,72.44444444444444
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.2,276,260,173,0,77,NA,NA,3.26,All,None,66.53846153846153
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.74,38,36,19,0,13,NA,NA,5.26,Race,"Black, not of Hispanic origin",52.77777777777778
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.44,263,251,173,0,70,NA,NA,2.28,English Learner,Non-English Learner,68.92430278884463
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.57,203,194,147,0,42,0,NA,1.97,Economic Advantage,Non-ECD,75.77319587628865
+2014,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.88,194,186,137,0,45,0,NA,1.55,Race,"White, not of Hispanic origin",73.65591397849462
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,69.58,NA,NA,586,5,NA,157,130,24.09,English Learner,English Learner,NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.98,NA,NA,NA,75,NA,217,192,12.21,Race,Hispanic,NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,84.37,30102,25395,8684,97,14554,917,NA,8.04,Economic Advantage,Economically Disadvantaged,34.19570781649931
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.42,NA,NA,NA,93,NA,637,811,7.57,Race,"Black, not of Hispanic origin",NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.14,11124,9693,971,2,5143,NA,NA,9.79,Disability,Disabled,10.017538429794698
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.41,302,267,129,0,129,NA,NA,6.95,Race,American Indian or Alaska Native,48.31460674157304
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.92,94739,85188,46979,972,33660,NA,NA,5.42,All,None,55.14743860637648
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.29,83615,75495,46008,970,28517,NA,0,4.84,Disability,Non-Disabled,60.9417842241208
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.7,129,117,66,1,48,0,NA,3.1,Race,Native Hawaiian  or Pacific Islander,56.41025641025641
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.78,NA,NA,NA,967,NA,NA,NA,4.63,English Learner,Non-English Learner,NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.44,NA,NA,NA,56,NA,41,57,3.69,Race,"Non-Hispanic, two or more races",NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.51,64637,59793,38295,875,19106,618,900,4.21,Economic Advantage,Non-ECD,64.04595855702172
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.53,NA,NA,NA,542,NA,608,912,3.6,Race,"White, not of Hispanic origin",NA
+2014,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.83,NA,NA,NA,205,NA,29,65,2.96,Race,Asian,NA
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,46,46,36,0,10,0,0,0,Race,Asian,78.26086956521739
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,87.02,208,181,77,0,91,NA,11,4.81,Economic Advantage,Economically Disadvantaged,42.5414364640884
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.57,105,93,38,0,45,NA,NA,1.9,Race,"Black, not of Hispanic origin",40.86021505376344
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.89,27,24,7,0,16,0,NA,11.11,English Learner,English Learner,29.166666666666668
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.16,122,110,19,0,61,NA,24,5.74,Disability,Disabled,17.272727272727273
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.79,76,69,37,0,30,NA,NA,5.26,Race,Hispanic,53.6231884057971
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.16,51,47,27,0,19,0,NA,3.92,Race,"Non-Hispanic, two or more races",57.4468085106383
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.38,996,940,646,0,264,NA,24,2.31,All,None,68.72340425531915
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.53,969,916,639,0,248,NA,23,2.06,English Learner,Non-English Learner,69.75982532751091
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.97,874,830,627,0,203,0,0,1.83,Disability,Non-Disabled,75.5421686746988
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.4,718,685,508,0,160,NA,16,2.09,Race,"White, not of Hispanic origin",74.16058394160584
+2015,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.32,788,759,569,0,173,NA,13,1.65,Economic Advantage,Non-ECD,74.96706192358366
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,12,12,10,0,2,0,0,0,Race,Asian,83.33333333333333
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,18,18,11,0,6,0,NA,0,Race,Hispanic,61.111111111111114
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,25,25,1,0,17,0,NA,0,Disability,Disabled,4
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,87.5,24,21,9,0,10,0,NA,4.17,Economic Advantage,Economically Disadvantaged,42.857142857142854
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,90.91,11,10,3,0,5,0,NA,0,Race,"Black, not of Hispanic origin",30
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.49,228,220,169,0,51,0,0,1.75,Disability,Non-Disabled,76.81818181818181
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.81,251,243,168,0,68,0,NA,1.59,English Learner,Non-English Learner,69.1358024691358
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.84,253,245,170,0,68,0,NA,1.58,All,None,69.38775510204081
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.54,203,198,141,0,53,0,NA,1.48,Race,"White, not of Hispanic origin",71.21212121212122
+2015,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.82,229,224,161,0,58,0,NA,1.31,Economic Advantage,Non-ECD,71.875
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,27,27,23,0,4,0,0,0,Race,Asian,85.18518518518519
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,81.05,95,77,31,0,39,NA,NA,6.32,Economic Advantage,Economically Disadvantaged,40.25974025974026
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,81.82,33,27,12,0,14,NA,0,9.09,Race,Hispanic,44.44444444444444
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.71,63,54,23,0,24,NA,NA,3.17,Race,"Black, not of Hispanic origin",42.592592592592595
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.27,51,44,9,0,20,NA,10,7.84,Disability,Disabled,20.454545454545453
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.5,16,14,5,0,8,0,NA,12.5,English Learner,English Learner,35.714285714285715
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.87,457,429,312,0,102,NA,10,2.41,All,None,72.72727272727273
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.1,441,415,307,0,94,NA,NA,2.04,English Learner,Non-English Learner,73.97590361445783
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.83,406,385,303,0,82,0,0,1.72,Disability,Non-Disabled,78.7012987012987
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96,25,24,13,0,11,0,0,4,Race,"Non-Hispanic, two or more races",54.166666666666664
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.12,309,297,241,0,49,0,NA,1.62,Race,"White, not of Hispanic origin",81.14478114478115
+2015,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.24,362,352,281,0,63,NA,NA,1.38,Economic Advantage,Non-ECD,79.82954545454545
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,15,15,9,0,5,0,NA,0,Race,"Non-Hispanic, two or more races",60
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.74,39,35,8,0,20,NA,NA,7.69,Disability,Disabled,22.857142857142858
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.41,179,169,122,0,42,NA,NA,3.35,Race,"White, not of Hispanic origin",72.18934911242603
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95,80,76,36,0,37,0,NA,3.75,Economic Advantage,Economically Disadvantaged,47.36842105263158
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.28,254,242,160,0,75,NA,NA,2.76,All,None,66.11570247933884
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.4,174,166,124,0,38,NA,NA,2.3,Economic Advantage,Non-ECD,74.6987951807229
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.51,245,234,160,0,67,NA,NA,2.45,English Learner,Non-English Learner,68.37606837606837
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.83,24,23,14,0,9,0,0,4.17,Race,Hispanic,60.869565217391305
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.28,215,207,152,0,55,0,0,1.86,Disability,Non-Disabled,73.42995169082126
+2015,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.67,30,29,12,0,16,0,NA,0,Race,"Black, not of Hispanic origin",41.37931034482759
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,67.75,NA,NA,455,2,NA,142,140,26.39,English Learner,English Learner,NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,84.09,NA,NA,NA,75,NA,209,197,11.69,Race,Hispanic,NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.11,29181,24834,8708,106,14020,860,NA,7.73,Economic Advantage,Economically Disadvantaged,35.064830474349684
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.32,NA,NA,NA,82,NA,596,846,6.63,Race,"Black, not of Hispanic origin",NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.88,297,261,127,1,127,NA,NA,7.74,Race,American Indian or Alaska Native,48.65900383141762
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.63,10588,9384,938,2,4928,NA,NA,8.93,Disability,Disabled,9.995737425404945
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.57,93089,84307,46885,1059,32847,NA,NA,5.22,All,None,55.61222674273785
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.82,82501,74923,45947,1057,27919,NA,0,4.74,Disability,Non-Disabled,61.32562764438156
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.48,NA,NA,NA,NA,NA,NA,NA,4.37,English Learner,Non-English Learner,NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.51,NA,NA,NA,67,NA,41,66,4.06,Race,"Non-Hispanic, two or more races",NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93,NA,NA,NA,609,NA,611,856,3.65,Race,"White, not of Hispanic origin",NA
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.06,63908,59473,38177,953,18827,623,894,4.07,Economic Advantage,Non-ECD,64.19215442301548
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.4,125,118,66,0,48,NA,NA,1.6,Race,Native Hawaiian  or Pacific Islander,55.932203389830505
+2015,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.62,NA,NA,NA,225,NA,23,63,2.71,Race,Asian,NA
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,67.74,31,21,2,0,18,NA,0,32.26,English Learner,English Learner,9.523809523809524
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,86.9,84,73,41,0,29,NA,NA,9.52,Race,Hispanic,56.16438356164384
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.72,195,173,63,0,96,NA,13,6.67,Economic Advantage,Economically Disadvantaged,36.41618497109827
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.91,44,40,28,0,11,NA,0,6.82,Race,"Non-Hispanic, two or more races",70
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.07,118,111,48,0,56,NA,NA,1.69,Race,"Black, not of Hispanic origin",43.24324324324324
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.97,935,888,679,0,209,0,0,2.78,Disability,Non-Disabled,76.46396396396396
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.2,1042,992,703,0,254,NA,31,2.69,All,None,70.86693548387096
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.04,NA,971,701,0,236,NA,31,1.78,English Learner,Non-English Learner,72.1936148300721
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.67,750,725,550,0,151,0,24,1.6,Race,"White, not of Hispanic origin",75.86206896551724
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.69,847,819,640,0,158,NA,18,1.77,Economic Advantage,Non-ECD,78.14407814407815
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.2,107,104,24,0,45,NA,31,1.87,Disability,Disabled,23.076923076923077
+2016,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.56,41,40,36,0,4,0,0,2.44,Race,Asian,90
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,6,0,4,0,0,0,Race,"Black, not of Hispanic origin",60
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,11,11,7,0,4,0,0,0,Race,"Non-Hispanic, two or more races",63.63636363636363
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,24,24,8,0,14,0,NA,0,Economic Advantage,Economically Disadvantaged,33.333333333333336
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,29,29,10,0,11,0,NA,0,Disability,Disabled,34.48275862068966
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.79,248,245,187,0,50,0,NA,0.4,Race,"White, not of Hispanic origin",76.3265306122449
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.83,257,254,204,0,50,0,0,0.39,Disability,Non-Disabled,80.31496062992126
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.85,262,259,206,0,47,0,NA,0.38,Economic Advantage,Non-ECD,79.53667953667954
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.95,286,283,214,0,61,0,NA,0.35,All,None,75.61837455830388
+2016,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.95,286,283,214,0,61,0,NA,0.35,English Learner,Non-English Learner,75.61837455830388
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,66.67,21,14,2,0,12,0,0,33.33,English Learner,English Learner,14.285714285714286
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,82.61,46,38,22,0,16,0,0,15.22,Race,Hispanic,57.89473684210526
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.65,81,71,20,0,47,0,NA,7.41,Economic Advantage,Economically Disadvantaged,28.169014084507044
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.89,18,16,10,0,5,NA,0,5.56,Race,"Non-Hispanic, two or more races",62.5
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.94,66,62,25,0,34,0,NA,3.03,Race,"Black, not of Hispanic origin",40.32258064516129
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.8,404,383,300,0,83,0,0,3.47,Disability,Non-Disabled,78.3289817232376
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.01,441,419,310,0,100,NA,NA,3.4,All,None,73.9856801909308
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.43,28,27,23,0,4,0,0,3.57,Race,Asian,85.18518518518519
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.43,420,405,308,0,88,NA,NA,1.9,English Learner,Non-English Learner,76.04938271604938
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.67,360,348,290,0,53,NA,NA,2.5,Economic Advantage,Non-ECD,83.33333333333333
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.3,37,36,10,0,17,NA,NA,2.7,Disability,Disabled,27.77777777777778
+2016,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.52,282,275,230,0,40,0,NA,1.42,Race,"White, not of Hispanic origin",83.63636363636364
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,70,10,7,0,0,6,NA,0,30,English Learner,English Learner,0
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,85.71,14,12,11,0,1,0,0,14.29,Race,"Non-Hispanic, two or more races",91.66666666666667
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.24,85,75,35,0,33,NA,NA,7.06,Economic Advantage,Economically Disadvantaged,46.666666666666664
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.66,29,26,13,0,10,NA,NA,3.45,Race,Hispanic,50
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.5,40,37,17,0,16,NA,NA,0,Race,"Black, not of Hispanic origin",45.945945945945944
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.66,259,240,173,0,67,0,0,3.47,Disability,Non-Disabled,72.08333333333333
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.76,290,269,177,0,76,NA,13,3.45,All,None,65.79925650557621
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.55,31,29,4,0,9,NA,13,3.23,Disability,Disabled,13.793103448275861
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.57,280,262,177,0,70,NA,13,2.5,English Learner,Non-English Learner,67.55725190839695
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.47,199,188,131,0,48,0,NA,2.51,Race,"White, not of Hispanic origin",69.68085106382979
+2016,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.63,205,194,142,0,43,NA,NA,1.95,Economic Advantage,Non-ECD,73.19587628865979
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,67.48,NA,NA,446,2,NA,143,149,28.27,English Learner,English Learner,NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.83,NA,NA,NA,87,NA,180,198,13.65,Race,Hispanic,NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.03,272,234,109,1,112,NA,NA,10.29,Race,American Indian or Alaska Native,46.58119658119658
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.62,29646,25976,9121,97,14821,745,NA,7.15,Economic Advantage,Economically Disadvantaged,35.11318139821373
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.99,11059,9731,943,3,5314,NA,NA,9.59,Disability,Disabled,9.690679272428321
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.42,NA,NA,NA,87,NA,550,879,6.28,Race,"Black, not of Hispanic origin",NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.6,125,112,68,3,41,0,0,7.2,Race,Native Hawaiian  or Pacific Islander,60.714285714285715
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.41,95077,86908,48232,940,34265,NA,NA,5.26,All,None,55.49776775440696
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.86,84018,77177,47289,937,28951,NA,0,4.69,Disability,Non-Disabled,61.2734363864882
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.51,NA,NA,NA,938,NA,NA,NA,4.2,English Learner,Non-English Learner,NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.8,NA,NA,NA,50,NA,42,86,4.03,Race,"Non-Hispanic, two or more races",NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.12,65431,60932,39111,843,19444,575,959,4.4,Economic Advantage,Non-ECD,64.18794721985164
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.95,NA,NA,NA,526,NA,522,913,3.38,Race,"White, not of Hispanic origin",NA
+2016,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96.52,NA,NA,NA,186,NA,23,67,2.17,Race,Asian,NA
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,46,46,34,0,11,0,NA,0,Race,Asian,73.91304347826087
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.91,53,45,8,0,36,0,NA,11.32,English Learner,English Learner,17.77777777777778
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.02,242,213,70,0,133,0,10,6.2,Economic Advantage,Economically Disadvantaged,32.863849765258216
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.66,58,52,32,0,18,0,NA,5.17,Race,"Non-Hispanic, two or more races",61.53846153846154
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.59,85,77,38,0,39,0,0,7.06,Race,Hispanic,49.35064935064935
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.63,128,116,25,0,70,0,21,8.59,Disability,Disabled,21.551724137931036
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.35,124,117,45,0,70,0,NA,1.61,Race,"Black, not of Hispanic origin",38.46153846153846
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.78,1034,980,659,0,300,0,21,2.71,All,None,67.24489795918367
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.31,981,935,651,0,264,0,20,2.24,English Learner,Non-English Learner,69.62566844919786
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.36,906,864,634,0,230,0,0,1.88,Disability,Non-Disabled,73.37962962962963
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.52,714,682,507,0,159,0,16,2.38,Race,"White, not of Hispanic origin",74.34017595307918
+2017,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.84,792,767,589,0,167,0,11,1.64,Economic Advantage,Non-ECD,76.79269882659713
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,11,11,6,0,5,0,0,0,Race,"Black, not of Hispanic origin",54.54545454545455
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,12,12,7,0,5,0,0,0,Race,Hispanic,58.333333333333336
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,85.19,27,23,7,0,11,0,NA,11.11,Economic Advantage,Economically Disadvantaged,30.434782608695652
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.31,13,12,8,0,3,0,NA,7.69,Race,"Non-Hispanic, two or more races",66.66666666666667
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.3,37,36,11,0,17,0,NA,2.7,Disability,Disabled,30.555555555555557
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.96,245,240,176,0,57,0,NA,1.63,English Learner,Non-English Learner,73.33333333333333
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.99,249,244,176,0,60,0,NA,1.61,All,None,72.1311475409836
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.05,205,201,150,0,44,0,NA,1.46,Race,"White, not of Hispanic origin",74.6268656716418
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.11,212,208,165,0,43,0,0,1.42,Disability,Non-Disabled,79.32692307692308
+2017,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.55,222,221,169,0,49,0,NA,0.45,Economic Advantage,Non-ECD,76.47058823529412
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,32,32,25,0,6,0,NA,0,Race,Asian,78.125
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.5,32,28,6,0,22,0,0,6.25,English Learner,English Learner,21.428571428571427
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88,25,22,14,0,7,0,NA,4,Race,"Non-Hispanic, two or more races",63.63636363636363
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.65,107,97,28,0,67,0,NA,2.8,Economic Advantage,Economically Disadvantaged,28.8659793814433
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.04,67,61,16,0,44,0,NA,1.49,Race,"Black, not of Hispanic origin",26.229508196721312
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.62,47,44,7,0,30,0,NA,4.26,Disability,Disabled,15.909090909090908
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.56,45,43,24,0,19,0,0,4.44,Race,Hispanic,55.81395348837209
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.66,461,441,307,0,127,0,NA,1.52,All,None,69.61451247165533
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.89,414,397,300,0,97,0,0,1.21,Disability,Non-Disabled,75.56675062972292
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.27,429,413,301,0,105,0,NA,1.17,English Learner,Non-English Learner,72.88135593220339
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.89,289,280,226,0,50,0,NA,1.04,Race,"White, not of Hispanic origin",80.71428571428571
+2017,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.18,354,344,279,0,60,0,NA,1.13,Economic Advantage,Non-ECD,81.1046511627907
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,76.47,17,13,2,0,11,0,0,23.53,English Learner,English Learner,15.384615384615385
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,78.57,28,22,7,0,15,0,0,14.29,Race,Hispanic,31.818181818181817
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,81.08,37,30,7,0,17,0,NA,18.92,Disability,Disabled,23.333333333333332
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,86.27,102,88,35,0,50,0,NA,7.84,Economic Advantage,Economically Disadvantaged,39.77272727272727
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.89,18,16,10,0,6,0,0,5.56,Race,"Non-Hispanic, two or more races",62.5
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.69,301,276,173,0,97,0,NA,4.98,All,None,62.68115942028985
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.46,199,184,128,0,51,0,NA,4.52,Race,"White, not of Hispanic origin",69.56521739130434
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.61,284,263,171,0,86,0,NA,3.87,English Learner,Non-English Learner,65.0190114068441
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.18,264,246,166,0,80,0,0,3.03,Disability,Non-Disabled,67.47967479674797
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.47,199,188,138,0,47,0,NA,3.52,Economic Advantage,Non-ECD,73.40425531914893
+2017,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,97.83,46,45,23,0,21,0,NA,2.17,Race,"Black, not of Hispanic origin",51.111111111111114
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,73.92,NA,NA,NA,20,NA,38,227,23.49,English Learner,English Learner,NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,81.32,NA,NA,NA,105,NA,36,255,15.86,Race,Hispanic,NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.56,31155,26967,9473,116,15795,73,NA,8.41,Economic Advantage,Economically Disadvantaged,35.128119553528386
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.21,11163,9735,1019,3,6018,140,NA,10.36,Disability,Disabled,10.46738572162301
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.18,296,261,120,3,127,NA,10,9.12,Race,American Indian or Alaska Native,45.97701149425287
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.42,NA,NA,NA,93,NA,56,NA,6.75,Race,"Black, not of Hispanic origin",NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.19,95235,86848,48693,1080,34380,140,NA,5.74,All,None,56.066921518054535
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.72,84072,77113,47674,1077,28362,0,0,5.12,Disability,Non-Disabled,61.823557636196234
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.53,NA,NA,NA,NA,NA,102,NA,4.36,English Learner,Non-English Learner,NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.63,NA,NA,NA,56,NA,NA,90,4.11,Race,"Non-Hispanic, two or more races",NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.45,64080,59881,39220,964,18585,67,NA,4.43,Economic Advantage,Non-ECD,65.49656819358394
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.03,NA,NA,NA,609,NA,39,NA,3.39,Race,"White, not of Hispanic origin",NA
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.85,136,129,62,0,63,0,NA,2.94,Race,Native Hawaiian  or Pacific Islander,48.06201550387597
+2017,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96.9,NA,NA,NA,214,NA,NA,76,1.93,Race,Asian,NA
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,76.03,121,92,46,0,40,0,NA,17.36,Race,Hispanic,50
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,78.65,89,70,27,0,39,0,NA,19.1,English Learner,English Learner,38.57142857142857
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.25,273,230,93,0,121,0,16,10.62,Economic Advantage,Economically Disadvantaged,40.43478260869565
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.52,124,111,34,0,70,0,NA,8.87,Race,"Black, not of Hispanic origin",30.63063063063063
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.83,59,53,32,0,21,0,0,6.78,Race,"Non-Hispanic, two or more races",60.37735849056604
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.43,115,104,15,0,63,0,26,9.57,Disability,Disabled,14.423076923076923
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.74,1130,1048,716,0,306,0,26,5.04,All,None,68.3206106870229
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93,1015,944,701,0,243,0,0,4.53,Disability,Non-Disabled,74.25847457627118
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.95,NA,978,689,0,267,0,22,3.84,English Learner,Non-English Learner,70.44989775051124
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.44,54,51,44,0,7,0,0,1.85,Race,Asian,86.27450980392157
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.45,857,818,623,0,185,0,10,3.27,Economic Advantage,Non-ECD,76.16136919315403
+2018,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.08,766,736,557,0,166,0,13,2.48,Race,"White, not of Hispanic origin",75.67934782608695
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Hispanic,NA
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,6,0,4,0,0,0,Race,"Non-Hispanic, two or more races",60
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,17,17,1,0,11,0,NA,0,Disability,Disabled,5.882352941176471
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,93.1,29,27,10,0,15,0,NA,3.45,Economic Advantage,Economically Disadvantaged,37.03703703703704
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.13,268,263,210,0,53,0,0,1.12,Disability,Non-Disabled,79.84790874524715
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.23,282,277,210,0,62,0,NA,1.06,English Learner,Non-English Learner,75.81227436823104
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.25,285,280,211,0,64,0,NA,1.05,All,None,75.35714285714286
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.43,255,251,195,0,51,0,NA,1.18,Race,"White, not of Hispanic origin",77.68924302788845
+2018,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.83,256,253,201,0,49,0,NA,0.78,Economic Advantage,Non-ECD,79.44664031620553
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,69.64,56,39,20,0,18,0,NA,25,Race,Hispanic,51.282051282051285
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,81.13,53,43,16,0,26,0,NA,18.87,English Learner,English Learner,37.2093023255814
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,85.51,138,118,50,0,62,0,NA,12.32,Economic Advantage,Economically Disadvantaged,42.3728813559322
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.91,77,70,21,0,44,0,NA,7.79,Race,"Black, not of Hispanic origin",30
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92,50,46,9,0,28,0,NA,8,Disability,Disabled,19.565217391304348
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.06,522,491,337,0,145,0,NA,5.17,All,None,68.63543788187373
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.28,472,445,328,0,117,0,0,4.87,Disability,Non-Disabled,73.70786516853933
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.52,469,448,321,0,119,0,NA,3.62,English Learner,Non-English Learner,71.65178571428571
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.3,27,26,14,0,12,0,0,3.7,Race,"Non-Hispanic, two or more races",53.84615384615385
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.14,384,373,287,0,83,0,NA,2.6,Economic Advantage,Non-ECD,76.94369973190348
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.5,40,39,33,0,6,0,0,2.5,Race,Asian,84.61538461538461
+2018,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,98.75,319,315,248,0,64,0,NA,1.25,Race,"White, not of Hispanic origin",78.73015873015873
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,71.88,32,23,10,0,10,0,NA,21.88,English Learner,English Learner,43.47826086956522
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,77.78,54,42,22,0,16,0,NA,12.96,Race,Hispanic,52.38095238095238
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,80.95,21,17,12,0,5,0,0,14.29,Race,"Non-Hispanic, two or more races",70.58823529411765
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,82.47,97,80,33,0,40,0,NA,11.34,Economic Advantage,Economically Disadvantaged,41.25
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.21,38,32,5,0,19,0,NA,15.79,Disability,Disabled,15.625
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,86.49,37,32,11,0,20,0,NA,10.81,Race,"Black, not of Hispanic origin",34.375
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.46,287,251,165,0,78,0,NA,8.36,All,None,65.73705179282868
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.95,249,219,160,0,59,0,0,7.23,Disability,Non-Disabled,73.05936073059361
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.41,255,228,155,0,68,0,NA,6.67,English Learner,Non-English Learner,67.98245614035088
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90,190,171,132,0,38,0,NA,6.84,Economic Advantage,Non-ECD,77.19298245614036
+2018,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.52,165,151,111,0,37,0,NA,6.06,Race,"White, not of Hispanic origin",73.50993377483444
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.6,NA,NA,NA,10,NA,NA,262,24.48,English Learner,English Learner,NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,80.92,NA,NA,NA,113,NA,NA,312,15.91,Race,Hispanic,NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.67,33889,29711,10576,127,17325,23,NA,7.76,Economic Advantage,Economically Disadvantaged,35.5962438154219
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.19,11657,10280,1047,6,6485,36,NA,9.49,Disability,Disabled,10.184824902723735
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.22,314,277,137,7,124,0,NA,8.6,Race,American Indian or Alaska Native,49.458483754512635
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.59,NA,NA,NA,114,NA,10,NA,6.05,Race,"Black, not of Hispanic origin",NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.63,97908,89712,49892,1088,35990,36,NA,5.49,All,None,55.61351881576601
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.09,86251,79432,48845,1082,29505,0,0,4.95,Disability,Non-Disabled,61.49284922952966
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.21,NA,NA,NA,NA,NA,30,NA,3.92,English Learner,Non-English Learner,NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.38,NA,NA,NA,62,NA,0,86,3.65,Race,"Non-Hispanic, two or more races",NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.72,64019,60001,39316,961,18665,13,NA,4.29,Economic Advantage,Non-ECD,65.5255745737571
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.08,152,143,79,3,60,0,NA,1.32,Race,Native Hawaiian  or Pacific Islander,55.24475524475525
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.5,NA,NA,NA,565,NA,19,NA,3.12,Race,"White, not of Hispanic origin",NA
+2018,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,97.73,NA,NA,NA,224,NA,NA,70,1.41,Race,Asian,NA
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,51,51,44,0,5,0,NA,0,Race,Asian,86.27450980392157
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,76.47,68,52,22,0,30,0,0,23.53,English Learner,English Learner,42.30769230769231
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,80.33,122,98,48,0,47,0,NA,18.03,Race,Hispanic,48.97959183673469
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.46,260,230,88,0,128,NA,13,8.46,Economic Advantage,Economically Disadvantaged,38.26086956521739
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.52,116,105,37,0,63,0,NA,6.9,Race,"Black, not of Hispanic origin",35.23809523809524
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.77,130,118,20,0,72,NA,25,7.69,Disability,Disabled,16.949152542372882
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.36,1082,1021,693,0,302,NA,25,4.07,All,None,67.87463271302644
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.85,952,903,673,0,230,0,0,3.57,Disability,Non-Disabled,74.52934662236987
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.56,NA,969,671,0,272,NA,25,2.76,English Learner,Non-English Learner,69.24664602683178
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.23,822,791,605,0,174,0,12,2.68,Economic Advantage,Non-ECD,76.48546144121366
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.64,744,719,530,0,174,NA,14,1.75,Race,"White, not of Hispanic origin",73.7134909596662
+2019,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.87,47,46,33,0,12,0,NA,2.13,Race,"Non-Hispanic, two or more races",71.73913043478261
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,8,0,2,0,0,0,Race,"Non-Hispanic, two or more races",80
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,30,30,12,0,13,0,NA,0,Economic Advantage,Economically Disadvantaged,40
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.31,13,12,4,0,7,0,NA,7.69,Race,Hispanic,33.333333333333336
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.86,28,26,5,0,14,0,NA,3.57,Disability,Disabled,19.23076923076923
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.94,243,238,191,0,45,0,NA,0.82,Economic Advantage,Non-ECD,80.25210084033614
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.17,273,268,203,0,58,0,NA,0.73,All,None,75.74626865671642
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.3,235,231,181,0,44,0,NA,0.43,Race,"White, not of Hispanic origin",78.35497835497836
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.51,268,264,202,0,55,0,NA,0.37,English Learner,Non-English Learner,76.51515151515152
+2019,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.78,245,242,198,0,44,0,0,0.41,Disability,Non-Disabled,81.81818181818181
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,37,37,32,0,3,0,NA,0,Race,Asian,86.48648648648648
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,74.42,43,32,17,0,15,0,0,25.58,English Learner,English Learner,53.125
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,76.92,65,50,30,0,19,0,NA,21.54,Race,Hispanic,60
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,84.5,129,109,43,0,65,0,NA,13.95,Economic Advantage,Economically Disadvantaged,39.44954128440367
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.49,74,64,18,0,44,0,NA,9.46,Race,"Black, not of Hispanic origin",28.125
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.54,52,45,9,0,27,0,NA,13.46,Disability,Disabled,20
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.71,480,445,308,0,128,0,NA,5.83,All,None,69.21348314606742
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.46,428,400,299,0,101,0,0,4.91,Disability,Non-Disabled,74.75
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.51,437,413,291,0,113,0,NA,3.89,English Learner,Non-English Learner,70.46004842615012
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.73,351,336,265,0,63,0,NA,2.85,Economic Advantage,Non-ECD,78.86904761904762
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.83,24,23,15,0,7,0,NA,4.17,Race,"Non-Hispanic, two or more races",65.21739130434783
+2019,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.79,280,271,213,0,55,0,NA,2.14,Race,"White, not of Hispanic origin",78.59778597785977
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,12,12,10,0,2,0,0,0,Race,"Non-Hispanic, two or more races",83.33333333333333
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,80,20,16,4,0,12,0,0,20,English Learner,English Learner,25
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,82.93,41,34,14,0,19,0,NA,14.63,Race,Hispanic,41.1764705882353
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.22,90,83,32,0,43,NA,NA,4.44,Economic Advantage,Economically Disadvantaged,38.55421686746988
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.51,255,241,172,0,69,0,0,4.71,Disability,Non-Disabled,71.36929460580913
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.59,296,280,178,0,92,NA,NA,4.39,All,None,63.57142857142857
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.12,41,39,6,0,23,NA,NA,2.44,Disability,Disabled,15.384615384615385
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.63,206,197,146,0,49,0,NA,4.37,Economic Advantage,Non-ECD,74.11167512690355
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.65,276,264,174,0,80,NA,NA,3.26,English Learner,Non-English Learner,65.9090909090909
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.06,203,195,132,0,57,NA,NA,2.96,Race,"White, not of Hispanic origin",67.6923076923077
+2019,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,97.14,35,34,18,0,13,0,NA,2.86,Race,"Black, not of Hispanic origin",52.94117647058823
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,70.98,NA,NA,NA,11,NA,0,306,25.65,English Learner,English Learner,NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,80.08,NA,NA,NA,91,NA,0,355,16.42,Race,Hispanic,NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.22,34969,30501,10602,100,18154,NA,NA,8.13,Economic Advantage,Economically Disadvantaged,34.759516081439955
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.62,11920,10563,1132,3,6697,NA,NA,8.97,Disability,Disabled,10.716652466155448
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,88.67,256,227,112,1,111,0,NA,6.64,Race,American Indian or Alaska Native,49.33920704845815
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.72,NA,NA,NA,54,NA,NA,NA,6.14,Race,"Black, not of Hispanic origin",NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.53,98367,90036,49779,937,36589,NA,NA,5.55,All,None,55.28788484606157
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.93,86447,79473,48647,934,29892,0,0,5.08,Disability,Non-Disabled,61.211983944232635
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.35,NA,NA,NA,926,NA,NA,NA,3.77,English Learner,Non-English Learner,NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.91,63398,59535,39177,837,18435,NA,NA,4.12,Economic Advantage,Non-ECD,65.80498866213152
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.05,NA,NA,NA,62,NA,0,110,2.94,Race,"Non-Hispanic, two or more races",NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.2,138,130,83,0,41,0,NA,2.17,Race,Native Hawaiian  or Pacific Islander,63.84615384615385
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.69,NA,NA,NA,521,NA,NA,NA,2.84,Race,"White, not of Hispanic origin",NA
+2019,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,97.43,NA,NA,NA,208,NA,0,95,1.66,Race,Asian,NA
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,64.77,88,57,17,0,40,0,0,35.23,English Learner,English Learner,29.82456140350877
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,77.69,130,101,46,0,55,0,0,20,Race,Hispanic,45.54455445544554
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.46,52,46,37,0,8,0,NA,9.62,Race,Asian,80.43478260869566
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.69,283,251,86,0,161,0,NA,6.71,Economic Advantage,Economically Disadvantaged,34.26294820717131
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.84,128,115,13,0,93,0,NA,7.03,Disability,Disabled,11.304347826086957
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.55,1085,1015,677,0,329,0,NA,4.42,All,None,66.69950738916256
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.04,957,900,664,0,236,0,0,4.08,Disability,Non-Disabled,73.77777777777777
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.08,61,58,35,0,22,0,NA,3.28,Race,"Non-Hispanic, two or more races",60.3448275862069
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.26,802,764,591,0,168,0,NA,3.62,Economic Advantage,Non-ECD,77.35602094240838
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.04,733,704,529,0,170,0,NA,1.91,Race,"White, not of Hispanic origin",75.14204545454545
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.09,997,958,660,0,289,0,NA,1.71,English Learner,Non-English Learner,68.89352818371607
+2020,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.25,109,106,30,0,74,0,NA,0.92,Race,"Black, not of Hispanic origin",28.30188679245283
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,11,11,7,0,4,0,0,0,Race,Hispanic,63.63636363636363
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,13,13,8,0,4,0,NA,0,Race,"Non-Hispanic, two or more races",61.53846153846154
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.43,28,27,5,0,18,0,NA,0,Disability,Disabled,18.51851851851852
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.37,38,37,16,0,19,0,NA,0,Economic Advantage,Economically Disadvantaged,43.24324324324324
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.96,288,285,223,0,58,0,NA,0,All,None,78.24561403508773
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.96,288,285,223,0,58,0,NA,0,English Learner,Non-English Learner,78.24561403508773
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.2,250,248,207,0,39,0,NA,0,Economic Advantage,Non-ECD,83.46774193548387
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.22,256,254,204,0,47,0,NA,0,Race,"White, not of Hispanic origin",80.31496062992126
+2020,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.23,260,258,218,0,40,0,0,0,Disability,Non-Disabled,84.49612403100775
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,61.76,68,42,13,0,29,0,0,38.24,English Learner,English Learner,30.952380952380953
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,75.68,74,56,25,0,31,0,0,24.32,Race,Hispanic,44.642857142857146
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,87.76,147,129,46,0,81,0,NA,8.16,Economic Advantage,Economically Disadvantaged,35.65891472868217
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.37,43,38,30,0,7,0,NA,11.63,Race,Asian,78.94736842105263
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.57,53,48,4,0,39,0,NA,7.55,Disability,Disabled,8.333333333333334
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.99,487,448,292,0,151,0,NA,6.37,All,None,65.17857142857143
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.17,434,400,288,0,112,0,0,6.22,Disability,Non-Disabled,72
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.75,32,30,19,0,11,0,0,3.13,Race,"Non-Hispanic, two or more races",63.333333333333336
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.82,340,319,246,0,70,0,NA,5.59,Economic Advantage,Non-ECD,77.11598746081505
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.85,265,254,199,0,53,0,NA,2.26,Race,"White, not of Hispanic origin",78.34645669291339
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.89,73,70,19,0,49,0,NA,1.37,Race,"Black, not of Hispanic origin",27.142857142857142
+2020,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.9,419,406,279,0,122,0,NA,1.19,English Learner,Non-English Learner,68.7192118226601
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,29,29,8,0,21,0,0,0,Race,"Black, not of Hispanic origin",27.586206896551722
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,74.42,43,32,14,0,18,0,0,18.6,Race,Hispanic,43.75
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,75,20,15,4,0,11,0,0,25,English Learner,English Learner,26.666666666666668
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.21,38,32,4,0,28,0,0,10.53,Disability,Disabled,12.5
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,86.17,94,81,24,0,57,0,0,7.45,Economic Advantage,Economically Disadvantaged,29.62962962962963
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.66,289,262,159,0,103,0,0,5.54,All,None,60.68702290076336
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.63,251,230,155,0,75,0,0,4.78,Disability,Non-Disabled,67.3913043478261
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.82,269,247,155,0,92,0,0,4.09,English Learner,Non-English Learner,62.75303643724696
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.42,198,183,124,0,59,0,0,3.54,Race,"White, not of Hispanic origin",67.75956284153006
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.82,195,181,135,0,46,0,0,4.62,Economic Advantage,Non-ECD,74.58563535911603
+2020,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.86,14,13,8,0,5,0,0,7.14,Race,"Non-Hispanic, two or more races",61.53846153846154
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.93,NA,NA,NA,10,NA,0,241,25.53,English Learner,English Learner,NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,81.96,NA,NA,NA,98,NA,0,285,15.81,Race,Hispanic,NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.17,36532,32576,11514,136,19509,NA,NA,6.82,Economic Advantage,Economically Disadvantaged,35.345039292730846
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.45,12114,10957,1172,2,7378,NA,NA,7.52,Disability,Disabled,10.696358492288034
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,91.38,NA,NA,NA,76,NA,NA,897,4.98,Race,"Black, not of Hispanic origin",NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.37,262,242,127,1,109,0,NA,4.58,Race,American Indian or Alaska Native,52.47933884297521
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.48,98431,91030,50032,1013,37580,NA,NA,5.11,All,None,54.962100406459406
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.77,86317,80073,48860,1011,30202,0,0,4.78,Disability,Non-Disabled,61.01931987061806
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.3,NA,NA,NA,52,NA,0,102,2.89,Race,"Non-Hispanic, two or more races",NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.32,NA,NA,NA,NA,NA,NA,NA,3.19,English Learner,Non-English Learner,NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.43,61899,58454,38518,877,18071,NA,983,4.11,Economic Advantage,Non-ECD,65.89454956033805
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.43,NA,NA,NA,543,NA,NA,NA,2.44,Race,"White, not of Hispanic origin",NA
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96.58,146,141,77,3,54,0,NA,1.37,Race,Native Hawaiian  or Pacific Islander,54.60992907801418
+2020,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,98.12,NA,NA,NA,240,NA,0,97,1.22,Race,Asian,NA
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,68,68,59,0,9,0,0,0,Race,Asian,86.76470588235294
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.62,65,55,11,0,43,0,NA,15.38,English Learner,English Learner,20
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,88.64,132,117,48,0,67,0,NA,10.61,Race,Hispanic,41.02564102564103
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,91.59,309,283,110,0,160,0,13,6.8,Economic Advantage,Economically Disadvantaged,38.869257950530034
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.83,58,55,34,0,21,0,0,1.72,Race,"Non-Hispanic, two or more races",61.81818181818182
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.54,157,150,23,0,109,0,18,4.46,Disability,Disabled,15.333333333333334
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.9,122,117,47,0,65,0,NA,3.28,Race,"Black, not of Hispanic origin",40.17094017094017
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.4,1084,1045,698,0,329,0,18,2.95,All,None,66.79425837320574
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.55,927,895,675,0,220,0,0,2.7,Disability,Non-Disabled,75.41899441340782
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.15,NA,990,687,0,286,0,17,2.16,English Learner,Non-English Learner,69.39393939393939
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.73,704,688,510,0,167,0,11,1.85,Race,"White, not of Hispanic origin",74.12790697674419
+2021,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,98.32,775,762,588,0,169,0,NA,1.42,Economic Advantage,Non-ECD,77.16535433070867
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,9,0,1,0,0,0,Race,Asian,90
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,16,16,9,0,7,0,0,0,Race,Hispanic,56.25
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,38,38,6,0,29,0,NA,0,Disability,Disabled,15.789473684210526
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,94.74,38,36,11,0,23,0,NA,2.63,Economic Advantage,Economically Disadvantaged,30.555555555555557
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.84,259,256,210,0,46,0,0,0.77,Disability,Non-Disabled,82.03125
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.85,260,257,190,0,64,0,NA,0.77,Race,"White, not of Hispanic origin",73.92996108949416
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.98,294,291,215,0,73,0,NA,0.68,English Learner,Non-English Learner,73.88316151202748
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.99,297,294,216,0,75,0,NA,0.67,All,None,73.46938775510205
+2021,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,99.61,259,258,205,0,52,0,NA,0.39,Economic Advantage,Non-ECD,79.45736434108527
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,49,49,44,0,5,0,0,0,Race,Asian,89.79591836734694
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,81.82,44,36,6,0,30,0,0,18.18,English Learner,English Learner,16.666666666666668
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,86.96,69,60,24,0,36,0,0,13.04,Race,Hispanic,40
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90,60,54,8,0,40,0,NA,10,Disability,Disabled,14.814814814814815
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.45,168,157,72,0,80,0,NA,5.36,Economic Advantage,Economically Disadvantaged,45.859872611464965
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.65,23,22,11,0,11,0,0,4.35,Race,"Non-Hispanic, two or more races",50
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.77,71,68,25,0,41,0,NA,4.23,Race,"Black, not of Hispanic origin",36.76470588235294
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.13,491,472,319,0,147,0,NA,3.46,All,None,67.58474576271186
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.98,431,418,311,0,107,0,0,2.55,Disability,Non-Disabled,74.40191387559808
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.52,323,315,247,0,67,0,NA,2.48,Economic Advantage,Non-ECD,78.41269841269842
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.54,447,436,313,0,117,0,NA,2.01,English Learner,Non-English Learner,71.78899082568807
+2021,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.85,279,273,215,0,54,0,NA,1.43,Race,"White, not of Hispanic origin",78.75457875457876
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.5,96,84,26,0,52,0,NA,10.42,Economic Advantage,Economically Disadvantaged,30.952380952380953
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.89,18,16,4,0,11,0,NA,11.11,English Learner,English Learner,25
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,89.13,46,41,15,0,24,0,NA,10.87,Race,Hispanic,36.58536585365854
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.1,29,27,18,0,9,0,0,0,Race,"Non-Hispanic, two or more races",66.66666666666667
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.91,230,216,153,0,63,0,0,4.78,Disability,Non-Disabled,70.83333333333333
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.72,284,269,159,0,101,0,NA,4.23,All,None,59.10780669144982
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.11,266,253,155,0,90,0,NA,3.76,English Learner,Non-English Learner,61.26482213438735
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.65,46,44,19,0,22,0,NA,2.17,Race,"Black, not of Hispanic origin",43.18181818181818
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.13,155,149,101,0,44,0,NA,3.87,Race,"White, not of Hispanic origin",67.78523489932886
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,98.15,54,53,6,0,38,0,NA,1.85,Disability,Disabled,11.320754716981131
+2021,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,98.4,188,185,133,0,49,0,NA,1.06,Economic Advantage,Non-ECD,71.89189189189189
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,77.23,NA,NA,NA,5,NA,0,208,21.19,English Learner,English Learner,NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,85.17,NA,NA,NA,82,NA,NA,240,12.19,Race,Hispanic,NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.28,36224,32340,11706,114,19248,NA,NA,5.98,Economic Advantage,Economically Disadvantaged,36.19666048237477
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.73,11894,10791,1330,2,7339,NA,NA,7.26,Disability,Disabled,12.325085719581132
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.92,NA,NA,NA,61,NA,NA,772,4.79,Race,"Black, not of Hispanic origin",NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93,97171,90367,50332,925,36990,NA,NA,4.27,All,None,55.69732313787112
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.07,231,215,102,1,103,0,NA,5.19,Race,American Indian or Alaska Native,47.44186046511628
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.31,85277,79576,49002,923,29651,0,0,3.85,Disability,Non-Disabled,61.57886800040213
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.27,NA,NA,NA,920,NA,NA,NA,2.91,English Learner,Non-English Learner,NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.1,NA,NA,NA,68,NA,0,101,2.3,Race,"Non-Hispanic, two or more races",NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.21,60947,58027,38626,811,17742,NA,847,3.25,Economic Advantage,Non-ECD,66.56556430627121
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.32,NA,NA,NA,470,NA,NA,917,2.27,Race,"White, not of Hispanic origin",NA
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96.47,170,164,107,6,51,0,0,1.76,Race,Native Hawaiian  or Pacific Islander,65.2439024390244
+2021,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,98.46,NA,NA,NA,237,NA,0,76,0.89,Race,Asian,NA
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,100,48,48,41,0,6,0,NA,0,Race,Asian,85.41666666666667
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,74.12,85,63,14,0,48,0,NA,24.71,English Learner,English Learner,22.22222222222222
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,83.78,148,124,54,0,69,0,NA,14.19,Race,Hispanic,43.54838709677419
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.27,261,233,82,0,144,0,NA,6.9,Economic Advantage,Economically Disadvantaged,35.1931330472103
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,90.27,113,102,43,0,56,0,NA,7.08,Race,"Black, not of Hispanic origin",42.15686274509804
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.36,144,133,37,0,79,0,17,4.86,Disability,Disabled,27.81954887218045
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.3,1087,1025,701,0,307,0,17,3.86,All,None,68.39024390243902
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.59,943,892,664,0,228,0,0,3.71,Disability,Non-Disabled,74.43946188340807
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.38,65,62,38,0,23,0,NA,1.54,Race,"Non-Hispanic, two or more races",61.29032258064516
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.88,826,792,619,0,163,0,10,2.91,Economic Advantage,Non-ECD,78.15656565656566
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.01,NA,962,687,0,259,0,16,2.1,English Learner,Non-English Learner,71.41372141372142
+2022,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,96.62,711,687,524,0,152,0,11,1.69,Race,"White, not of Hispanic origin",76.27365356622998
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,10,10,7,0,3,0,0,0,Race,"Non-Hispanic, two or more races",70
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,88.89,36,32,14,0,15,0,NA,0,Disability,Disabled,43.75
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.5,40,37,12,0,24,0,NA,2.5,Economic Advantage,Economically Disadvantaged,32.432432432432435
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.86,14,13,8,0,5,0,0,7.14,Race,Hispanic,61.53846153846154
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.9,258,250,204,0,43,0,NA,0.39,Race,"White, not of Hispanic origin",81.6
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.96,296,287,231,0,53,0,NA,0.68,All,None,80.48780487804878
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.61,293,286,231,0,52,0,NA,0.34,English Learner,Non-English Learner,80.76923076923077
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.66,256,250,219,0,29,0,NA,0.39,Economic Advantage,Non-ECD,87.6
+2022,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.08,260,255,217,0,38,0,0,0.77,Disability,Non-Disabled,85.09803921568627
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,33,33,18,0,14,0,NA,0,Race,"Non-Hispanic, two or more races",54.54545454545455
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,35,35,31,0,4,0,0,0,Race,Asian,88.57142857142857
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,74.14,58,43,10,0,33,0,0,25.86,English Learner,English Learner,23.25581395348837
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,81.58,76,62,22,0,40,0,0,15.79,Race,Hispanic,35.483870967741936
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.16,76,67,26,0,39,0,NA,9.21,Race,"Black, not of Hispanic origin",38.80597014925373
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.51,143,128,48,0,77,0,NA,6.99,Economic Advantage,Economically Disadvantaged,37.5
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.81,420,394,283,0,111,0,0,4.76,Disability,Non-Disabled,71.8274111675127
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.97,481,452,295,0,150,0,NA,4.78,All,None,65.26548672566372
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.08,61,58,12,0,39,0,NA,4.92,Disability,Disabled,20.689655172413794
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.86,338,324,247,0,73,0,NA,3.85,Economic Advantage,Non-ECD,76.23456790123457
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.69,423,409,285,0,117,0,NA,1.89,English Learner,Non-English Learner,69.68215158924205
+2022,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.69,260,254,197,0,53,0,NA,1.54,Race,"White, not of Hispanic origin",77.55905511811024
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,79.17,24,19,4,0,14,0,NA,20.83,English Learner,English Learner,21.05263157894737
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.21,57,48,23,0,24,0,NA,14.04,Race,Hispanic,47.916666666666664
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,87.18,78,68,22,0,43,0,NA,8.97,Economic Advantage,Economically Disadvantaged,32.35294117647059
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.48,21,19,13,0,6,0,0,4.76,Race,"Non-Hispanic, two or more races",68.42105263157895
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.7,43,39,11,0,21,0,NA,9.3,Disability,Disabled,28.205128205128204
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.54,295,273,173,0,93,0,NA,5.76,All,None,63.36996336996337
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.86,252,234,162,0,72,0,0,5.16,Disability,Non-Disabled,69.23076923076923
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.33,30,28,11,0,16,0,NA,3.33,Race,"Black, not of Hispanic origin",39.285714285714285
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,93.73,271,254,169,0,79,0,NA,4.43,English Learner,Non-English Learner,66.53543307086615
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.47,217,205,151,0,50,0,NA,4.61,Economic Advantage,Non-ECD,73.65853658536585
+2022,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95,180,171,122,0,45,0,NA,3.89,Race,"White, not of Hispanic origin",71.34502923976608
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.72,NA,NA,NA,23,NA,NA,263,24.45,English Learner,English Learner,NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,83.18,NA,NA,NA,106,NA,0,291,13.85,Race,Hispanic,NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,86.34,205,177,96,3,75,0,NA,9.76,Race,American Indian or Alaska Native,54.23728813559322
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.74,37322,32748,12129,119,19246,0,NA,7.66,Economic Advantage,Economically Disadvantaged,37.037376328325394
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.02,12341,11109,1546,7,7410,NA,NA,7.78,Disability,Disabled,13.916644162390854
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.31,NA,NA,NA,70,NA,0,770,5.46,Race,"Black, not of Hispanic origin",NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.16,98723,90988,51277,890,36675,NA,NA,5.16,All,None,56.35578318019959
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.47,86382,79879,49731,883,29265,0,0,4.78,Disability,Non-Disabled,62.25791509658358
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.68,NA,NA,NA,63,NA,0,107,3.68,Race,"Non-Hispanic, two or more races",NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.79,NA,NA,NA,867,NA,0,NA,3.55,English Learner,Non-English Learner,NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.85,61401,58240,39148,771,17429,NA,891,3.64,Economic Advantage,Non-ECD,67.2184065934066
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.94,NA,NA,NA,435,NA,0,888,2.84,Race,"White, not of Hispanic origin",NA
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96,150,144,85,3,51,0,NA,3.33,Race,Native Hawaiian  or Pacific Islander,59.02777777777778
+2022,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,98.2,NA,NA,NA,210,NA,NA,81,1.12,Race,Asian,NA
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,75.58,86,65,18,0,44,0,NA,23.26,English Learner,English Learner,27.692307692307693
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.21,152,128,55,0,71,0,NA,15.79,Race,Hispanic,42.96875
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.39,132,118,28,0,72,0,18,4.55,Disability,Disabled,23.728813559322035
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.97,299,269,108,0,154,0,NA,8.03,Economic Advantage,Economically Disadvantaged,40.14869888475837
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,92.31,130,120,54,0,62,0,NA,4.62,Race,"Black, not of Hispanic origin",45
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.98,1130,1062,720,1,323,0,18,4.16,All,None,67.79661016949153
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.59,998,944,692,1,251,0,0,4.11,Disability,Non-Disabled,73.30508474576271
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.43,831,793,612,1,169,0,11,2.77,Economic Advantage,Non-ECD,77.17528373266079
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.5,NA,997,702,1,279,0,15,2.59,English Learner,Non-English Learner,70.41123370110331
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.63,709,678,518,0,152,0,NA,2.26,Race,"White, not of Hispanic origin",76.40117994100295
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,97.18,71,69,44,0,23,0,NA,1.41,Race,"Non-Hispanic, two or more races",63.768115942028984
+2023,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,98.46,65,64,48,1,14,0,NA,0,Race,Asian,75
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,12,12,11,0,0,0,NA,0,Race,Asian,91.66666666666667
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,13,13,7,0,5,0,NA,0,Race,"Non-Hispanic, two or more races",53.84615384615385
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,100,24,24,13,0,10,0,NA,0,Race,Hispanic,54.166666666666664
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,86.67,30,26,8,0,12,0,NA,10,Disability,Disabled,30.76923076923077
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,92.86,28,26,10,0,13,0,NA,7.14,Economic Advantage,Economically Disadvantaged,38.46153846153846
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.05,228,219,176,0,40,0,NA,2.63,Race,"White, not of Hispanic origin",80.36529680365297
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.76,278,269,209,0,56,0,NA,2.16,English Learner,Non-English Learner,77.69516728624535
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.8,281,272,210,0,56,0,NA,2.14,All,None,77.20588235294117
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,97.23,253,246,200,0,43,0,NA,1.58,Economic Advantage,Non-ECD,81.30081300813008
+2023,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,98.01,251,246,202,0,44,0,0,1.2,Disability,Non-Disabled,82.11382113821138
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,75.41,61,46,13,0,32,0,NA,22.95,English Learner,English Learner,28.26086956521739
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,79.27,82,65,24,0,40,0,NA,20.73,Race,Hispanic,36.92307692307692
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.51,148,131,55,0,73,0,NA,10.14,Economic Advantage,Economically Disadvantaged,41.98473282442748
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.3,46,42,9,0,23,0,10,2.17,Disability,Disabled,21.428571428571427
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.76,85,78,34,0,40,0,NA,4.71,Race,"Black, not of Hispanic origin",43.58974358974359
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.02,476,438,292,0,136,0,10,5.88,All,None,66.66666666666667
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.09,430,396,283,0,113,0,0,6.28,Disability,Non-Disabled,71.46464646464646
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,93.6,328,307,237,0,63,0,NA,3.96,Economic Advantage,Non-ECD,77.1986970684039
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.46,415,392,279,0,104,0,NA,3.37,English Learner,Non-English Learner,71.1734693877551
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.04,242,230,189,0,37,0,NA,2.89,Race,"White, not of Hispanic origin",82.17391304347827
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,96.55,29,28,20,0,7,0,NA,0,Race,"Non-Hispanic, two or more races",71.42857142857143
+2023,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,97.3,37,36,24,0,12,0,0,0,Race,Asian,66.66666666666667
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,American Indian or Alaska Native,NA
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,14,14,13,0,1,0,0,0,Race,Asian,92.85714285714286
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,72.73,22,16,4,0,12,0,0,27.27,English Learner,English Learner,25
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,84.44,45,38,17,0,21,0,0,15.56,Race,Hispanic,44.73684210526316
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.64,44,39,7,0,30,0,NA,4.55,Disability,Disabled,17.94871794871795
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.98,122,111,42,0,68,0,NA,5.74,Economic Advantage,Economically Disadvantaged,37.83783783783784
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,92.5,40,37,17,0,20,0,0,5,Race,"Black, not of Hispanic origin",45.945945945945944
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.78,345,327,210,0,115,0,NA,3.48,All,None,64.22018348623853
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.68,301,288,203,0,85,0,0,3.32,Disability,Non-Disabled,70.48611111111111
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96,25,24,14,0,10,0,0,4,Race,"Non-Hispanic, two or more races",58.333333333333336
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.28,323,311,206,0,103,0,NA,1.86,English Learner,Non-English Learner,66.2379421221865
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.82,220,213,149,0,63,0,NA,0.91,Race,"White, not of Hispanic origin",69.9530516431925
+2023,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.86,223,216,168,0,47,0,NA,2.24,Economic Advantage,Non-ECD,77.77777777777777
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,72.48,NA,NA,NA,11,NA,NA,312,24.61,English Learner,English Learner,NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,82.55,NA,NA,NA,80,NA,0,312,14.29,Race,Hispanic,NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.84,38024,33401,12303,81,19816,NA,NA,7.65,Economic Advantage,Economically Disadvantaged,36.834226520164066
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.55,12147,10999,1491,2,7350,NA,NA,7.49,Disability,Disabled,13.555777797981635
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.71,NA,NA,NA,45,NA,NA,721,5.19,Race,"Black, not of Hispanic origin",NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.02,98955,91055,50202,777,37920,NA,NA,5.35,All,None,55.13371039481632
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.22,86808,80056,48711,775,30570,0,0,5.05,Disability,Non-Disabled,60.846157689617264
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.94,255,237,120,0,112,0,NA,3.14,Race,American Indian or Alaska Native,50.63291139240506
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.39,NA,NA,NA,72,NA,0,112,3.85,Race,"Non-Hispanic, two or more races",NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.87,NA,NA,NA,766,NA,NA,NA,3.52,English Learner,Non-English Learner,NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.62,60931,57654,37899,696,18104,NA,954,3.91,Economic Advantage,Non-ECD,65.73524820480799
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.06,NA,NA,NA,406,NA,NA,892,2.85,Race,"White, not of Hispanic origin",NA
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,96.36,165,159,95,1,62,0,NA,1.82,Race,Native Hawaiian  or Pacific Islander,59.74842767295598
+2023,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,98.34,NA,NA,NA,173,NA,0,109,1.15,Race,Asian,NA
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,73.33,90,66,18,0,45,0,NA,26.67,English Learner,English Learner,27.272727272727273
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,84.92,179,152,69,0,80,0,NA,13.97,Race,Hispanic,45.39473684210526
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.23,325,290,108,0,170,0,12,8.31,Economic Advantage,Economically Disadvantaged,37.241379310344826
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,89.92,119,107,25,0,65,0,17,5.88,Disability,Disabled,23.364485981308412
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,91.67,48,44,28,0,14,0,NA,2.08,Race,"Non-Hispanic, two or more races",63.63636363636363
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.15,1080,1006,664,0,325,0,17,4.81,All,None,66.00397614314116
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.22,59,55,46,0,9,0,0,3.39,Race,Asian,83.63636363636364
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.5,123,115,42,0,68,0,NA,5.69,Race,"Black, not of Hispanic origin",36.52173913043478
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,93.55,961,899,639,0,260,0,0,4.68,Disability,Non-Disabled,71.0789766407119
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.83,755,716,556,0,155,0,NA,3.31,Economic Advantage,Non-ECD,77.6536312849162
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,94.95,990,940,646,0,280,0,14,2.83,English Learner,Non-English Learner,68.72340425531915
+2024,Division,2,Albemarle County,NA,NA,On-Time Graduation Rate,4 yr rate,95.37,670,639,478,0,154,0,NA,2.54,Race,"White, not of Hispanic origin",74.80438184663537
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,English Learner,English Learner,NA
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Asian,NA
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Black, not of Hispanic origin",NA
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,"Non-Hispanic, two or more races",NA
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,84.85,33,28,7,0,19,0,NA,3.03,Disability,Disabled,25
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,85.29,34,29,11,0,17,0,NA,11.76,Economic Advantage,Economically Disadvantaged,37.93103448275862
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,90.91,11,10,8,0,2,0,0,9.09,Race,Hispanic,80
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.42,262,250,194,0,54,0,NA,1.91,English Learner,Non-English Learner,77.6
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.44,263,251,195,0,54,0,NA,1.9,All,None,77.68924302788845
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,95.78,237,227,176,0,50,0,NA,1.27,Race,"White, not of Hispanic origin",77.5330396475771
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.94,229,222,184,0,37,0,NA,0.44,Economic Advantage,Non-ECD,82.88288288288288
+2024,School,2,Albemarle County,0140,Western Albemarle High,On-Time Graduation Rate,4 yr rate,96.96,230,223,188,0,35,0,0,1.74,Disability,Non-Disabled,84.30493273542601
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,100,24,24,15,0,9,0,0,0,Race,"Non-Hispanic, two or more races",62.5
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,68.57,70,48,13,0,33,0,NA,31.43,English Learner,English Learner,27.083333333333332
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,77.78,108,84,37,0,45,0,NA,20.37,Race,Hispanic,44.04761904761905
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,88.51,174,154,63,0,84,0,NA,10.34,Economic Advantage,Economically Disadvantaged,40.90909090909091
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,89.74,39,35,29,0,6,0,0,5.13,Race,Asian,82.85714285714286
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.44,450,407,280,0,127,0,0,7.78,Disability,Non-Disabled,68.7960687960688
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,90.66,503,456,289,0,157,0,10,7.55,All,None,63.37719298245614
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.57,83,76,29,0,43,0,NA,7.23,Race,"Black, not of Hispanic origin",38.1578947368421
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,91.79,329,302,226,0,73,0,NA,6.08,Economic Advantage,Non-ECD,74.83443708609272
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,92.45,53,49,9,0,30,0,10,5.66,Disability,Disabled,18.367346938775512
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,94.23,433,408,276,0,124,0,NA,3.7,English Learner,Non-English Learner,67.6470588235294
+2024,School,2,Albemarle County,0880,Albemarle High,On-Time Graduation Rate,4 yr rate,95.18,249,237,179,0,54,0,NA,3.21,Race,"White, not of Hispanic origin",75.52742616033755
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,NA,NA,NA,NA,NA,NA,NA,NA,NA,Race,Native Hawaiian  or Pacific Islander,NA
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,100,10,10,8,0,2,0,0,0,Race,Asian,80
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,83.33,18,15,9,0,5,0,NA,0,Race,"Non-Hispanic, two or more races",60
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,88.89,18,16,3,0,12,0,NA,11.11,English Learner,English Learner,18.75
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,90.32,31,28,7,0,16,0,NA,9.68,Disability,Disabled,25
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,91.23,114,104,33,0,67,0,NA,4.39,Economic Advantage,Economically Disadvantaged,31.73076923076923
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.71,170,161,112,0,47,0,NA,3.53,Race,"White, not of Hispanic origin",69.56521739130434
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,94.92,295,280,165,0,110,0,NA,3.05,All,None,58.92857142857143
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.31,277,264,162,0,98,0,NA,2.53,English Learner,Non-English Learner,61.36363636363637
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,95.45,264,252,158,0,94,0,0,2.27,Disability,Non-Disabled,62.698412698412696
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,96.49,57,55,22,0,32,0,NA,3.51,Race,Hispanic,40
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,97.24,181,176,132,0,43,0,NA,2.21,Economic Advantage,Non-ECD,75
+2024,School,2,Albemarle County,1052,Monticello High,On-Time Graduation Rate,4 yr rate,97.44,39,38,13,0,24,0,NA,2.56,Race,"Black, not of Hispanic origin",34.21052631578947
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,78.88,NA,NA,NA,2,NA,0,262,18.55,English Learner,English Learner,NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,87.06,NA,NA,NA,32,NA,0,268,10.24,Race,Hispanic,NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,89.63,39050,34999,12729,48,21116,NA,NA,6.02,Economic Advantage,Economically Disadvantaged,36.36961056030172
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.39,NA,NA,NA,23,NA,0,637,5.24,Race,"Black, not of Hispanic origin",NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,90.51,11897,10768,1431,1,7468,NA,NA,7.29,Disability,Disabled,13.289375928677563
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,92.85,98624,91568,49953,387,39360,NA,NA,4.5,All,None,54.55290057662065
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.12,247,230,105,3,117,0,NA,4.05,Race,American Indian or Alaska Native,45.65217391304348
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,93.17,86727,80800,48522,386,31892,0,0,4.11,Disability,Non-Disabled,60.051980198019805
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.03,NA,NA,NA,385,NA,NA,NA,3.31,English Learner,Non-English Learner,NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.07,NA,NA,NA,35,NA,0,98,2.98,Race,"Non-Hispanic, two or more races",NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,94.96,59574,56569,37224,339,18244,NA,761,3.5,Economic Advantage,Non-ECD,65.80282486874437
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.2,NA,NA,NA,221,NA,NA,758,2.67,Race,"White, not of Hispanic origin",NA
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,95.83,168,161,96,1,61,0,NA,1.19,Race,Native Hawaiian  or Pacific Islander,59.62732919254658
+2024,State,NA,NA,NA,NA,On-Time Graduation Rate,4 yr rate,98.43,NA,NA,NA,72,NA,0,96,0.89,Race,Asian,NA

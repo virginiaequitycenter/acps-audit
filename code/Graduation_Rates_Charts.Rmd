@@ -1,0 +1,101 @@
+---
+title: "Graduation Rates for Equity Audit"
+author: "Asha Muralidharan"
+date: "2025-03-19"
+output: html_document
+---
+##############################################################
+# ACPS STUDENT Success Audit - Graduation Charts       
+# Authors: Asha Muralidharan     
+# GitHub: asha-ec                              
+# Last revised: 2025-03-19
+# Summary: A document that creates charts on Graduation Rates
+#          for ACPS Audit
+##############################################################
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+##############################################################
+# Call Libraries
+##############################################################
+
+library(readxl)
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+
+grad <- read_csv("../data/ACPS_graduation_data_2008-24.csv")
+```
+
+```{r byschool}
+##############################################################
+# Graduation Rates by School
+##############################################################
+
+ggplot() +
+  geom_line(data=grad %>% dplyr::filter(data_level=="All",is.na(school_name)),
+            aes(x=cohort_year,y=graduation_rate,color=level)) +
+  geom_line(data=grad %>% dplyr::filter(data_level=="All",!is.na(school_name)),
+            aes(x=cohort_year,y=graduation_rate,color=school_name)) +
+  theme_minimal()+
+  scale_x_continuous(limits=c(2011,2024),breaks=seq(2011,2024,1))+
+  scale_y_continuous(limits=c(60,100),breaks=seq(60,100,5),minor_breaks=seq(60,100,1))+
+  labs(x="Year of Graduation", y="On-Time Graduation Rate", 
+       title="ACPS On-Time Graduation Rates by School over Time: 2011-2024")+
+  scale_color_manual(name = "School",
+                     labels = c("Albemarle High School","Albemarle County Public Schools",
+                                  "Monticello High School", "Virginia", 
+                                  "Western Albemarle High School"),
+                     values= c("#8D029E", "#D9470C", "#0C9ED9", "#139E02", "#F8BE3D"))
+
+```
+
+```{r byrace}
+##############################################################
+# Graduation Rates by Race
+##############################################################
+
+ggplot() +
+  geom_line(data=grad %>% dplyr::filter(data_level=="Race",level=="Division",
+                                        subgroup!="American Indian or Alaska Native",
+                                        subgroup!="Native Hawaiian  or Pacific Islander"),
+            aes(x=cohort_year,y=graduation_rate,color=subgroup)) +
+  theme_minimal()+
+  scale_x_continuous(limits=c(2011,2024),breaks=seq(2011,2024,1))+
+  scale_y_continuous(limits=c(60,100),breaks=seq(60,100,5),minor_breaks=seq(60,100,1))+
+  labs(x="Year of Graduation", y="On-Time Graduation Rate", 
+       title="ACPS On-Time Graduation Rates by Race over Time: 2011-2024")+
+  scale_color_manual(name = "Race/Ethnicity",
+                       labels = c("Asian","Black/African-American","Hispanic/Latinx","Multiracial","White"),
+                       values = c("#8D029E", "#D9470C", "#0C9ED9", "#139E02", "#F8BE3D"))
+
+```
+
+```{r bystudentsubgroup}
+
+##############################################################
+# Graduation Rates by Student Subgroup
+##############################################################
+  
+ggplot() +
+  geom_line(data=grad %>% dplyr::filter(data_level=="All",level=="Division"),
+            aes(x=cohort_year,y=graduation_rate,color=subgroup)) +
+  geom_line(data=grad %>% dplyr::filter(data_level=="Economic Advantage",level=="Division",
+                                        subgroup!="Non-ECD"),
+            aes(x=cohort_year,y=graduation_rate,color=subgroup)) +
+  geom_line(data=grad %>% dplyr::filter(data_level=="English Learner",level=="Division",
+                                        subgroup!="Non-English Learner"),
+            aes(x=cohort_year,y=graduation_rate,color=subgroup)) +
+  geom_line(data=grad %>% dplyr::filter(data_level=="Disability",level=="Division",
+                                        subgroup!="Non-Disabled"),
+            aes(x=cohort_year,y=graduation_rate,color=subgroup)) +
+  theme_minimal()+
+  scale_x_continuous(limits=c(2011,2024),breaks=seq(2011,2024,1))+
+  scale_y_continuous(limits=c(60,100),breaks=seq(60,100,5),minor_breaks=seq(60,100,1))+
+  labs(x="Year of Graduation", y="On-Time Graduation Rate", 
+       title="ACPS On-Time Graduation Rates by Student Membership Group over Time: 2011-2024")
+
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

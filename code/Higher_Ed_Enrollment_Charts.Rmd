@@ -1,0 +1,83 @@
+---
+title: "Higher Ed Enrollment Charts"
+author: "Asha Muralidharan"
+date: "2025-05-06"
+output: html_document
+---
+##############################################################
+# ACPS Student Success Audit - Higher Ed Enrollment Charts       
+# Authors: Asha Muralidharan     
+# GitHub: asha-ec                              
+# Last revised: 2025-03-20
+# Summary: A document that creates charts on Higher Ed Enrollment
+#          for ACPS Student Success Audit
+##############################################################
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+##############################################################
+# Call Libraries
+##############################################################
+
+library(readxl)
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+
+ihe_allyears <- read_csv("../data/ACPS_higher_ed_enrollment_data_2008-24.csv")
+```
+
+##############################################################
+# Racial Charts
+##############################################################
+```{r race}
+
+ggplot() +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Race",
+                                                student_group!="American Indian",
+                                                student_group!="Native Hawaiian"),
+            aes(x=short_year,y=four_ihe_pct,color="4 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Race",
+                                                student_group!="American Indian",
+                                                student_group!="Native Hawaiian"),
+          aes(x=short_year,y=two_ihe_pct,color="2 Year")) +
+  facet_wrap(~student_group)+
+  theme_minimal()+
+  scale_x_continuous(limits=c(11,23),breaks=seq(11,23,1))+
+  scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+  labs(x="Cohort Year", y="Rate of Enrollment",
+       title="Rate of Enrollment by Higher Ed Institution Type\nfor ACPS Students across Racial Categories")
+
+```
+
+##############################################################
+# Student Membership Group Charts
+##############################################################
+```{r stu_membership, echo=FALSE}
+
+ggplot() +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Disability"),
+            aes(x=short_year,y=two_ihe_pct,color="2 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Disability"),
+            aes(x=short_year,y=four_ihe_pct,color="4 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="English Learners"),
+            aes(x=short_year,y=two_ihe_pct,color="2 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="English Learners"),
+            aes(x=short_year,y=four_ihe_pct,color="4 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Economic Status"),
+            aes(x=short_year,y=two_ihe_pct,color="2 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Economic Status"),
+            aes(x=short_year,y=four_ihe_pct,color="4 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="All"),
+            aes(x=short_year,y=two_ihe_pct,color="2 Year")) +
+  geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="All"),
+            aes(x=short_year,y=four_ihe_pct,color="4 Year"))+
+  facet_wrap(~student_group)+
+  theme_minimal()+
+  scale_x_continuous(limits=c(11,23),breaks=seq(11,23,1))+
+  scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+  labs(x="Cohort Year", y="Rate of Enrollment in Higher Ed Institution", 
+       title="ACPS Rates of Postsecondary Enrollment by Student Group over Time: 2011-2024")
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
