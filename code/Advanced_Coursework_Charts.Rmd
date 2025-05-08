@@ -44,7 +44,7 @@ ggplot() +
 
 ```{r de_by_school}
 ggplot() +
-  geom_line(data=ap_allyears_byschool %>% dplyr::filter(data_level=="All"),
+  geom_line(data=advanced_school %>% dplyr::filter(data_level=="All"),
             aes(x=year,y=perc_de, group=school_name,color=school_name))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
@@ -52,9 +52,10 @@ ggplot() +
        title="Percentage of ACPS Students Enrolled in at least \nOne DE Course by School: 2019-20 to 2023-24")
 
 ```
+
 ```{r ap_by_race}
 ggplot() +
-  geom_line(data=ap_allyears_div %>% dplyr::filter(data_level=="Race",
+  geom_line(data=advanced_div %>% dplyr::filter(data_level=="Race",
                                                    student_group!="American Indian or Alaska Native",
                                                    student_group!="Native Hawaiian or Pacific Islander",
                                                    student_group!="Native Hawaiian  or Pacific Islander"),
@@ -68,7 +69,7 @@ ggplot() +
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 ```{r de_by_race}
 ggplot() +
-  geom_line(data=ap_allyears_div %>% dplyr::filter(data_level=="Race",
+  geom_line(data=advanced_div %>% dplyr::filter(data_level=="Race",
                                                    student_group!="American Indian or Alaska Native",
                                                    student_group!="Native Hawaiian or Pacific Islander",
                                                    student_group!="Native Hawaiian  or Pacific Islander"),
@@ -82,19 +83,21 @@ ggplot() +
 
 ```{r ap_by_econ}
 ggplot() +
-  geom_line(data=ap_allyears_div %>% dplyr::filter(data_level=="Economic Advantage"),
+  geom_line(data=advanced_div %>% dplyr::filter(data_level=="Economic Advantage"),
             aes(x=year,y=perc_ap, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Enrolled Students in Advanced Placement", 
        title="Percentage of ACPS Students Enrolled in at least one \nAP Course by Economic Status: 2019-20 to 2023-24")
+
 ```
 ```{r de_by_econ}
 ggplot() +
-  geom_line(data=ap_allyears_div %>% dplyr::filter(data_level=="Economic Advantage"),
+  geom_line(data=advanced_div %>% dplyr::filter(data_level=="Economic Advantage"),
             aes(x=year,y=perc_de, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of ACPS Students in Dual Enrollment", 
        title="Percentage of ACPS 10-12th Graders Enrolled in at least one \nDE Course by Economic Status: 2019-20 to 2023-24")
+
 ```
