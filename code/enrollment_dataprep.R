@@ -84,20 +84,6 @@ feeder_race_percent <- feeder_race_percent %>%
 
 write.csv(feeder_race_percent, "data/feeder_race_percent.csv")
 
-## Make a table (if  needed)
-
-# feeder_race_table <- feeder_race_percent %>% 
-  pivot_wider(names_from = race, values_from = c(fp_count, fp_percent)) %>% 
-  mutate(across(where(is.numeric), ~replace(., is.na(.), 0))) %>% 
-  clean_names() 
-
-# names(feeder_race_table) <- c("year", "feeder_pattern", "feeder_count", "aian_count", "asian_count", "black_count",
-#                              "hispanic_count", "nhpi_count", "multi_count", "white_count", 
-#                              "aian_percent", "asian_percent", "black_percent",
-#                              "hispanic_percent", "nhpi_percent", "multi_percent", "white_percent" )
-
-# write.csv(feeder_race_table, "data/feeder_race_table.csv")
-
 #-------------------------------------------------------------------------------
 
 

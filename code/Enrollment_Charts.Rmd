@@ -1,13 +1,13 @@
 ---
 title: "Enrollment Charts"
 author: "Nina Schoonover"
-date: "2025-05-09"
+date: "2025-05-13"
 output: html_document
 ---
 ###############################################################
 # ACPS Student Success Audit - Enrollment Charts       
 # Authors: Nina Schoonover     
-# Last revised: 2025-05-09
+# Last revised: 2025-05-13
 # Summary: A document that creates charts on Enrollment
 #          for ACPS Audit
 
@@ -21,10 +21,10 @@ library(ggplot2)
 
 # Load Data
 
-feeder_race_percent <- read_csv("data/feeder_race_percent.csv")
-feeder_econdis_percent <- read.csv("data/feeder_disadvantaged_percent.csv")
-feeder_ell_percent <- read.csv("data/feeder_ell_percent.csv")
-feeder_sped_percent <- read.csv("data/feeder_sped_percent.csv")
+feeder_race_percent <- read_csv("../data/feeder_race_percent.csv")
+feeder_econdis_percent <- read.csv("../data/feeder_disadvantaged_percent.csv")
+feeder_ell_percent <- read.csv("../data/feeder_ell_percent.csv")
+feeder_sped_percent <- read.csv("../data/feeder_sped_percent.csv")
 
 
 ```
@@ -39,10 +39,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = race, color = race)) +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
-      scale_x_continuous(limits=c(2011,2024),breaks=seq(2011,2024,1),
-                     labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+      scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
-                              "2022-23","2023-24")) +
+                              "2022-23","2023-24", "2024-25")) +
       labs(x="School Year", y="Percent Enrolled", 
           title="Northern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
       scale_color_manual(name = "Race",
@@ -67,6 +66,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = race, color = race)) +
      theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24", "2024-25")) +
       labs(x="School Year", y="Percent Enrolled", 
           title="Southern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
       scale_color_manual(name = "Race",
@@ -91,6 +93,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = race, color = race)) +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24", "2024-25")) +
       labs(x="School Year", y="Percent Enrolled", 
           title="Western Feeder Pattern Enrollment by Race over Time: 2010-2025") +
       scale_color_manual(name = "Race",
@@ -122,6 +127,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
     theme_minimal() +
     scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24", "2024-25")) +
     labs(x="School Year", y="Percent Enrolled", 
        title="Economically Disadvantaged Enrollment by Feeder Pattern: 2010-2025") +
     scale_color_manual(name = "Feeder Pattern",
@@ -151,6 +159,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
     theme_minimal() +
     scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24", "2024-25")) +
     labs(x="School Year", y="Percent Enrolled", 
        title="English Learner Enrollment by Feeder Pattern: 2010-2025") +
     scale_color_manual(name = "Feeder Pattern",
@@ -180,6 +191,9 @@ ggplot() +
                 aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
     theme_minimal() +
     scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24", "2024-25")) +
     labs(x="School Year", y="Percent Enrolled", 
        title="SPED Enrollment by Feeder Pattern: 2010-2025") +
     scale_color_manual(name = "Feeder Pattern",

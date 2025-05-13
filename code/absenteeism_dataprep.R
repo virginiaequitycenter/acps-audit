@@ -19,8 +19,8 @@ absenteeism_2015 <- read_csv("data/tempdata/chronic_absenteeism_2015.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2016 <- read_csv("data/tempdata/chronic_absenteeism_2016.csv")  %>% 
   clean_names() %>% 
@@ -30,8 +30,8 @@ absenteeism_2016 <- read_csv("data/tempdata/chronic_absenteeism_2016.csv")  %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2017 <- read_csv("data/tempdata/chronic_absenteeism_2017.csv")  %>% 
   clean_names() %>% 
@@ -41,8 +41,8 @@ absenteeism_2017 <- read_csv("data/tempdata/chronic_absenteeism_2017.csv")  %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup =="Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2018 <- read_csv("data/tempdata/chronic_absenteeism_2018.csv") %>% 
   clean_names() %>% 
@@ -52,8 +52,8 @@ absenteeism_2018 <- read_csv("data/tempdata/chronic_absenteeism_2018.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2019 <- read_csv("data/tempdata/chronic_absenteeism_2019.csv") %>% 
   clean_names() %>% 
@@ -63,8 +63,8 @@ absenteeism_2019 <- read_csv("data/tempdata/chronic_absenteeism_2019.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2020 <- read_csv("data/tempdata/chronic_absenteeism_2020.csv") %>% 
   clean_names() %>% 
@@ -74,8 +74,8 @@ absenteeism_2020 <- read_csv("data/tempdata/chronic_absenteeism_2020.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2021 <- read_csv("data/tempdata/chronic_absenteeism_2021.csv") %>% 
   clean_names() %>% 
@@ -85,8 +85,8 @@ absenteeism_2021 <- read_csv("data/tempdata/chronic_absenteeism_2021.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2022 <- read_csv("data/tempdata/chronic_absenteeism_2022.csv") %>% 
   clean_names() %>% 
@@ -96,8 +96,8 @@ absenteeism_2022 <- read_csv("data/tempdata/chronic_absenteeism_2022.csv") %>%
   mutate(percent = as.numeric(percent)) %>%
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 absenteeism_2023 <- read_csv("data/tempdata/chronic_absenteeism_2023.csv") %>% 
   clean_names() %>% 
@@ -107,17 +107,18 @@ absenteeism_2023 <- read_csv("data/tempdata/chronic_absenteeism_2023.csv") %>%
   mutate(percent = as.numeric(percent)) %>% 
   filter(div_num == "2", grade == "All Students") %>% 
   filter(subgroup == "All Students" | subgroup == "Asian" | subgroup == "Black" | 
-           subgroup == " Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
-           subgroup == "Economically Disadvantaged" | subgroup == "English Learners")
+           subgroup == "Hispanic" | subgroup == "White"| subgroup == "Multiple Races" | 
+           subgroup == "Economically Disadvantaged" | subgroup == "English Learners" | subgroup == "Students with Disabilities")
 
 # rbind to combine dataframes 
 total_absenteeism <- rbind(absenteeism_2015, absenteeism_2016, absenteeism_2017, absenteeism_2018,
                            absenteeism_2019, absenteeism_2020, absenteeism_2021, absenteeism_2022, absenteeism_2023)
 
-#Change Multiple Races to Multiracial
+#Change Multiple Races to Multiracial and Students with Disabilities to SPED
 
 total_absenteeism <- total_absenteeism %>% 
-  mutate(subgroup = ifelse(subgroup=="Multiple Races", "Multiracial", subgroup))
+  mutate(subgroup = ifelse(subgroup=="Multiple Races", "Multiracial", subgroup)) %>% 
+  mutate(subgroup = ifelse(subgroup=="Students with Disabilities", "SPED", subgroup))
 
 # Write csv 
 

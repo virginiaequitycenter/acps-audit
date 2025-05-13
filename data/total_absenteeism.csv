@@ -2,63 +2,81 @@ school_year,div_num,div_name,subgroup,grade,count,percent
 2015-2016,2,Albemarle County,All Students,All Students,735,5.5
 2015-2016,2,Albemarle County,Asian,All Students,18,2.8
 2015-2016,2,Albemarle County,Black,All Students,100,6.7
+2015-2016,2,Albemarle County,Hispanic,All Students,96,6.3
 2015-2016,2,Albemarle County,White,All Students,474,5.3
 2015-2016,2,Albemarle County,Multiracial,All Students,40,5.5
+2015-2016,2,Albemarle County,SPED,All Students,150,10
 2015-2016,2,Albemarle County,Economically Disadvantaged,All Students,369,9.6
 2015-2016,2,Albemarle County,English Learners,All Students,53,4.6
 2016-2017,2,Albemarle County,All Students,All Students,837,6.2
 2016-2017,2,Albemarle County,Asian,All Students,22,3.3
 2016-2017,2,Albemarle County,Black,All Students,91,6.3
+2016-2017,2,Albemarle County,Hispanic,All Students,131,7.8
 2016-2017,2,Albemarle County,White,All Students,525,5.9
 2016-2017,2,Albemarle County,Multiracial,All Students,59,7.5
+2016-2017,2,Albemarle County,SPED,All Students,172,10.7
 2016-2017,2,Albemarle County,Economically Disadvantaged,All Students,470,11.3
 2016-2017,2,Albemarle County,English Learners,All Students,99,6.9
 2017-2018,2,Albemarle County,All Students,All Students,994,7.3
 2017-2018,2,Albemarle County,Asian,All Students,35,5
 2017-2018,2,Albemarle County,Black,All Students,98,6.9
+2017-2018,2,Albemarle County,Hispanic,All Students,198,11.5
 2017-2018,2,Albemarle County,White,All Students,590,6.6
 2017-2018,2,Albemarle County,Multiracial,All Students,68,8.5
+2017-2018,2,Albemarle County,SPED,All Students,214,12.7
 2017-2018,2,Albemarle County,Economically Disadvantaged,All Students,566,13.4
 2017-2018,2,Albemarle County,English Learners,All Students,143,10.2
 2018-2019,2,Albemarle County,All Students,All Students,1191,8.7
 2018-2019,2,Albemarle County,Asian,All Students,44,6.1
 2018-2019,2,Albemarle County,Black,All Students,157,11
+2018-2019,2,Albemarle County,Hispanic,All Students,211,12
 2018-2019,2,Albemarle County,White,All Students,700,7.9
 2018-2019,2,Albemarle County,Multiracial,All Students,75,9.1
+2018-2019,2,Albemarle County,SPED,All Students,267,15.1
 2018-2019,2,Albemarle County,Economically Disadvantaged,All Students,671,16.3
 2018-2019,2,Albemarle County,English Learners,All Students,163,12
 2019-2020,2,Albemarle County,All Students,All Students,1382,9.9
 2019-2020,2,Albemarle County,Asian,All Students,56,7.9
 2019-2020,2,Albemarle County,Black,All Students,158,10.6
+2019-2020,2,Albemarle County,Hispanic,All Students,248,12.8
 2019-2020,2,Albemarle County,White,All Students,823,9.2
 2019-2020,2,Albemarle County,Multiracial,All Students,97,10.9
+2019-2020,2,Albemarle County,SPED,All Students,258,14.9
 2019-2020,2,Albemarle County,Economically Disadvantaged,All Students,748,16.7
 2019-2020,2,Albemarle County,English Learners,All Students,192,13.3
 2020-2021,2,Albemarle County,All Students,All Students,712,5.4
 2020-2021,2,Albemarle County,Asian,All Students,11,1.5
 2020-2021,2,Albemarle County,Black,All Students,164,10.9
+2020-2021,2,Albemarle County,Hispanic,All Students,194,9.9
 2020-2021,2,Albemarle County,White,All Students,295,3.6
 2020-2021,2,Albemarle County,Multiracial,All Students,43,5
+2020-2021,2,Albemarle County,SPED,All Students,135,8
 2020-2021,2,Albemarle County,Economically Disadvantaged,All Students,546,12
 2020-2021,2,Albemarle County,English Learners,All Students,131,9.4
 2021-2022,2,Albemarle County,All Students,All Students,2114,15.7
 2021-2022,2,Albemarle County,Asian,All Students,60,8.1
 2021-2022,2,Albemarle County,Black,All Students,394,25.6
+2021-2022,2,Albemarle County,Hispanic,All Students,503,24.8
 2021-2022,2,Albemarle County,White,All Students,993,12.1
 2021-2022,2,Albemarle County,Multiracial,All Students,161,17.1
+2021-2022,2,Albemarle County,SPED,All Students,376,22.4
 2021-2022,2,Albemarle County,Economically Disadvantaged,All Students,1190,30.1
 2021-2022,2,Albemarle County,English Learners,All Students,389,27
 2022-2023,2,Albemarle County,All Students,All Students,2409,17.7
 2022-2023,2,Albemarle County,Asian,All Students,95,11.9
 2022-2023,2,Albemarle County,Black,All Students,408,25.8
+2022-2023,2,Albemarle County,Hispanic,All Students,559,26.1
 2022-2023,2,Albemarle County,White,All Students,1126,14
 2022-2023,2,Albemarle County,Multiracial,All Students,216,22.2
+2022-2023,2,Albemarle County,SPED,All Students,441,25.6
 2022-2023,2,Albemarle County,Economically Disadvantaged,All Students,1340,30.5
 2022-2023,2,Albemarle County,English Learners,All Students,419,26.6
 2023-2024,2,Albemarle County,All Students,All Students,1703,12.6
 2023-2024,2,Albemarle County,Asian,All Students,54,6.4
 2023-2024,2,Albemarle County,Black,All Students,325,20.7
+2023-2024,2,Albemarle County,Hispanic,All Students,466,20.5
 2023-2024,2,Albemarle County,White,All Students,719,9.1
 2023-2024,2,Albemarle County,Multiracial,All Students,137,14.4
+2023-2024,2,Albemarle County,SPED,All Students,341,19.2
 2023-2024,2,Albemarle County,Economically Disadvantaged,All Students,1058,23.5
 2023-2024,2,Albemarle County,English Learners,All Students,352,20.6
