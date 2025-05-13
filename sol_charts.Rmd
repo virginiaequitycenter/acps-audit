@@ -1,0 +1,204 @@
+---
+title: "sol_charts"
+author: "Nina Schoonover"
+date: "2025-05-13"
+output: html_document
+---
+
+###############################################################
+# ACPS Student Success Audit - SOL pass rates Charts       
+# Authors: Nina Schoonover     
+# Last revised: 2025-05-13
+# Summary: A document that creates charts on SOL pass rates
+#          for ACPS Audit
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+library(janitor)
+library(ggplot2)
+
+# Load Data
+
+reading_pass <- read.csv("data/reading_sol_pass.csv")
+race_reading_pass <- read.csv("data/reading_sol_pass_race.csv")
+reading_subgroups <- read.csv("data/reading_sol_pass_subgroups.csv")
+
+math_pass <- read.csv("data/math_sol_pass.csv")
+race_math_pass <- read.csv("data/math_sol_pass_race.csv")
+math_subgroups <- read.csv("data/math_sol_pass_subgroups.csv")
+
+
+```
+
+## Reading SOL Plots
+
+```{r pressure, echo=FALSE}
+## Reading SOL chart
+
+
+# District and VA
+ggplot() +
+      geom_line(data = reading_pass,
+                aes(x = year, y= pass_rate, group = division_name, color = division_name)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SOL Reading Pass Rate: 2010-2025") +
+      scale_color_manual(name = "Division_name",
+                        values = c("#fa8775", "#04994b"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+# By Race 
+
+ggplot() +
+      geom_line(data = race_reading_pass,
+                aes(x = year, y= pass_rate, group = race, color = race)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SOL Reading Pass Rate by Race: 2010-2025") +
+      scale_color_manual(name = "Race",
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#f8be3d", "#0c9ed9"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+# By Membership Group
+
+ggplot() +
+  geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="Economic Advantage",
+                                        subgroup!="Non-ECD"),
+            aes(x = year, y = pass_rate,color = subgroup, group = subgroup)) +
+  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="English Learner",
+                                        subgroup!="Non-English Learner"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="SPED",
+                                                  subgroup!="Non-SPED"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+   geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="ACPS"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+  theme_minimal()+
+  scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SOL Reading Pass Rate by Membership Group: 2010-2025") +
+scale_color_manual(name = "subgroup",
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#f8be3d", "#0c9ed9")) +
+  theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+
+```
+
+## Math SOL Plots
+
+```{r pressure, echo=FALSE}
+# Math SOL Charts
+
+# District and VA
+ggplot() +
+      geom_line(data = math_pass,
+                aes(x = year, y= pass_rate, group = division_name, color = division_name)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SOL Math Pass Rate: 2010-2025") +
+      scale_color_manual(name = "Division_name",
+                        values = c("#fa8775", "#04994b"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+# By Race 
+
+ggplot() +
+      geom_line(data = race_math_pass,
+                aes(x = year, y= pass_rate, group = race, color = race)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SOL Math Pass Rate by Race: 2010-2025") +
+      scale_color_manual(name = "Race",
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#f8be3d", "#0c9ed9"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+# By Membership Group
+
+ggplot() +
+  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="Economic Advantage",
+                                        subgroup!="Non-ECD"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="English Learner",
+                                        subgroup!="Non-English Learner"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="SPED",
+                                                  subgroup!="Non-SPED"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+   geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="ACPS"),
+            aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
+  theme_minimal()+
+  scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Pass Rate", 
+          title="SO Math Pass Rate by Membership Group: 2010-2025") +
+scale_color_manual(name = "subgroup",
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#f8be3d", "#0c9ed9")) +
+  theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+```

@@ -1,0 +1,314 @@
+"","year","feeder_pattern","race","fp_count","total_count","fp_percent"
+"1","2010-2011","Northern","American Indian",26,5611,0.5
+"2","2010-2011","Northern","Asian",351,5611,6.3
+"3","2010-2011","Northern","Black",868,5611,15.5
+"4","2010-2011","Northern","Hispanic",565,5611,10.1
+"5","2010-2011","Northern","Pacific Islander",2,5611,0
+"6","2010-2011","Northern","Multiracial",321,5611,5.7
+"7","2010-2011","Northern","White",3478,5611,62
+"8","2010-2011","Southern","American Indian",13,3995,0.3
+"9","2010-2011","Southern","Asian",89,3995,2.2
+"10","2010-2011","Southern","Black",554,3995,13.9
+"11","2010-2011","Southern","Hispanic",429,3995,10.7
+"12","2010-2011","Southern","Pacific Islander",7,3995,0.2
+"13","2010-2011","Southern","Multiracial",176,3995,4.4
+"14","2010-2011","Southern","White",2727,3995,68.3
+"15","2010-2011","Western","American Indian",3,3474,0.1
+"16","2010-2011","Western","Asian",118,3474,3.4
+"17","2010-2011","Western","Black",113,3474,3.3
+"18","2010-2011","Western","Hispanic",151,3474,4.3
+"19","2010-2011","Western","Pacific Islander",4,3474,0.1
+"20","2010-2011","Western","Multiracial",127,3474,3.7
+"21","2010-2011","Western","White",2958,3474,85.1
+"22","2011-2012","Northern","American Indian",28,5577,0.5
+"23","2011-2012","Northern","Asian",383,5577,6.9
+"24","2011-2012","Northern","Black",863,5577,15.5
+"25","2011-2012","Northern","Hispanic",592,5577,10.6
+"26","2011-2012","Northern","Pacific Islander",2,5577,0
+"27","2011-2012","Northern","Multiracial",326,5577,5.8
+"28","2011-2012","Northern","White",3383,5577,60.7
+"29","2011-2012","Southern","American Indian",11,3891,0.3
+"30","2011-2012","Southern","Asian",97,3891,2.5
+"31","2011-2012","Southern","Black",515,3891,13.2
+"32","2011-2012","Southern","Hispanic",431,3891,11.1
+"33","2011-2012","Southern","Pacific Islander",6,3891,0.2
+"34","2011-2012","Southern","Multiracial",195,3891,5
+"35","2011-2012","Southern","White",2636,3891,67.7
+"36","2011-2012","Western","American Indian",4,3499,0.1
+"37","2011-2012","Western","Asian",113,3499,3.2
+"38","2011-2012","Western","Black",113,3499,3.2
+"39","2011-2012","Western","Hispanic",152,3499,4.3
+"40","2011-2012","Western","Pacific Islander",1,3499,0
+"41","2011-2012","Western","Multiracial",125,3499,3.6
+"42","2011-2012","Western","White",2991,3499,85.5
+"43","2012-2013","Northern","American Indian",21,5661,0.4
+"44","2012-2013","Northern","Asian",394,5661,7
+"45","2012-2013","Northern","Black",842,5661,14.9
+"46","2012-2013","Northern","Hispanic",606,5661,10.7
+"47","2012-2013","Northern","Pacific Islander",1,5661,0
+"48","2012-2013","Northern","Multiracial",349,5661,6.2
+"49","2012-2013","Northern","White",3448,5661,60.9
+"50","2012-2013","Southern","American Indian",7,3932,0.2
+"51","2012-2013","Southern","Asian",101,3932,2.6
+"52","2012-2013","Southern","Black",489,3932,12.4
+"53","2012-2013","Southern","Hispanic",484,3932,12.3
+"54","2012-2013","Southern","Pacific Islander",2,3932,0.1
+"55","2012-2013","Southern","Multiracial",203,3932,5.2
+"56","2012-2013","Southern","White",2646,3932,67.3
+"57","2012-2013","Western","American Indian",3,3551,0.1
+"58","2012-2013","Western","Asian",106,3551,3
+"59","2012-2013","Western","Black",124,3551,3.5
+"60","2012-2013","Western","Hispanic",148,3551,4.2
+"61","2012-2013","Western","Pacific Islander",2,3551,0.1
+"62","2012-2013","Western","Multiracial",121,3551,3.4
+"63","2012-2013","Western","White",3047,3551,85.8
+"64","2013-2014","Northern","American Indian",18,5921,0.3
+"65","2013-2014","Northern","Asian",439,5921,7.4
+"66","2013-2014","Northern","Black",925,5921,15.6
+"67","2013-2014","Northern","Hispanic",694,5921,11.7
+"68","2013-2014","Northern","Pacific Islander",4,5921,0.1
+"69","2013-2014","Northern","Multiracial",357,5921,6
+"70","2013-2014","Northern","White",3484,5921,58.8
+"71","2013-2014","Southern","American Indian",13,3842,0.3
+"72","2013-2014","Southern","Asian",100,3842,2.6
+"73","2013-2014","Southern","Black",491,3842,12.8
+"74","2013-2014","Southern","Hispanic",500,3842,13
+"75","2013-2014","Southern","Pacific Islander",1,3842,0
+"76","2013-2014","Southern","Multiracial",210,3842,5.5
+"77","2013-2014","Southern","White",2527,3842,65.8
+"78","2013-2014","Western","American Indian",5,3518,0.1
+"79","2013-2014","Western","Asian",103,3518,2.9
+"80","2013-2014","Western","Black",116,3518,3.3
+"81","2013-2014","Western","Hispanic",154,3518,4.4
+"82","2013-2014","Western","Pacific Islander",2,3518,0.1
+"83","2013-2014","Western","Multiracial",125,3518,3.6
+"84","2013-2014","Western","White",3013,3518,85.6
+"85","2014-2015","Northern","American Indian",19,6046,0.3
+"86","2014-2015","Northern","Asian",458,6046,7.6
+"87","2014-2015","Northern","Black",926,6046,15.3
+"88","2014-2015","Northern","Hispanic",750,6046,12.4
+"89","2014-2015","Northern","Pacific Islander",4,6046,0.1
+"90","2014-2015","Northern","Multiracial",375,6046,6.2
+"91","2014-2015","Northern","White",3514,6046,58.1
+"92","2014-2015","Southern","American Indian",4,3872,0.1
+"93","2014-2015","Southern","Asian",109,3872,2.8
+"94","2014-2015","Southern","Black",462,3872,11.9
+"95","2014-2015","Southern","Hispanic",547,3872,14.1
+"96","2014-2015","Southern","Pacific Islander",3,3872,0.1
+"97","2014-2015","Southern","Multiracial",227,3872,5.9
+"98","2014-2015","Southern","White",2520,3872,65.1
+"99","2014-2015","Western","American Indian",4,3622,0.1
+"100","2014-2015","Western","Asian",101,3622,2.8
+"101","2014-2015","Western","Black",110,3622,3
+"102","2014-2015","Western","Hispanic",149,3622,4.1
+"103","2014-2015","Western","Pacific Islander",2,3622,0.1
+"104","2014-2015","Western","Multiracial",140,3622,3.9
+"105","2014-2015","Western","White",3116,3622,86
+"106","2015-2016","Northern","American Indian",16,6049,0.3
+"107","2015-2016","Northern","Asian",435,6049,7.2
+"108","2015-2016","Northern","Black",973,6049,16.1
+"109","2015-2016","Northern","Hispanic",835,6049,13.8
+"110","2015-2016","Northern","Pacific Islander",6,6049,0.1
+"111","2015-2016","Northern","Multiracial",381,6049,6.3
+"112","2015-2016","Northern","White",3403,6049,56.3
+"113","2015-2016","Southern","American Indian",7,3908,0.2
+"114","2015-2016","Southern","Asian",110,3908,2.8
+"115","2015-2016","Southern","Black",482,3908,12.3
+"116","2015-2016","Southern","Hispanic",612,3908,15.7
+"117","2015-2016","Southern","Pacific Islander",3,3908,0.1
+"118","2015-2016","Southern","Multiracial",226,3908,5.8
+"119","2015-2016","Southern","White",2468,3908,63.2
+"120","2015-2016","Western","American Indian",4,3658,0.1
+"121","2015-2016","Western","Asian",104,3658,2.8
+"122","2015-2016","Western","Black",93,3658,2.5
+"123","2015-2016","Western","Hispanic",154,3658,4.2
+"124","2015-2016","Western","Pacific Islander",2,3658,0.1
+"125","2015-2016","Western","Multiracial",147,3658,4
+"126","2015-2016","Western","White",3154,3658,86.2
+"127","2016-2017","Northern","American Indian",15,6031,0.2
+"128","2016-2017","Northern","Asian",459,6031,7.6
+"129","2016-2017","Northern","Black",996,6031,16.5
+"130","2016-2017","Northern","Hispanic",892,6031,14.8
+"131","2016-2017","Northern","Pacific Islander",4,6031,0.1
+"132","2016-2017","Northern","Multiracial",387,6031,6.4
+"133","2016-2017","Northern","White",3278,6031,54.4
+"134","2016-2017","Southern","American Indian",7,3874,0.2
+"135","2016-2017","Southern","Asian",114,3874,2.9
+"136","2016-2017","Southern","Black",469,3874,12.1
+"137","2016-2017","Southern","Hispanic",647,3874,16.7
+"138","2016-2017","Southern","Pacific Islander",4,3874,0.1
+"139","2016-2017","Southern","Multiracial",238,3874,6.1
+"140","2016-2017","Southern","White",2395,3874,61.8
+"141","2016-2017","Western","American Indian",5,3752,0.1
+"142","2016-2017","Western","Asian",116,3752,3.1
+"143","2016-2017","Western","Black",81,3752,2.2
+"144","2016-2017","Western","Hispanic",177,3752,4.7
+"145","2016-2017","Western","Pacific Islander",7,3752,0.2
+"146","2016-2017","Western","Multiracial",146,3752,3.9
+"147","2016-2017","Western","White",3220,3752,85.8
+"148","2017-2018","Northern","American Indian",10,6096,0.2
+"149","2017-2018","Northern","Asian",472,6096,7.7
+"150","2017-2018","Northern","Black",931,6096,15.3
+"151","2017-2018","Northern","Hispanic",934,6096,15.3
+"152","2017-2018","Northern","Pacific Islander",5,6096,0.1
+"153","2017-2018","Northern","Multiracial",413,6096,6.8
+"154","2017-2018","Northern","White",3331,6096,54.6
+"155","2017-2018","Southern","American Indian",5,3882,0.1
+"156","2017-2018","Southern","Asian",108,3882,2.8
+"157","2017-2018","Southern","Black",439,3882,11.3
+"158","2017-2018","Southern","Hispanic",666,3882,17.2
+"159","2017-2018","Southern","Pacific Islander",2,3882,0.1
+"160","2017-2018","Southern","Multiracial",263,3882,6.8
+"161","2017-2018","Southern","White",2399,3882,61.8
+"162","2017-2018","Western","American Indian",2,3821,0.1
+"163","2017-2018","Western","Asian",133,3821,3.5
+"164","2017-2018","Western","Black",81,3821,2.1
+"165","2017-2018","Western","Hispanic",177,3821,4.6
+"166","2017-2018","Western","Pacific Islander",6,3821,0.2
+"167","2017-2018","Western","Multiracial",153,3821,4
+"168","2017-2018","Western","White",3269,3821,85.6
+"169","2018-2019","Northern","American Indian",8,6080,0.1
+"170","2018-2019","Northern","Asian",501,6080,8.2
+"171","2018-2019","Northern","Black",996,6080,16.4
+"172","2018-2019","Northern","Hispanic",979,6080,16.1
+"173","2018-2019","Northern","Pacific Islander",3,6080,0
+"174","2018-2019","Northern","Multiracial",423,6080,7
+"175","2018-2019","Northern","White",3170,6080,52.1
+"176","2018-2019","Southern","American Indian",3,3885,0.1
+"177","2018-2019","Southern","Asian",106,3885,2.7
+"178","2018-2019","Southern","Black",427,3885,11
+"179","2018-2019","Southern","Hispanic",665,3885,17.1
+"180","2018-2019","Southern","Pacific Islander",5,3885,0.1
+"181","2018-2019","Southern","Multiracial",255,3885,6.6
+"182","2018-2019","Southern","White",2424,3885,62.4
+"183","2018-2019","Western","American Indian",3,3913,0.1
+"184","2018-2019","Western","Asian",132,3913,3.4
+"185","2018-2019","Western","Black",77,3913,2
+"186","2018-2019","Western","Hispanic",192,3913,4.9
+"187","2018-2019","Western","Pacific Islander",9,3913,0.2
+"188","2018-2019","Western","Multiracial",165,3913,4.2
+"189","2018-2019","Western","White",3335,3913,85.2
+"190","2019-2020","Northern","American Indian",8,6192,0.1
+"191","2019-2020","Northern","Asian",473,6192,7.6
+"192","2019-2020","Northern","Black",1035,6192,16.7
+"193","2019-2020","Northern","Hispanic",1070,6192,17.3
+"194","2019-2020","Northern","Pacific Islander",4,6192,0.1
+"195","2019-2020","Northern","Multiracial",428,6192,6.9
+"196","2019-2020","Northern","White",3174,6192,51.3
+"197","2019-2020","Southern","American Indian",3,4113,0.1
+"198","2019-2020","Southern","Asian",131,4113,3.2
+"199","2019-2020","Southern","Black",469,4113,11.4
+"200","2019-2020","Southern","Hispanic",723,4113,17.6
+"201","2019-2020","Southern","Pacific Islander",3,4113,0.1
+"202","2019-2020","Southern","Multiracial",290,4113,7.1
+"203","2019-2020","Southern","White",2494,4113,60.6
+"204","2019-2020","Western","American Indian",4,3989,0.1
+"205","2019-2020","Western","Asian",132,3989,3.3
+"206","2019-2020","Western","Black",77,3989,1.9
+"207","2019-2020","Western","Hispanic",206,3989,5.2
+"208","2019-2020","Western","Pacific Islander",9,3989,0.2
+"209","2019-2020","Western","Multiracial",181,3989,4.5
+"210","2019-2020","Western","White",3380,3989,84.7
+"211","2020-2021","Northern","American Indian",6,5866,0.1
+"212","2020-2021","Northern","Asian",480,5866,8.2
+"213","2020-2021","Northern","Black",962,5866,16.4
+"214","2020-2021","Northern","Hispanic",1077,5866,18.4
+"215","2020-2021","Northern","Pacific Islander",4,5866,0.1
+"216","2020-2021","Northern","Multiracial",435,5866,7.4
+"217","2020-2021","Northern","White",2902,5866,49.5
+"218","2020-2021","Southern","American Indian",2,3861,0.1
+"219","2020-2021","Southern","Asian",134,3861,3.5
+"220","2020-2021","Southern","Black",488,3861,12.6
+"221","2020-2021","Southern","Hispanic",719,3861,18.6
+"222","2020-2021","Southern","Pacific Islander",3,3861,0.1
+"223","2020-2021","Southern","Multiracial",280,3861,7.3
+"224","2020-2021","Southern","White",2235,3861,57.9
+"225","2020-2021","Western","American Indian",6,3643,0.2
+"226","2020-2021","Western","Asian",143,3643,3.9
+"227","2020-2021","Western","Black",70,3643,1.9
+"228","2020-2021","Western","Hispanic",205,3643,5.6
+"229","2020-2021","Western","Pacific Islander",7,3643,0.2
+"230","2020-2021","Western","Multiracial",151,3643,4.1
+"231","2020-2021","Western","White",3061,3643,84
+"232","2021-2022","Northern","American Indian",9,5941,0.2
+"233","2021-2022","Northern","Asian",473,5941,8
+"234","2021-2022","Northern","Black",1009,5941,17
+"235","2021-2022","Northern","Hispanic",1131,5941,19
+"236","2021-2022","Northern","Pacific Islander",3,5941,0.1
+"237","2021-2022","Northern","Multiracial",457,5941,7.7
+"238","2021-2022","Northern","White",2859,5941,48.1
+"239","2021-2022","Southern","American Indian",2,3945,0.1
+"240","2021-2022","Southern","Asian",124,3945,3.1
+"241","2021-2022","Southern","Black",518,3945,13.1
+"242","2021-2022","Southern","Hispanic",726,3945,18.4
+"243","2021-2022","Southern","Pacific Islander",4,3945,0.1
+"244","2021-2022","Southern","Multiracial",301,3945,7.6
+"245","2021-2022","Southern","White",2270,3945,57.5
+"246","2021-2022","Western","American Indian",7,3669,0.2
+"247","2021-2022","Western","Asian",148,3669,4
+"248","2021-2022","Western","Black",71,3669,1.9
+"249","2021-2022","Western","Hispanic",215,3669,5.9
+"250","2021-2022","Western","Pacific Islander",7,3669,0.2
+"251","2021-2022","Western","Multiracial",172,3669,4.7
+"252","2021-2022","Western","White",3049,3669,83.1
+"253","2022-2023","Northern","American Indian",5,6068,0.1
+"254","2022-2023","Northern","Asian",518,6068,8.5
+"255","2022-2023","Northern","Black",1057,6068,17.4
+"256","2022-2023","Northern","Hispanic",1238,6068,20.4
+"257","2022-2023","Northern","Pacific Islander",2,6068,0
+"258","2022-2023","Northern","Multiracial",488,6068,8
+"259","2022-2023","Northern","White",2760,6068,45.5
+"260","2022-2023","Southern","American Indian",2,4005,0
+"261","2022-2023","Southern","Asian",126,4005,3.1
+"262","2022-2023","Southern","Black",529,4005,13.2
+"263","2022-2023","Southern","Hispanic",721,4005,18
+"264","2022-2023","Southern","Pacific Islander",4,4005,0.1
+"265","2022-2023","Southern","Multiracial",308,4005,7.7
+"266","2022-2023","Southern","White",2315,4005,57.8
+"267","2022-2023","Western","American Indian",4,3705,0.1
+"268","2022-2023","Western","Asian",157,3705,4.2
+"269","2022-2023","Western","Black",70,3705,1.9
+"270","2022-2023","Western","Hispanic",232,3705,6.3
+"271","2022-2023","Western","Pacific Islander",4,3705,0.1
+"272","2022-2023","Western","Multiracial",188,3705,5.1
+"273","2022-2023","Western","White",3050,3705,82.3
+"274","2023-2024","Northern","American Indian",10,6008,0.2
+"275","2023-2024","Northern","Asian",552,6008,9.2
+"276","2023-2024","Northern","Black",1033,6008,17.2
+"277","2023-2024","Northern","Hispanic",1286,6008,21.4
+"278","2023-2024","Northern","Multiracial",490,6008,8.2
+"279","2023-2024","Northern","White",2637,6008,43.9
+"280","2023-2024","Southern","American Indian",3,3932,0.1
+"281","2023-2024","Southern","Asian",142,3932,3.6
+"282","2023-2024","Southern","Black",514,3932,13.1
+"283","2023-2024","Southern","Hispanic",753,3932,19.2
+"284","2023-2024","Southern","Pacific Islander",3,3932,0.1
+"285","2023-2024","Southern","Multiracial",292,3932,7.4
+"286","2023-2024","Southern","White",2225,3932,56.6
+"287","2023-2024","Western","American Indian",4,3716,0.1
+"288","2023-2024","Western","Asian",166,3716,4.5
+"289","2023-2024","Western","Black",59,3716,1.6
+"290","2023-2024","Western","Hispanic",263,3716,7.1
+"291","2023-2024","Western","Pacific Islander",4,3716,0.1
+"292","2023-2024","Western","Multiracial",184,3716,5
+"293","2023-2024","Western","White",3036,3716,81.7
+"294","2024-2025","Northern","American Indian",11,6189,0.2
+"295","2024-2025","Northern","Asian",623,6189,10.1
+"296","2024-2025","Northern","Black",1071,6189,17.3
+"297","2024-2025","Northern","Hispanic",1408,6189,22.8
+"298","2024-2025","Northern","Multiracial",487,6189,7.9
+"299","2024-2025","Northern","White",2589,6189,41.8
+"300","2024-2025","Southern","American Indian",4,3954,0.1
+"301","2024-2025","Southern","Asian",140,3954,3.5
+"302","2024-2025","Southern","Black",511,3954,12.9
+"303","2024-2025","Southern","Hispanic",773,3954,19.5
+"304","2024-2025","Southern","Pacific Islander",2,3954,0.1
+"305","2024-2025","Southern","Multiracial",311,3954,7.9
+"306","2024-2025","Southern","White",2213,3954,56
+"307","2024-2025","Western","American Indian",2,3853,0.1
+"308","2024-2025","Western","Asian",165,3853,4.3
+"309","2024-2025","Western","Black",74,3853,1.9
+"310","2024-2025","Western","Hispanic",277,3853,7.2
+"311","2024-2025","Western","Pacific Islander",4,3853,0.1
+"312","2024-2025","Western","Multiracial",208,3853,5.4
+"313","2024-2025","Western","White",3123,3853,81.1

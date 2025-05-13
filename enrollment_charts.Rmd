@@ -1,0 +1,202 @@
+---
+title: "Enrollment Charts"
+author: "Nina Schoonover"
+date: "2025-05-09"
+output: html_document
+---
+###############################################################
+# ACPS Student Success Audit - Enrollment Charts       
+# Authors: Nina Schoonover     
+# Last revised: 2025-05-09
+# Summary: A document that creates charts on Enrollment
+#          for ACPS Audit
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+library(janitor)
+library(ggplot2)
+
+# Load Data
+
+feeder_race_percent <- read_csv("data/feeder_race_percent.csv")
+feeder_econdis_percent <- read.csv("data/feeder_disadvantaged_percent.csv")
+feeder_ell_percent <- read.csv("data/feeder_ell_percent.csv")
+feeder_sped_percent <- read.csv("data/feeder_sped_percent.csv")
+
+
+```
+
+## Race Plots
+
+```{r pressure, echo=FALSE}
+
+# Northern Feeder Pattern
+ggplot() +
+      geom_line(data = feeder_race_percent %>% dplyr::filter(feeder_pattern=="Northern"),
+                aes(x = year, y= fp_percent, group = race, color = race)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      scale_x_continuous(limits=c(2011,2024),breaks=seq(2011,2024,1),
+                     labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
+                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2022-23","2023-24")) +
+      labs(x="School Year", y="Percent Enrolled", 
+          title="Northern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      scale_color_manual(name = "Race",
+                        labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
+                                    "Multiracial", "White"), 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14)) 
+
+# Southern Feeder Pattern
+ggplot() +
+      geom_line(data = feeder_race_percent %>% dplyr::filter(feeder_pattern=="Southern"),
+                aes(x = year, y= fp_percent, group = race, color = race)) +
+     theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Percent Enrolled", 
+          title="Southern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      scale_color_manual(name = "Race",
+                        labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
+                                    "Multiracial", "White"), 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"))  + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14)) 
+
+# Western Feeder Pattern
+ggplot() +
+      geom_line(data = feeder_race_percent %>% dplyr::filter(feeder_pattern=="Western"),
+                aes(x = year, y= fp_percent, group = race, color = race)) +
+      theme_minimal() +
+      scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+      labs(x="School Year", y="Percent Enrolled", 
+          title="Western Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      scale_color_manual(name = "Race",
+                       labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
+                                    "Multiracial", "White"), 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d")) + 
+      theme(legend.title=element_blank(), 
+      legend.position = "top", 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot", 
+      plot.caption.position = "plot", 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans"), 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14)) 
+
+```
+
+## Economically Disadvantaged Plots
+
+```{r pressure, echo=FALSE}
+## Economically Disadvantaged Chart
+
+
+ggplot() +
+      geom_line(data = feeder_econdis_percent,
+                aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
+    theme_minimal() +
+    scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    labs(x="School Year", y="Percent Enrolled", 
+       title="Economically Disadvantaged Enrollment by Feeder Pattern: 2010-2025") +
+    scale_color_manual(name = "Feeder Pattern",
+                     labels = c("Northern","Southern", "Western"),
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+      theme(legend.title=element_blank(), 
+      legend.position = "top" , 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1) , 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot" , 
+      plot.caption.position = "plot" , 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans") , 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+```
+
+## English Learner Plots
+
+```{r pressure, echo=FALSE}
+## English Learner Chart
+
+ggplot() +
+      geom_line(data = feeder_ell_percent,
+                aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
+    theme_minimal() +
+    scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    labs(x="School Year", y="Percent Enrolled", 
+       title="English Learner Enrollment by Feeder Pattern: 2010-2025") +
+    scale_color_manual(name = "Feeder Pattern",
+                     labels = c("Northern","Southern", "Western"),
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+      theme(legend.title=element_blank(), 
+      legend.position = "top" , 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1) , 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot" , 
+      plot.caption.position = "plot" , 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans") , 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+
+```
+
+## SPED Plots
+
+```{r pressure, echo=FALSE}
+## SPED Chart
+
+ggplot() +
+      geom_line(data = feeder_sped_percent,
+                aes(x = year, y= fp_percent, group = feeder_pattern, color = feeder_pattern)) +
+    theme_minimal() +
+    scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
+    labs(x="School Year", y="Percent Enrolled", 
+       title="SPED Enrollment by Feeder Pattern: 2010-2025") +
+    scale_color_manual(name = "Feeder Pattern",
+                     labels = c("Northern","Southern", "Western"),
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+      theme(legend.title=element_blank(), 
+      legend.position = "top" , 
+      legend.text = element_text(size = 12, hjust=.5), 
+      axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1) , 
+      axis.ticks = element_blank(), 
+      plot.title.position= "plot" , 
+      plot.caption.position = "plot" , 
+      axis.text.y = element_text(size = 12), 
+      text = element_text(size = 12, family="sans") , 
+      plot.title = element_text(size = 16, hjust=.65), 
+      plot.caption = element_text(size = 14))
+```
+
+```
+

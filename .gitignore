@@ -1,6 +1,7 @@
 # Raw Data 
 
 raw_data/
+tempdata/
 
 # History files
 .Rhistory
