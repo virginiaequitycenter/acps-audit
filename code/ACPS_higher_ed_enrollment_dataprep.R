@@ -35,7 +35,7 @@ library(janitor)
 ##############################################################
 
 postsec_2011 <- read_excel("raw_data/postsec_2011.xlsx", range="A7:J20") %>%
-                add_column(year=2011) %>%
+                add_column(year="2010-11") %>%
                 rename(student_group=Subgroup,
                        num_hs_diploma=Number...2,
                        any_ihe_num=Number...3,
@@ -48,7 +48,7 @@ postsec_2011 <- read_excel("raw_data/postsec_2011.xlsx", range="A7:J20") %>%
                        two_ihe_pct=Percent...10)
 
 postsec_2012 <- read_excel("raw_data/postsec_2012.xlsx", range="A7:J20") %>%
-  add_column(year=2012) %>%
+  add_column(year="2011-12") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -61,7 +61,7 @@ postsec_2012 <- read_excel("raw_data/postsec_2012.xlsx", range="A7:J20") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2013 <- read_excel("raw_data/postsec_2013.xlsx", range="A7:J20") %>%
-  add_column(year=2013) %>%
+  add_column(year="2012-13") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -74,7 +74,7 @@ postsec_2013 <- read_excel("raw_data/postsec_2013.xlsx", range="A7:J20") %>%
          two_ihe_pct=Percent...10)
   
 postsec_2014 <- read_excel("raw_data/postsec_2014.xlsx", range="A7:J19") %>%
-  add_column(year=2014) %>%
+  add_column(year="2013-14") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -87,7 +87,7 @@ postsec_2014 <- read_excel("raw_data/postsec_2014.xlsx", range="A7:J19") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2015 <- read_excel("raw_data/postsec_2015.xlsx", range="A7:J18") %>%
-  add_column(year=2015) %>%
+  add_column(year="2014-15") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -100,7 +100,7 @@ postsec_2015 <- read_excel("raw_data/postsec_2015.xlsx", range="A7:J18") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2016 <- read_excel("raw_data/postsec_2016.xlsx", range="A7:J20") %>%
-  add_column(year=2016) %>%
+  add_column(year="2015-16") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -113,7 +113,7 @@ postsec_2016 <- read_excel("raw_data/postsec_2016.xlsx", range="A7:J20") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2017 <- read_excel("raw_data/postsec_2017.xlsx", range="A7:J20") %>%
-  add_column(year=2017) %>%
+  add_column(year="2016-17") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -126,7 +126,7 @@ postsec_2017 <- read_excel("raw_data/postsec_2017.xlsx", range="A7:J20") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2018 <- read_excel("raw_data/postsec_2018.xlsx", range="A7:J19") %>%
-  add_column(year=2018) %>%
+  add_column(year="2017-18") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -139,7 +139,7 @@ postsec_2018 <- read_excel("raw_data/postsec_2018.xlsx", range="A7:J19") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2019 <- read_excel("raw_data/postsec_2019.xlsx", range="A7:J19") %>%
-  add_column(year=2019) %>%
+  add_column(year="2018-19") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -152,7 +152,7 @@ postsec_2019 <- read_excel("raw_data/postsec_2019.xlsx", range="A7:J19") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2020 <- read_excel("raw_data/postsec_2020.xlsx", range="A7:J18") %>%
-  add_column(year=2020) %>%
+  add_column(year="2019-20") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -165,7 +165,7 @@ postsec_2020 <- read_excel("raw_data/postsec_2020.xlsx", range="A7:J18") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2021 <- read_excel("raw_data/postsec_2021.xlsx", range="A7:J18") %>%
-  add_column(year=2021) %>%
+  add_column(year="2020-21") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -178,7 +178,7 @@ postsec_2021 <- read_excel("raw_data/postsec_2021.xlsx", range="A7:J18") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2022 <- read_excel("raw_data/postsec_2022.xlsx", range="A7:J19") %>%
-  add_column(year=2022) %>%
+  add_column(year="2021-22") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -191,7 +191,7 @@ postsec_2022 <- read_excel("raw_data/postsec_2022.xlsx", range="A7:J19") %>%
          two_ihe_pct=Percent...10)
 
 postsec_2023 <- read_excel("raw_data/postsec_2023.xlsx", range="A7:J19") %>%
-  add_column(year=2023) %>%
+  add_column(year="2022-23") %>%
   rename(student_group=Subgroup,
          num_hs_diploma=Number...2,
          any_ihe_num=Number...3,
@@ -247,7 +247,9 @@ ihe_allyears <- ihe_allyears %>% mutate(data_level=
 ihe_allyears <- ihe_allyears %>% 
   mutate_at(vars("num_hs_diploma","any_ihe_num","any_ihe_pct","fourpub_ihe_num",
                  "fourpub_ihe_pct","fourpri_ihe_num","fourpri_ihe_pct","two_ihe_num",
-                 "two_ihe_pct","year"),as.numeric)
+                 "two_ihe_pct"),as.numeric)
+
+ihe_allyears <- ihe_allyears %>% replace(is.na(.), 0)
 
 ihe_allyears <- ihe_allyears %>% add_column(four_ihe_num=0)
 ihe_allyears <- ihe_allyears %>% mutate(four_ihe_num=fourpri_ihe_num+fourpub_ihe_num)
@@ -255,14 +257,22 @@ ihe_allyears <- ihe_allyears %>% mutate(four_ihe_num=fourpri_ihe_num+fourpub_ihe
 ihe_allyears <- ihe_allyears %>% add_column(four_ihe_pct=0)
 ihe_allyears <- ihe_allyears %>% mutate(four_ihe_pct=fourpri_ihe_pct+fourpub_ihe_pct)
 
-ihe_allyears <- ihe_allyears %>% add_column(short_year=0)
-ihe_allyears <- ihe_allyears %>% mutate(short_year=year-2000)
-
-ihe_allyears <- ihe_allyears %>% select("year","short_year","data_level","student_group",
+ihe_allyears <- ihe_allyears %>% select("year","data_level","student_group",
                                         "num_hs_diploma","any_ihe_num","any_ihe_pct",
                                         "fourpub_ihe_num","fourpub_ihe_pct","fourpri_ihe_num",
                                         "fourpri_ihe_pct","four_ihe_num","four_ihe_pct",
                                         "two_ihe_num","two_ihe_pct")
+
+##############################################################
+# Rename Necessary Categories
+##############################################################
+
+ihe_allyears <- ihe_allyears %>% mutate(student_group=ifelse(student_group=="2 or More",
+                                        "Multiracial",student_group))
+ihe_allyears <- ihe_allyears %>% mutate(student_group=ifelse(student_group=="Limited English Proficient Students",
+                                                             "English Learner",student_group))
+ihe_allyears <- ihe_allyears %>% mutate(student_group=ifelse(student_group=="Students with Disabilities",
+                                                             "Disabled",student_group))
 
 
 ihe_allyears %>% write_csv("data/ACPS_higher_ed_enrollment_data_2008-24.csv")

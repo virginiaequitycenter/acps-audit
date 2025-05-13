@@ -192,6 +192,14 @@ ap_allyears <- merge(x=ap_allyears,y=ap_202122,all.x=TRUE,all.y=TRUE)
 ap_allyears <- merge(x=ap_allyears,y=ap_202223,all.x=TRUE,all.y=TRUE)
 ap_allyears <- merge(x=ap_allyears,y=ap_202324,all.x=TRUE,all.y=TRUE)
 
+# Change Categories for Years
+ap_allyears <- ap_allyears %>% mutate(year=ifelse(year==2019,"2019-20",year))
+ap_allyears <- ap_allyears %>% mutate(year=ifelse(year==2020,"2020-21",year))
+ap_allyears <- ap_allyears %>% mutate(year=ifelse(year==2021,"2021-22",year))
+ap_allyears <- ap_allyears %>% mutate(year=ifelse(year==2022,"2022-23",year))
+ap_allyears <- ap_allyears %>% mutate(year=ifelse(year==2023,"2023-24",year))
+
+
 ##############################################################
 # Dataset Cleaning
 ##############################################################
@@ -217,7 +225,7 @@ ap_allyears <- ap_allyears %>% mutate(student_group=
 ap_allyears <- ap_allyears %>% replace(is.na(.), 0)
 
 ap_allyears <- ap_allyears %>% 
-  mutate_at(vars("ap_stu_num","de_stu_num","year"),as.numeric)
+  mutate_at(vars("ap_stu_num","de_stu_num"),as.numeric)
 
 ##############################################################
 # Call and Merge Relevant Enrollment Data
@@ -251,13 +259,6 @@ membership <- membership %>% select("school_year","student_group","school_name",
                                     "grade_count","data_level","level")
 membership <- membership %>% rename(year=school_year)
 
-# Change Categories for Years
-membership <- membership %>% mutate(year=ifelse(year=="2019-2020",2019,year))
-membership <- membership %>% mutate(year=ifelse(year=="2020-2021",2020,year))
-membership <- membership %>% mutate(year=ifelse(year=="2021-2022",2021,year))
-membership <- membership %>% mutate(year=ifelse(year=="2022-2023",2022,year))
-membership <- membership %>% mutate(year=ifelse(year=="2023-2024",2023,year))
-
 # Change Group Categories for Student Groups
 membership <- membership %>% mutate(student_group=
                                         ifelse(student_group=="Black, not of Hispanic origin","Black",student_group))
@@ -265,6 +266,12 @@ membership <- membership %>% mutate(student_group=
                                         ifelse(student_group=="Non-Hispanic, two or more races","Multiracial",student_group))
 membership <- membership %>% mutate(student_group=
                                         ifelse(student_group=="White, not of Hispanic origin","White",student_group))
+
+membership <- membership %>% mutate(year=ifelse(year=="2019-2020","2019-20",year))
+membership <- membership %>% mutate(year=ifelse(year=="2020-2021","2020-21",year))
+membership <- membership %>% mutate(year=ifelse(year=="2021-2022","2021-22",year))
+membership <- membership %>% mutate(year=ifelse(year=="2022-2023","2022-23",year))
+membership <- membership %>% mutate(year=ifelse(year=="2023-2024","2023-24",year))
 
 ##############################################################
 # Merge Enrollment Data with AP and DE Data for Division
@@ -278,6 +285,7 @@ ap_allyears_div <- ap_allyears_div %>% add_column(perc_de=round((ap_allyears_div
 colnames(ap_allyears_div) <- c("year","student_group","data_level","school_name","tenth-twelfth_grade_count",
                                 "level","sum_ap","sum_de","perc_ap","perc_de")
 ap_allyears_div <- ap_allyears_div %>% select(!c("level","school_name"))
+
 
 ap_allyears_div %>% write_csv("data/ACPS_advanced_coursework_div_data_2019-23.csv")
 

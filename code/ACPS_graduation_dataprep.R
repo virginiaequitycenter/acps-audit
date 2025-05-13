@@ -89,6 +89,23 @@ grad_all_subgroups <- grad_all_subgroups %>% add_column(perc_advanced=
                                                         grad_all_subgroups$advanced_studies*100/
                                                         grad_all_subgroups$total_graduates)
 
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2008","2007-08",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2009","2008-09",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2010","2009-10",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2011","2010-11",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2012","2011-12",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2013","2012-13",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2014","2013-14",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2015","2014-15",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2016","2015-16",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2017","2016-17",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2018","2017-18",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2019","2018-19",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2020","2019-20",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2021","2020-21",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2022","2021-22",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2023","2022-23",cohort_year))
+#grad_all_subgroups <- grad_all_subgroups %>% mutate(cohort_year=ifelse(cohort_year=="2024","2023-24",cohort_year))
 
 grad_all_subgroups %>% write_csv("data/ACPS_graduation_data_2008-24.csv")
 

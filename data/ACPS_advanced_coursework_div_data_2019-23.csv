@@ -1,53 +1,53 @@
 year,student_group,data_level,tenth-twelfth_grade_count,sum_ap,sum_de,perc_ap,perc_de
-2019,All Students,All,3277,1657,872,50.56,26.61
-2019,American Indian or Alaska Native,Race,3,0,0,0,0
-2019,Asian,Race,169,122,53,72.19,31.36
-2019,Black,Race,338,67,67,19.82,19.82
-2019,Economically Advantaged,Economic Advantage,2535,1478,748,58.3,29.51
-2019,Economically Disadvantaged,Economic Advantage,742,179,124,24.12,16.71
-2019,Hispanic,Race,399,99,59,24.81,14.79
-2019,Multiracial,Race,179,92,47,51.4,26.26
-2019,Native Hawaiian  or Pacific Islander,Race,1,0,0,0,0
-2019,White,Race,2188,1277,639,58.36,29.2
-2020,All Students,All,3265,1717,853,52.59,26.13
-2020,American Indian or Alaska Native,Race,5,0,0,0,0
-2020,Asian,Race,178,130,62,73.03,34.83
-2020,Black,Race,359,78,72,21.73,20.06
-2020,Economically Advantaged,Economic Advantage,2358,1503,687,63.74,29.13
-2020,Economically Disadvantaged,Economic Advantage,907,214,166,23.59,18.3
-2020,Hispanic,Race,403,116,66,28.78,16.38
-2020,Multiracial,Race,186,100,47,53.76,25.27
-2020,Native Hawaiian  or Pacific Islander,Race,1,0,0,0,0
-2020,White,Race,2133,1293,597,60.62,27.99
-2021,All Students,All,3245,1554,799,47.89,24.62
-2021,American Indian or Alaska Native,Race,5,0,1,0,20
-2021,Asian,Race,165,114,49,69.09,29.7
-2021,Black,Race,346,72,52,20.81,15.03
-2021,Economically Advantaged,Economic Advantage,2508,1400,684,55.82,27.27
-2021,Economically Disadvantaged,Economic Advantage,737,154,115,20.9,15.6
-2021,Hispanic,Race,435,103,62,23.68,14.25
-2021,Multiracial,Race,182,82,52,45.05,28.57
-2021,Native Hawaiian  or Pacific Islander,Race,2,0,0,0,0
-2021,White,Race,2110,1183,583,56.07,27.63
-2022,All Students,All,3361,989,857,29.43,25.5
-2022,American Indian or Alaska Native,Race,5,0,1,0,20
-2022,Asian,Race,190,106,57,55.79,30
-2022,Black,Race,383,54,67,14.1,17.49
-2022,Economically Advantaged,Economic Advantage,2443,872,716,35.69,29.31
-2022,Economically Disadvantaged,Economic Advantage,918,117,141,12.75,15.36
-2022,Hispanic,Race,503,81,76,16.1,15.11
-2022,Multiracial,Race,192,52,45,27.08,23.44
-2022,Native Hawaiian  or Pacific Islander,Race,1,NA,NA,NA,NA
-2022,Native Hawaiian or Pacific Islander,Race,NA,0,0,NA,NA
-2022,White,Race,2087,696,611,33.35,29.28
-2023,All Students,All,3327,1607,1013,48.3,30.45
-2023,American Indian or Alaska Native,Race,4,0,0,0,0
-2023,Asian,Race,188,133,83,70.74,44.15
-2023,Black,Race,373,70,70,18.77,18.77
-2023,Economically Advantaged,Economic Advantage,2405,1403,817,58.34,33.97
-2023,Economically Disadvantaged,Economic Advantage,922,204,196,22.13,21.26
-2023,Hispanic,Race,548,145,96,26.46,17.52
-2023,Multiracial,Race,199,69,47,34.67,23.62
-2023,Native Hawaiian  or Pacific Islander,Race,3,NA,NA,NA,NA
-2023,Native Hawaiian or Pacific Islander,Race,NA,2,3,NA,NA
-2023,White,Race,2012,1188,714,59.05,35.49
+2019-20,All Students,All,3277,1657,872,50.56,26.61
+2019-20,American Indian or Alaska Native,Race,3,0,0,0,0
+2019-20,Asian,Race,169,122,53,72.19,31.36
+2019-20,Black,Race,338,67,67,19.82,19.82
+2019-20,Economically Advantaged,Economic Advantage,2535,1478,748,58.3,29.51
+2019-20,Economically Disadvantaged,Economic Advantage,742,179,124,24.12,16.71
+2019-20,Hispanic,Race,399,99,59,24.81,14.79
+2019-20,Multiracial,Race,179,92,47,51.4,26.26
+2019-20,Native Hawaiian  or Pacific Islander,Race,1,0,0,0,0
+2019-20,White,Race,2188,1277,639,58.36,29.2
+2020-21,All Students,All,3265,1717,853,52.59,26.13
+2020-21,American Indian or Alaska Native,Race,5,0,0,0,0
+2020-21,Asian,Race,178,130,62,73.03,34.83
+2020-21,Black,Race,359,78,72,21.73,20.06
+2020-21,Economically Advantaged,Economic Advantage,2358,1503,687,63.74,29.13
+2020-21,Economically Disadvantaged,Economic Advantage,907,214,166,23.59,18.3
+2020-21,Hispanic,Race,403,116,66,28.78,16.38
+2020-21,Multiracial,Race,186,100,47,53.76,25.27
+2020-21,Native Hawaiian  or Pacific Islander,Race,1,0,0,0,0
+2020-21,White,Race,2133,1293,597,60.62,27.99
+2021-22,All Students,All,3245,1554,799,47.89,24.62
+2021-22,American Indian or Alaska Native,Race,5,0,1,0,20
+2021-22,Asian,Race,165,114,49,69.09,29.7
+2021-22,Black,Race,346,72,52,20.81,15.03
+2021-22,Economically Advantaged,Economic Advantage,2508,1400,684,55.82,27.27
+2021-22,Economically Disadvantaged,Economic Advantage,737,154,115,20.9,15.6
+2021-22,Hispanic,Race,435,103,62,23.68,14.25
+2021-22,Multiracial,Race,182,82,52,45.05,28.57
+2021-22,Native Hawaiian  or Pacific Islander,Race,2,0,0,0,0
+2021-22,White,Race,2110,1183,583,56.07,27.63
+2022-23,All Students,All,3361,989,857,29.43,25.5
+2022-23,American Indian or Alaska Native,Race,5,0,1,0,20
+2022-23,Asian,Race,190,106,57,55.79,30
+2022-23,Black,Race,383,54,67,14.1,17.49
+2022-23,Economically Advantaged,Economic Advantage,2443,872,716,35.69,29.31
+2022-23,Economically Disadvantaged,Economic Advantage,918,117,141,12.75,15.36
+2022-23,Hispanic,Race,503,81,76,16.1,15.11
+2022-23,Multiracial,Race,192,52,45,27.08,23.44
+2022-23,Native Hawaiian  or Pacific Islander,Race,1,NA,NA,NA,NA
+2022-23,Native Hawaiian or Pacific Islander,Race,NA,0,0,NA,NA
+2022-23,White,Race,2087,696,611,33.35,29.28
+2023-24,All Students,All,3327,1607,1013,48.3,30.45
+2023-24,American Indian or Alaska Native,Race,4,0,0,0,0
+2023-24,Asian,Race,188,133,83,70.74,44.15
+2023-24,Black,Race,373,70,70,18.77,18.77
+2023-24,Economically Advantaged,Economic Advantage,2405,1403,817,58.34,33.97
+2023-24,Economically Disadvantaged,Economic Advantage,922,204,196,22.13,21.26
+2023-24,Hispanic,Race,548,145,96,26.46,17.52
+2023-24,Multiracial,Race,199,69,47,34.67,23.62
+2023-24,Native Hawaiian  or Pacific Islander,Race,3,NA,NA,NA,NA
+2023-24,Native Hawaiian or Pacific Islander,Race,NA,2,3,NA,NA
+2023-24,White,Race,2012,1188,714,59.05,35.49

@@ -1,159 +1,159 @@
-year,short_year,data_level,student_group,num_hs_diploma,any_ihe_num,any_ihe_pct,fourpub_ihe_num,fourpub_ihe_pct,fourpri_ihe_num,fourpri_ihe_pct,four_ihe_num,four_ihe_pct,two_ihe_num,two_ihe_pct
-2014,14,Race,2 or More,30,22,73,12,40,5,17,17,57,5,17
-2011,11,Race,2 or More,31,19,61,7,23,4,13,11,36,8,26
-2012,12,Race,2 or More,34,32,94,18,53,2,6,20,59,12,35
-2016,16,Race,2 or More,39,32,82,15,38,7,18,22,56,10,26
-2013,13,Race,2 or More,40,34,85,18,45,5,13,23,58,11,28
-2019,19,Race,2 or More,44,36,82,25,57,4,9,29,66,7,16
-2015,15,Race,2 or More,46,39,85,20,43,4,9,24,52,15,33
-2017,17,Race,2 or More,49,34,69,19,39,4,8,23,47,11,22
-2018,18,Race,2 or More,53,40,75,27,51,3,6,30,57,10,19
-2021,21,Race,2 or More,55,41,75,23,42,8,15,31,57,10,18
-2020,20,Race,2 or More,57,47,82,19,33,6,11,25,44,22,39
-2022,22,Race,2 or More,60,46,77,17,28,10,17,27,45,19,32
-2023,23,Race,2 or More,67,43,64,24,36,7,10,31,46,12,18
-2022,22,All,All Students,1004,758,75,391,39,132,13,523,52,235,23
-2018,18,All,All Students,1016,761,75,437,43,106,10,543,53,218,21
-2021,21,All,All Students,1024,767,75,441,43,115,11,556,54,211,21
-2023,23,All,All Students,1040,746,72,448,43,113,11,561,54,185,18
-2012,12,All,All Students,901,721,80,382,42,128,14,510,56,211,23
-2015,15,All,All Students,908,722,80,419,46,108,12,527,58,195,21
-2014,14,All,All Students,917,714,78,404,44,135,15,539,59,175,19
-2013,13,All,All Students,918,719,78,391,43,124,14,515,57,204,22
-2011,11,All,All Students,919,696,76,404,44,101,11,505,55,191,21
-2016,16,All,All Students,948,730,77,410,43,144,15,554,58,176,19
-2017,17,All,All Students,953,740,78,432,45,98,10,530,55,210,22
-2019,19,All,All Students,991,770,78,456,46,109,11,565,57,205,21
-2020,20,All,All Students,999,750,75,421,42,102,10,523,52,227,23
-2011,11,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012,12,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2013,13,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2014,14,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2016,16,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2017,17,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2018,18,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2022,22,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,23,Race,American Indian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012,12,Race,Asian,29,25,86,19,66,4,14,23,80,2,7
-2011,11,Race,Asian,35,31,89,21,60,4,11,25,71,6,17
-2016,16,Race,Asian,36,33,92,21,58,8,22,29,80,4,11
-2014,14,Race,Asian,39,34,87,20,51,7,18,27,69,7,18
-2013,13,Race,Asian,40,35,88,22,55,5,13,27,68,8,20
-2015,15,Race,Asian,44,42,95,27,61,5,11,32,72,10,23
-2017,17,Race,Asian,45,42,93,25,56,6,13,31,69,11,24
-2020,20,Race,Asian,45,43,96,26,58,5,11,31,69,12,27
-2022,22,Race,Asian,47,40,85,19,40,7,15,26,55,14,30
-2019,19,Race,Asian,49,45,92,30,61,6,12,36,73,9,18
-2018,18,Race,Asian,50,44,88,25,50,6,12,31,62,13,26
-2023,23,Race,Asian,63,56,89,35,56,5,8,40,64,16,25
-2021,21,Race,Asian,68,61,90,44,65,6,9,50,74,11,16
-2019,19,Race,Black,100,62,62,26,26,15,15,41,41,21,21
-2016,16,Race,Black,103,61,59,33,32,12,12,45,44,16,16
-2018,18,Race,Black,103,68,66,24,23,9,9,33,32,35,34
-2020,20,Race,Black,104,64,62,24,23,6,6,30,29,34,33
-2021,21,Race,Black,111,72,65,28,25,11,10,39,35,33,30
-2017,17,Race,Black,115,76,66,30,26,13,11,43,37,33,29
-2023,23,Race,Black,116,68,59,32,28,16,14,48,42,20,17
-2015,15,Race,Black,83,62,75,26,31,13,16,39,47,23,28
-2013,13,Race,Black,94,64,68,18,19,11,12,29,31,35,37
-2012,12,Race,Black,94,69,73,27,29,9,10,36,39,33,35
-2011,11,Race,Black,96,59,61,25,26,7,7,32,33,27,28
-2014,14,Race,Black,97,64,66,27,28,11,11,38,39,26,27
-2022,22,Race,Black,98,61,62,28,29,13,13,41,42,20,20
-2012,12,Economic Status,Economically Disadvantaged,132,84,64,29,22,12,9,41,31,43,33
-2013,13,Economic Status,Economically Disadvantaged,151,81,54,13,9,13,9,26,18,55,36
-2016,16,Economic Status,Economically Disadvantaged,155,77,50,23,15,11,7,34,22,43,28
-2011,11,Economic Status,Economically Disadvantaged,162,77,48,25,15,9,6,34,21,43,27
-2014,14,Economic Status,Economically Disadvantaged,163,91,56,29,18,9,6,38,24,53,33
-2015,15,Economic Status,Economically Disadvantaged,167,101,60,36,22,11,7,47,29,54,32
-2017,17,Economic Status,Economically Disadvantaged,198,111,56,32,16,14,7,46,23,65,33
-2018,18,Economic Status,Economically Disadvantaged,211,117,55,28,13,19,9,47,22,70,33
-2019,19,Economic Status,Economically Disadvantaged,215,126,59,36,17,16,7,52,24,74,34
-2022,22,Economic Status,Economically Disadvantaged,225,115,51,30,13,17,8,47,21,68,30
-2020,20,Economic Status,Economically Disadvantaged,246,136,55,48,20,9,4,57,24,79,32
-2023,23,Economic Status,Economically Disadvantaged,259,127,49,46,18,18,7,64,25,63,24
-2021,21,Economic Status,Economically Disadvantaged,270,144,53,51,19,16,6,67,25,77,29
-2015,15,Gender,Female,441,362,82,213,48,62,14,275,62,87,20
-2012,12,Gender,Female,450,364,81,196,44,60,13,256,57,108,24
-2013,13,Gender,Female,453,368,81,215,47,67,15,282,62,86,19
-2011,11,Gender,Female,469,389,83,234,50,62,13,296,63,93,20
-2016,16,Gender,Female,476,378,79,228,48,78,16,306,64,72,15
-2014,14,Gender,Female,477,396,83,230,48,69,14,299,62,97,20
-2020,20,Gender,Female,487,396,81,238,49,54,11,292,60,104,21
-2019,19,Gender,Female,488,415,85,231,47,76,16,307,63,108,22
-2017,17,Gender,Female,505,427,85,266,53,50,10,316,63,111,22
-2022,22,Gender,Female,510,416,82,197,39,78,15,275,54,141,28
-2023,23,Gender,Female,517,412,80,248,48,71,14,319,62,93,18
-2018,18,Gender,Female,517,416,80,237,46,71,14,308,60,108,21
-2021,21,Gender,Female,534,434,81,257,48,74,14,331,62,103,19
-2020,20,Race,Hispanic,100,54,54,17,17,7,7,24,24,30,30
-2021,21,Race,Hispanic,115,58,50,24,21,4,3,28,24,30,26
-2022,22,Race,Hispanic,121,66,55,17,14,5,4,22,18,44,36
-2023,23,Race,Hispanic,122,59,48,19,16,6,5,25,21,34,28
-2011,11,Race,Hispanic,53,32,60,9,17,3,6,12,23,20,38
-2012,12,Race,Hispanic,54,33,61,10,19,4,7,14,26,19,35
-2014,14,Race,Hispanic,59,37,63,12,20,8,14,20,34,17,29
-2015,15,Race,Hispanic,67,46,69,20,30,5,7,25,37,21,31
-2013,13,Race,Hispanic,67,48,72,17,25,9,13,26,38,22,33
-2016,16,Race,Hispanic,69,45,65,15,22,2,3,17,25,28,41
-2017,17,Race,Hispanic,74,42,57,16,22,2,3,18,25,24,32
-2018,18,Race,Hispanic,85,41,48,11,13,NA,NA,NA,NA,30,35
-2019,19,Race,Hispanic,94,51,54,10,11,6,6,16,17,35,37
-2011,11,English Learners,Limited English Proficient Students,34,18,53,3,9,3,9,6,18,12,35
-2016,16,English Learners,Limited English Proficient Students,40,26,65,6,15,3,8,9,23,17,43
-2013,13,English Learners,Limited English Proficient Students,42,28,67,6,14,3,7,9,21,19,45
-2012,12,English Learners,Limited English Proficient Students,45,23,51,11,24,1,2,12,26,11,24
-2017,17,English Learners,Limited English Proficient Students,45,26,58,6,13,1,2,7,15,19,42
-2014,14,English Learners,Limited English Proficient Students,47,33,70,15,32,1,2,16,34,17,36
-2015,15,English Learners,Limited English Proficient Students,48,35,73,12,25,2,4,14,29,21,44
-2019,19,English Learners,Limited English Proficient Students,60,27,45,5,8,1,2,6,10,21,35
-2023,23,English Learners,Limited English Proficient Students,67,29,43,4,6,1,1,5,7,24,36
-2020,20,English Learners,Limited English Proficient Students,68,37,54,10,15,1,1,11,16,26,38
-2018,18,English Learners,Limited English Proficient Students,68,38,56,6,9,1,1,7,10,31,46
-2022,22,English Learners,Limited English Proficient Students,71,34,48,5,7,2,3,7,10,27,38
-2021,21,English Learners,Limited English Proficient Students,73,34,47,11,15,2,3,13,18,21,29
-2014,14,Gender,Male,440,318,72,174,40,66,15,240,55,78,18
-2017,17,Gender,Male,448,313,70,166,37,48,11,214,48,99,22
-2011,11,Gender,Male,450,307,68,170,38,39,9,209,47,98,22
-2012,12,Gender,Male,451,357,79,186,41,68,15,254,56,103,23
-2013,13,Gender,Male,465,351,75,176,38,57,12,233,50,118,25
-2015,15,Gender,Male,467,360,77,206,44,46,10,252,54,108,23
-2016,16,Gender,Male,472,352,75,182,39,66,14,248,53,104,22
-2021,21,Gender,Male,490,333,68,184,38,41,8,225,46,108,22
-2022,22,Gender,Male,494,342,69,194,39,54,11,248,50,94,19
-2018,18,Gender,Male,499,345,69,200,40,35,7,235,47,110,22
-2019,19,Gender,Male,503,355,71,225,45,33,7,258,52,97,19
-2020,20,Gender,Male,512,354,69,183,36,48,9,231,45,123,24
-2023,23,Gender,Male,523,334,64,200,38,42,8,242,46,92,18
-2011,11,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2012,12,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2013,13,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2016,16,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2017,17,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2019,19,Race,Native Hawaiian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,23,Disability,Students with Disabilities,100,41,41,14,14,3,3,17,17,24,24
-2020,20,Disability,Students with Disabilities,102,47,46,11,11,6,6,17,17,30,29
-2022,22,Disability,Students with Disabilities,114,61,54,21,18,6,5,27,23,34,30
-2021,21,Disability,Students with Disabilities,129,61,47,19,15,7,5,26,20,35,27
-2013,13,Disability,Students with Disabilities,63,31,49,7,11,8,13,15,24,16,25
-2016,16,Disability,Students with Disabilities,66,35,53,12,18,5,8,17,26,18,27
-2014,14,Disability,Students with Disabilities,73,40,55,11,15,4,5,15,20,25,34
-2018,18,Disability,Students with Disabilities,74,32,43,10,14,3,4,13,18,19,26
-2015,15,Disability,Students with Disabilities,80,56,70,18,23,6,8,24,31,32,40
-2012,12,Disability,Students with Disabilities,85,55,65,14,16,10,12,24,28,31,36
-2011,11,Disability,Students with Disabilities,87,44,51,14,16,8,9,22,25,22,25
-2019,19,Disability,Students with Disabilities,89,51,57,15,17,6,7,21,24,30,34
-2017,17,Disability,Students with Disabilities,91,55,60,16,18,10,11,26,29,29,32
-2017,17,Race,White,665,542,82,342,51,72,11,414,62,128,19
-2015,15,Race,White,668,533,80,326,49,81,12,407,61,126,19
-2023,23,Race,White,670,518,77,338,50,79,12,417,62,101,15
-2013,13,Race,White,674,536,80,315,47,94,14,409,61,127,19
-2021,21,Race,White,675,535,79,322,48,86,13,408,61,127,19
-2022,22,Race,White,676,543,80,310,46,97,14,407,60,136,20
-2012,12,Race,White,687,560,82,308,45,109,16,417,61,143,21
-2014,14,Race,White,688,555,81,332,48,104,15,436,63,119,17
-2020,20,Race,White,693,542,78,335,48,78,11,413,59,129,19
-2016,16,Race,White,698,556,80,324,46,115,16,439,62,117,17
-2011,11,Race,White,699,552,79,341,49,83,12,424,61,128,18
-2019,19,Race,White,702,575,82,365,52,78,11,443,63,132,19
-2018,18,Race,White,720,565,78,350,49,87,12,437,61,128,18
+year,data_level,student_group,num_hs_diploma,any_ihe_num,any_ihe_pct,fourpub_ihe_num,fourpub_ihe_pct,fourpri_ihe_num,fourpri_ihe_pct,four_ihe_num,four_ihe_pct,two_ihe_num,two_ihe_pct
+2013-14,Race,Multiracial,30,22,73,12,40,5,17,17,57,5,17
+2010-11,Race,Multiracial,31,19,61,7,23,4,13,11,36,8,26
+2011-12,Race,Multiracial,34,32,94,18,53,2,6,20,59,12,35
+2015-16,Race,Multiracial,39,32,82,15,38,7,18,22,56,10,26
+2012-13,Race,Multiracial,40,34,85,18,45,5,13,23,58,11,28
+2018-19,Race,Multiracial,44,36,82,25,57,4,9,29,66,7,16
+2014-15,Race,Multiracial,46,39,85,20,43,4,9,24,52,15,33
+2016-17,Race,Multiracial,49,34,69,19,39,4,8,23,47,11,22
+2017-18,Race,Multiracial,53,40,75,27,51,3,6,30,57,10,19
+2020-21,Race,Multiracial,55,41,75,23,42,8,15,31,57,10,18
+2019-20,Race,Multiracial,57,47,82,19,33,6,11,25,44,22,39
+2021-22,Race,Multiracial,60,46,77,17,28,10,17,27,45,19,32
+2022-23,Race,Multiracial,67,43,64,24,36,7,10,31,46,12,18
+2021-22,All,All Students,1004,758,75,391,39,132,13,523,52,235,23
+2017-18,All,All Students,1016,761,75,437,43,106,10,543,53,218,21
+2020-21,All,All Students,1024,767,75,441,43,115,11,556,54,211,21
+2022-23,All,All Students,1040,746,72,448,43,113,11,561,54,185,18
+2011-12,All,All Students,901,721,80,382,42,128,14,510,56,211,23
+2014-15,All,All Students,908,722,80,419,46,108,12,527,58,195,21
+2013-14,All,All Students,917,714,78,404,44,135,15,539,59,175,19
+2012-13,All,All Students,918,719,78,391,43,124,14,515,57,204,22
+2010-11,All,All Students,919,696,76,404,44,101,11,505,55,191,21
+2015-16,All,All Students,948,730,77,410,43,144,15,554,58,176,19
+2016-17,All,All Students,953,740,78,432,45,98,10,530,55,210,22
+2018-19,All,All Students,991,770,78,456,46,109,11,565,57,205,21
+2019-20,All,All Students,999,750,75,421,42,102,10,523,52,227,23
+2010-11,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2011-12,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2012-13,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2013-14,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2015-16,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2016-17,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2017-18,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2021-22,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2022-23,Race,American Indian,0,0,0,0,0,0,0,0,0,0,0
+2011-12,Race,Asian,29,25,86,19,66,4,14,23,80,2,7
+2010-11,Race,Asian,35,31,89,21,60,4,11,25,71,6,17
+2015-16,Race,Asian,36,33,92,21,58,8,22,29,80,4,11
+2013-14,Race,Asian,39,34,87,20,51,7,18,27,69,7,18
+2012-13,Race,Asian,40,35,88,22,55,5,13,27,68,8,20
+2014-15,Race,Asian,44,42,95,27,61,5,11,32,72,10,23
+2016-17,Race,Asian,45,42,93,25,56,6,13,31,69,11,24
+2019-20,Race,Asian,45,43,96,26,58,5,11,31,69,12,27
+2021-22,Race,Asian,47,40,85,19,40,7,15,26,55,14,30
+2018-19,Race,Asian,49,45,92,30,61,6,12,36,73,9,18
+2017-18,Race,Asian,50,44,88,25,50,6,12,31,62,13,26
+2022-23,Race,Asian,63,56,89,35,56,5,8,40,64,16,25
+2020-21,Race,Asian,68,61,90,44,65,6,9,50,74,11,16
+2018-19,Race,Black,100,62,62,26,26,15,15,41,41,21,21
+2015-16,Race,Black,103,61,59,33,32,12,12,45,44,16,16
+2017-18,Race,Black,103,68,66,24,23,9,9,33,32,35,34
+2019-20,Race,Black,104,64,62,24,23,6,6,30,29,34,33
+2020-21,Race,Black,111,72,65,28,25,11,10,39,35,33,30
+2016-17,Race,Black,115,76,66,30,26,13,11,43,37,33,29
+2022-23,Race,Black,116,68,59,32,28,16,14,48,42,20,17
+2014-15,Race,Black,83,62,75,26,31,13,16,39,47,23,28
+2012-13,Race,Black,94,64,68,18,19,11,12,29,31,35,37
+2011-12,Race,Black,94,69,73,27,29,9,10,36,39,33,35
+2010-11,Race,Black,96,59,61,25,26,7,7,32,33,27,28
+2013-14,Race,Black,97,64,66,27,28,11,11,38,39,26,27
+2021-22,Race,Black,98,61,62,28,29,13,13,41,42,20,20
+2011-12,Economic Status,Economically Disadvantaged,132,84,64,29,22,12,9,41,31,43,33
+2012-13,Economic Status,Economically Disadvantaged,151,81,54,13,9,13,9,26,18,55,36
+2015-16,Economic Status,Economically Disadvantaged,155,77,50,23,15,11,7,34,22,43,28
+2010-11,Economic Status,Economically Disadvantaged,162,77,48,25,15,9,6,34,21,43,27
+2013-14,Economic Status,Economically Disadvantaged,163,91,56,29,18,9,6,38,24,53,33
+2014-15,Economic Status,Economically Disadvantaged,167,101,60,36,22,11,7,47,29,54,32
+2016-17,Economic Status,Economically Disadvantaged,198,111,56,32,16,14,7,46,23,65,33
+2017-18,Economic Status,Economically Disadvantaged,211,117,55,28,13,19,9,47,22,70,33
+2018-19,Economic Status,Economically Disadvantaged,215,126,59,36,17,16,7,52,24,74,34
+2021-22,Economic Status,Economically Disadvantaged,225,115,51,30,13,17,8,47,21,68,30
+2019-20,Economic Status,Economically Disadvantaged,246,136,55,48,20,9,4,57,24,79,32
+2022-23,Economic Status,Economically Disadvantaged,259,127,49,46,18,18,7,64,25,63,24
+2020-21,Economic Status,Economically Disadvantaged,270,144,53,51,19,16,6,67,25,77,29
+2014-15,Gender,Female,441,362,82,213,48,62,14,275,62,87,20
+2011-12,Gender,Female,450,364,81,196,44,60,13,256,57,108,24
+2012-13,Gender,Female,453,368,81,215,47,67,15,282,62,86,19
+2010-11,Gender,Female,469,389,83,234,50,62,13,296,63,93,20
+2015-16,Gender,Female,476,378,79,228,48,78,16,306,64,72,15
+2013-14,Gender,Female,477,396,83,230,48,69,14,299,62,97,20
+2019-20,Gender,Female,487,396,81,238,49,54,11,292,60,104,21
+2018-19,Gender,Female,488,415,85,231,47,76,16,307,63,108,22
+2016-17,Gender,Female,505,427,85,266,53,50,10,316,63,111,22
+2021-22,Gender,Female,510,416,82,197,39,78,15,275,54,141,28
+2022-23,Gender,Female,517,412,80,248,48,71,14,319,62,93,18
+2017-18,Gender,Female,517,416,80,237,46,71,14,308,60,108,21
+2020-21,Gender,Female,534,434,81,257,48,74,14,331,62,103,19
+2019-20,Race,Hispanic,100,54,54,17,17,7,7,24,24,30,30
+2020-21,Race,Hispanic,115,58,50,24,21,4,3,28,24,30,26
+2021-22,Race,Hispanic,121,66,55,17,14,5,4,22,18,44,36
+2022-23,Race,Hispanic,122,59,48,19,16,6,5,25,21,34,28
+2010-11,Race,Hispanic,53,32,60,9,17,3,6,12,23,20,38
+2011-12,Race,Hispanic,54,33,61,10,19,4,7,14,26,19,35
+2013-14,Race,Hispanic,59,37,63,12,20,8,14,20,34,17,29
+2014-15,Race,Hispanic,67,46,69,20,30,5,7,25,37,21,31
+2012-13,Race,Hispanic,67,48,72,17,25,9,13,26,38,22,33
+2015-16,Race,Hispanic,69,45,65,15,22,2,3,17,25,28,41
+2016-17,Race,Hispanic,74,42,57,16,22,2,3,18,25,24,32
+2017-18,Race,Hispanic,85,41,48,11,13,0,0,11,13,30,35
+2018-19,Race,Hispanic,94,51,54,10,11,6,6,16,17,35,37
+2010-11,English Learners,English Learner,34,18,53,3,9,3,9,6,18,12,35
+2015-16,English Learners,English Learner,40,26,65,6,15,3,8,9,23,17,43
+2012-13,English Learners,English Learner,42,28,67,6,14,3,7,9,21,19,45
+2011-12,English Learners,English Learner,45,23,51,11,24,1,2,12,26,11,24
+2016-17,English Learners,English Learner,45,26,58,6,13,1,2,7,15,19,42
+2013-14,English Learners,English Learner,47,33,70,15,32,1,2,16,34,17,36
+2014-15,English Learners,English Learner,48,35,73,12,25,2,4,14,29,21,44
+2018-19,English Learners,English Learner,60,27,45,5,8,1,2,6,10,21,35
+2022-23,English Learners,English Learner,67,29,43,4,6,1,1,5,7,24,36
+2019-20,English Learners,English Learner,68,37,54,10,15,1,1,11,16,26,38
+2017-18,English Learners,English Learner,68,38,56,6,9,1,1,7,10,31,46
+2021-22,English Learners,English Learner,71,34,48,5,7,2,3,7,10,27,38
+2020-21,English Learners,English Learner,73,34,47,11,15,2,3,13,18,21,29
+2013-14,Gender,Male,440,318,72,174,40,66,15,240,55,78,18
+2016-17,Gender,Male,448,313,70,166,37,48,11,214,48,99,22
+2010-11,Gender,Male,450,307,68,170,38,39,9,209,47,98,22
+2011-12,Gender,Male,451,357,79,186,41,68,15,254,56,103,23
+2012-13,Gender,Male,465,351,75,176,38,57,12,233,50,118,25
+2014-15,Gender,Male,467,360,77,206,44,46,10,252,54,108,23
+2015-16,Gender,Male,472,352,75,182,39,66,14,248,53,104,22
+2020-21,Gender,Male,490,333,68,184,38,41,8,225,46,108,22
+2021-22,Gender,Male,494,342,69,194,39,54,11,248,50,94,19
+2017-18,Gender,Male,499,345,69,200,40,35,7,235,47,110,22
+2018-19,Gender,Male,503,355,71,225,45,33,7,258,52,97,19
+2019-20,Gender,Male,512,354,69,183,36,48,9,231,45,123,24
+2022-23,Gender,Male,523,334,64,200,38,42,8,242,46,92,18
+2010-11,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2011-12,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2012-13,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2015-16,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2016-17,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2018-19,Race,Native Hawaiian,0,0,0,0,0,0,0,0,0,0,0
+2022-23,Disability,Disabled,100,41,41,14,14,3,3,17,17,24,24
+2019-20,Disability,Disabled,102,47,46,11,11,6,6,17,17,30,29
+2021-22,Disability,Disabled,114,61,54,21,18,6,5,27,23,34,30
+2020-21,Disability,Disabled,129,61,47,19,15,7,5,26,20,35,27
+2012-13,Disability,Disabled,63,31,49,7,11,8,13,15,24,16,25
+2015-16,Disability,Disabled,66,35,53,12,18,5,8,17,26,18,27
+2013-14,Disability,Disabled,73,40,55,11,15,4,5,15,20,25,34
+2017-18,Disability,Disabled,74,32,43,10,14,3,4,13,18,19,26
+2014-15,Disability,Disabled,80,56,70,18,23,6,8,24,31,32,40
+2011-12,Disability,Disabled,85,55,65,14,16,10,12,24,28,31,36
+2010-11,Disability,Disabled,87,44,51,14,16,8,9,22,25,22,25
+2018-19,Disability,Disabled,89,51,57,15,17,6,7,21,24,30,34
+2016-17,Disability,Disabled,91,55,60,16,18,10,11,26,29,29,32
+2016-17,Race,White,665,542,82,342,51,72,11,414,62,128,19
+2014-15,Race,White,668,533,80,326,49,81,12,407,61,126,19
+2022-23,Race,White,670,518,77,338,50,79,12,417,62,101,15
+2012-13,Race,White,674,536,80,315,47,94,14,409,61,127,19
+2020-21,Race,White,675,535,79,322,48,86,13,408,61,127,19
+2021-22,Race,White,676,543,80,310,46,97,14,407,60,136,20
+2011-12,Race,White,687,560,82,308,45,109,16,417,61,143,21
+2013-14,Race,White,688,555,81,332,48,104,15,436,63,119,17
+2019-20,Race,White,693,542,78,335,48,78,11,413,59,129,19
+2015-16,Race,White,698,556,80,324,46,115,16,439,62,117,17
+2010-11,Race,White,699,552,79,341,49,83,12,424,61,128,18
+2018-19,Race,White,702,575,82,365,52,78,11,443,63,132,19
+2017-18,Race,White,720,565,78,350,49,87,12,437,61,128,18
