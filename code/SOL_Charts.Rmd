@@ -2,7 +2,9 @@
 title: "sol_charts"
 author: "Nina Schoonover"
 date: "2025-05-13"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ###############################################################
@@ -47,10 +49,10 @@ ggplot() +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SOL Reading Pass Rate: 2010-2025") +
+          title="SOL Exam Reading Pass Rate: 2010-2024") +
       scale_color_manual(name = "Division_name",
                         values = c("#fa8775", "#04994b"))  + 
       theme(legend.title=element_blank(), 
@@ -73,10 +75,10 @@ ggplot() +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SOL Reading Pass Rate by Race: 2010-2025") +
+          title="SOL Exam Reading Pass Rate by Race: 2010-2024") +
       scale_color_manual(name = "Race",
                         values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
       theme(legend.title=element_blank(), 
@@ -108,10 +110,10 @@ ggplot() +
   theme_minimal()+
   scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
   scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SOL Reading Pass Rate by Membership Group: 2010-2025") +
+          title="SOL Exam Reading Pass Rate by Membership Group: 2010-2024") +
 scale_color_manual(name = "subgroup",
                         values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7")) +
   theme(legend.title=element_blank(), 
@@ -141,10 +143,10 @@ ggplot() +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SOL Math Pass Rate: 2010-2025") +
+          title="SOL Exam Math Pass Rate: 2010-2024") +
       scale_color_manual(name = "Division_name",
                         values = c("#fa8775", "#04994b"))  + 
       theme(legend.title=element_blank(), 
@@ -167,10 +169,10 @@ ggplot() +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SOL Math Pass Rate by Race: 2010-2025") +
+          title="SOL Exam Math Pass Rate by Race: 2010-2024") +
       scale_color_manual(name = "Race",
                         values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
       theme(legend.title=element_blank(), 
@@ -202,10 +204,10 @@ ggplot() +
   theme_minimal()+
   scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
   scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
+                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate", 
-          title="SO Math Pass Rate by Membership Group: 2010-2025") +
+          title="SOL Exam Math Pass Rate by Membership Group: 2010-2024") +
 scale_color_manual(name = "subgroup",
                         values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7")) +
   theme(legend.title=element_blank(), 

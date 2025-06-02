@@ -140,7 +140,7 @@ math_pass <- read_csv("data/tempdata/sol_math.csv") %>%
 
 math_pass <- rbind(va_math_pass, math_pass)
 
-write.csv(reading_pass, "data/math_sol_pass.csv")
+write.csv(math_pass, "data/math_sol_pass.csv")
 
 # SOL Math Pass Rates by Race/Ethnicity
 
