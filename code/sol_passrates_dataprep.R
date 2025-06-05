@@ -161,7 +161,7 @@ race_math_pass <- race_math_pass %>%
   mutate(race = ifelse(race=="White, not of Hispanic origin", "White", race))
 race_math_pass <- race_math_pass %>% 
   mutate(race = ifelse(race=="American Indian or Alaska Native", "American Indian", race))
-race_math_pass <- race_math_passs %>% 
+race_math_pass <- race_math_pass %>% 
   mutate(race = ifelse(race=="Native Hawaiian  or Pacific Islander", "Pacific Islander", race))
 
 write.csv(race_math_pass, "data/math_sol_pass_race.csv")
@@ -197,16 +197,15 @@ sped_math_pass <- read_csv("data/tempdata/sol_math_sped.csv") %>%
   mutate(disabled=ifelse(disabled=="Y","SPED","Non-SPED")) %>%
   rename(subgroup=disabled) %>% 
   mutate(pass_rate = as.integer(pass_rate)) %>% 
-  select(-c(division_number, division_name)) %>% 
-  select(-test_source)
+  select(-c(division_number, division_name, test_source))
 
 # SOL Math Pass Rates by ACPS
-acps_math_subgroup <- read_csv("data/tempdata/va_sol_math.csv") %>% 
+acps_math_subgroup <- read_csv("data/tempdata/sol_math.csv") %>% 
   clean_names() %>% 
   rename(year = school_year) %>% 
-  add_column(data_level= "Virginia") %>%
-  add_column(subgroup= "Virginia") %>% 
-  select(-test_source)
+  add_column(data_level= "ACPS") %>%
+  add_column(subgroup= "ACPS") %>% 
+  select(-c(division_number, division_name, test_source))
 
 #Combine Subgroups
 

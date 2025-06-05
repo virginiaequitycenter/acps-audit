@@ -199,10 +199,10 @@ ggplot() +
   geom_line(data=math_subgroups %>% dplyr::filter(data_level=="SPED",
                                                   subgroup!="Non-SPED"),
             aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
-   geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="ACPS"),
+   geom_line(data=math_subgroups %>% dplyr::filter(data_level=="ACPS"),
             aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
   theme_minimal()+
-  scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
+  scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10), minor_breaks=seq(0,100,5)) +
   scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
