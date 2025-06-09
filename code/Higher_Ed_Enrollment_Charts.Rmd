@@ -42,11 +42,10 @@ ggplot() +
                                                 student_group!="American Indian",
                                                 student_group!="Native Hawaiian"),
           aes(x=year,y=two_ihe_pct,color="2 Year Institution",group=1)) +
-  facet_wrap(~student_group)+
+  facet_wrap(~student_group,ncol=2)+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="Cohort Year", y="Rate of Enrollment",
-       title="Rate of Enrollment by Higher Ed Institution Type\nfor ACPS Students across Racial Categories")+
+  labs(x="Cohort Year", y="Rate of Enrollment")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(values = c("#f8be3d","#0c9ed9")) + 
   theme(legend.title=element_blank(), 
@@ -60,6 +59,8 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/highered_race.png",device="png",width=8,height=6,units="in")
 
 ```
 
@@ -88,8 +89,7 @@ ggplot() +
   facet_wrap(~student_group)+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="Cohort Year", y="Rate of Enrollment", 
-       title="ACPS Rates of Postsecondary Enrollment\nby Student Group over Time: 2011-2024")+
+  labs(x="Cohort Year", y="Rate of Enrollment")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(values = c("#f8be3d","#0c9ed9")) + 
   theme(legend.title=element_blank(), 
@@ -103,6 +103,9 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/highered_econ.png",device="png",width=8,height=4.5,units="in")
+
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

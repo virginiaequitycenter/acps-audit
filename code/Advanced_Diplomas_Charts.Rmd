@@ -42,8 +42,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="Cohort Year", y="Percentage of Graduates", 
-       title="Percentage of Advanced Diploma Graduates\nby School over Time: 2011-2024")+
+  labs(x="Cohort Year", y="Percentage of Graduates")+
  geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(name = "School",
                      labels = c("Albemarle High School","Albemarle County Public Schools",
@@ -63,6 +62,8 @@ ggplot() +
         plot.caption = element_text(size = 14))+
   guides(color=guide_legend(nrow=2))
 
+ggsave("../plots/advdiploma_school.png",device="png",width=8,height=4,units="in")
+
 ```
 
 ```{r byrace}
@@ -81,8 +82,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="Cohort Year", y="Percentage of Graduates", 
-       title="ACPS Percentage of Advanced Diploma Graduates\nby Race over Time: 2011-2024")+
+  labs(x="Cohort Year", y="Percentage of Graduates")+
   scale_color_manual(name = "Race/Ethnicity",
                        labels = c("Asian","Black","Hispanic","Multiracial","White"),
                        values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"))+
@@ -99,7 +99,8 @@ ggplot() +
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
 
- 
+ ggsave("../plots/advdiploma_race.png",device="png",width=8,height=4,units="in")
+
 ```
 
 ```{r bystudentsubgroup}
@@ -126,8 +127,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="Year of Graduation", y="Percentage of Graduates", 
-       title="ACPS Percentage of Advanced Diploma Graduates\nby Student Membership Group over Time: 2011-2024")+
+  labs(x="Year of Graduation", y="Percentage of Graduates")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(name = "Membership Group",
                      labels = c("Economically Disadvantaged","English Learner",
@@ -144,5 +144,7 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/advdiploma_group.png",device="png",width=8,height=4,units="in")
 
 ```

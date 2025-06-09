@@ -48,8 +48,7 @@ ggplot() +
       scale_y_continuous(limits=c(0,50), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2015-16", "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24")) +
-      labs(x="School Year", y="Percent Enrolled", 
-          title="Chronic Absenteeism by Membership Group: 2010-2025") +
+      labs(x="School Year", y="Percent Enrolled" ) +
       scale_color_manual(name = "subgroup",
                         values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"))  + 
       theme(legend.title=element_blank(), 
@@ -64,6 +63,7 @@ ggplot() +
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14)) 
 
+ ggsave("../plots/absentee_group.png",device="png",width=8,height=4,units="in")
 
 ## Absenteeism Chart by Race
 ggplot() +
@@ -76,8 +76,7 @@ ggplot() +
       scale_y_continuous(limits=c(0,50), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2015-16", "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24")) +
-      labs(x="School Year", y="Percent Enrolled", 
-          title="Chronic Absenteeism: 2010-2025") +
+      labs(x="School Year", y="Percent Enrolled") +
       scale_color_manual(name = "subgroup",
                         values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
       theme(legend.title=element_blank(), 
@@ -92,7 +91,7 @@ ggplot() +
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14)) 
 
-
+ ggsave("../plots/absentee_race.png",device="png",width=8,height=4,units="in")
 
 
 

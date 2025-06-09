@@ -50,8 +50,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,40),breaks=seq(0,40,10),minor_breaks=seq(0,40,5))+
-  labs(x="Cohort Year", y="Dropout Rate", 
-       title="ACPS Dropout Rates by School over Time: 2011-2024")+
+  labs(x="Cohort Year", y="Dropout Rate")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(name = "School",
                      labels = c("Albemarle High School","Albemarle County Public Schools",
@@ -71,6 +70,8 @@ ggplot() +
         plot.caption = element_text(size = 14))+
   guides(color=guide_legend(nrow=2))
 
+ ggsave("../plots/dropout_school.png",device="png",width=8,height=4,units="in")
+
 
 ```
 ```{r byrace}
@@ -89,8 +90,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,40),breaks=seq(0,40,10),minor_breaks=seq(0,40,5))+
-  labs(x="Cohort Year", y="Dropout Rate", 
-       title="ACPS Dropout Rates by Race over Time: 2011-2024")+
+  labs(x="Cohort Year", y="Dropout Rate")+
   scale_color_manual(name = "Race/Ethnicity",
                        labels = c("Asian","Black","Hispanic","Multiracial","White"),
                        values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"))+
@@ -107,7 +107,7 @@ ggplot() +
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
 
-
+ ggsave("../plots/dropout_race.png",device="png",width=8,height=4,units="in")
 
 ```
 ```{r bystudentsubgroup}
@@ -134,8 +134,7 @@ ggplot() +
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24"))+
   scale_y_continuous(limits=c(0,40),breaks=seq(0,40,5),minor_breaks=seq(0,40,1))+
-  labs(x="Cohort Year", y="Dropout Rate", 
-       title="ACPS Dropout Rates by Student Membership Group\nover Time: 2011-2024")+
+  labs(x="Cohort Year", y="Dropout Rate")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(name = "Membership Group",
                      labels = c("Economically Disadvantaged","English Learner",
@@ -152,6 +151,8 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/dropout_group.png",device="png",width=8,height=4,units="in")
 
 
 ```

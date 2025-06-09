@@ -42,8 +42,7 @@ ggplot() +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-      labs(x="School Year", y="Percent Enrolled", 
-          title="Northern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      labs(x="School Year", y="Percent Enrolled") +
       scale_color_manual(name = "Race",
                         labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
@@ -59,6 +58,9 @@ ggplot() +
       text = element_text(size = 12, family="sans"), 
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14)) 
+
+ ggsave("../plots/enroll_north_race.png",device="png",width=8,height=4,units="in")
+
 
 # Southern Feeder Pattern
 ggplot() +
@@ -69,8 +71,7 @@ ggplot() +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-      labs(x="School Year", y="Percent Enrolled", 
-          title="Southern Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      labs(x="School Year", y="Percent Enrolled") +
       scale_color_manual(name = "Race",
                         labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
@@ -87,6 +88,9 @@ ggplot() +
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14)) 
 
+ ggsave("../plots/enroll_south_race.png",device="png",width=8,height=4,units="in")
+
+
 # Western Feeder Pattern
 ggplot() +
       geom_line(data = feeder_race_percent %>% dplyr::filter(feeder_pattern=="Western"),
@@ -96,8 +100,7 @@ ggplot() +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-      labs(x="School Year", y="Percent Enrolled", 
-          title="Western Feeder Pattern Enrollment by Race over Time: 2010-2025") +
+      labs(x="School Year", y="Percent Enrolled") +
       scale_color_manual(name = "Race",
                        labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
@@ -113,6 +116,9 @@ ggplot() +
       text = element_text(size = 12, family="sans"), 
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14)) 
+
+ ggsave("../plots/enroll_west_race.png",device="png",width=8,height=4,units="in")
+
 
 ```
 
@@ -130,8 +136,7 @@ ggplot() +
     scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-    labs(x="School Year", y="Percent Enrolled", 
-       title="Economically Disadvantaged Enrollment by Feeder Pattern: 2010-2025") +
+    labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
                      values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
@@ -146,6 +151,9 @@ ggplot() +
       text = element_text(size = 12, family="sans") , 
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14))
+
+ ggsave("../plots/enroll_econ.png",device="png",width=8,height=4,units="in")
+
 
 ```
 
@@ -162,8 +170,7 @@ ggplot() +
     scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-    labs(x="School Year", y="Percent Enrolled", 
-       title="English Learner Enrollment by Feeder Pattern: 2010-2025") +
+    labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
                      values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
@@ -178,6 +185,9 @@ ggplot() +
       text = element_text(size = 12, family="sans") , 
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14))
+
+ ggsave("../plots/enroll_englishlearner.png",device="png",width=8,height=4,units="in")
+
 
 ```
 
@@ -194,8 +204,7 @@ ggplot() +
     scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
                               "2016-17","2017-18","2018-19","2019-20","2020-21","2021-22",
                               "2022-23","2023-24", "2024-25")) +
-    labs(x="School Year", y="Percent Enrolled", 
-       title="SPED Enrollment by Feeder Pattern: 2010-2025") +
+    labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
                      values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
@@ -210,6 +219,9 @@ ggplot() +
       text = element_text(size = 12, family="sans") , 
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14))
+
+ ggsave("../plots/enroll_sped.png",device="png",width=8,height=4,units="in")
+
 ```
 
 ```

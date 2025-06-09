@@ -38,8 +38,7 @@ ggplot() +
             aes(x=year,y=perc_ap, group=school_name,color=school_name))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS Students Enrolled in at least\nOne AP Course by School:   2019-20 to 2023-24")+
+  labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d")) + 
   theme(legend.title=element_blank(), 
@@ -53,6 +52,9 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14)) 
+
+ ggsave("../plots/apcourse_school.png",device="png",width=8,height=4,units="in")
+
   
 
 ```
@@ -63,8 +65,7 @@ ggplot() +
             aes(x=year,y=perc_de, group=school_name,color=school_name))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS Students Enrolled in at least \nOne DE Course by School: 2019-20 to 2023-24")+
+  labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d")) +
   theme(legend.title=element_blank(),
@@ -79,6 +80,8 @@ ggplot() +
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
 
+ ggsave("../plots/decourse_school.png",device="png",width=8,height=4,units="in")
+
 ```
 
 ```{r ap_by_race}
@@ -90,8 +93,7 @@ ggplot() +
             aes(x=year,y=perc_ap, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS Students Enrolled in at least \nOne AP Course by Race: 2019-20 to 2023-24")+
+  labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d")) +
   theme(legend.title=element_blank(),
@@ -105,6 +107,8 @@ ggplot() +
         text = element_text(size = 12, family="sans"),
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/apcourse_race.png",device="png",width=8,height=4,units="in")
 
 ```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
@@ -117,8 +121,7 @@ ggplot() +
             aes(x=year,y=perc_de, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS Students Enrolled in at least \nOne DE Course by Race: 2019-20 to 2023-24") +
+  labs(x="School Year", y="Percentage of Students") +
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d")) +
   theme(legend.title=element_blank(),
@@ -133,6 +136,8 @@ ggplot() +
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
 
+ ggsave("../plots/decourse_race.png",device="png",width=8,height=4,units="in")
+
 ```
 
 ```{r ap_by_econ}
@@ -141,8 +146,7 @@ ggplot() +
             aes(x=year,y=perc_ap, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS Students Enrolled in at least one \nAP Course by Economic Status: 2019-20 to 2023-24")+
+  labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   scale_color_manual(values = c("#f8be3d","#04994b")) +
   theme(legend.title=element_blank(),
@@ -157,6 +161,8 @@ ggplot() +
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
 
+ ggsave("../plots/apcourse_econ.png",device="png",width=8,height=4,units="in")
+
 ```
 ```{r de_by_econ}
 ggplot() +
@@ -164,8 +170,7 @@ ggplot() +
             aes(x=year,y=perc_de, group=student_group,color=student_group))+
   theme_minimal()+
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
-  labs(x="School Year", y="Percentage of Students", 
-       title="Percentage of ACPS 10-12th Graders Enrolled in at least one \nDE Course by Economic Status: 2019-20 to 2023-24")+
+  labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   scale_color_manual(values = c("#f8be3d","#04994b")) +
   theme(legend.title=element_blank(),
@@ -179,5 +184,8 @@ ggplot() +
         text = element_text(size = 12, family="sans"),
         plot.title = element_text(size = 16, hjust=.65),
         plot.caption = element_text(size = 14))
+
+ ggsave("../plots/decourse_econ.png",device="png",width=8,height=4,units="in")
+
 
 ```
