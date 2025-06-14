@@ -36,6 +36,46 @@ math_subgroups <- read.csv("../data/math_sol_pass_subgroups.csv")
 
 ```
 
+```{r add 2019-20, echo=FALSE}
+
+reading_pass <- add_row(reading_pass, year="2019-2020",division_name="Virginia")
+reading_pass <- add_row(reading_pass, year="2019-2020",division_name="Albemarle County")
+
+math_pass <- add_row(math_pass, year="2019-2020",division_name="Virginia")
+math_pass <- add_row(math_pass, year="2019-2020",division_name="Albemarle County")
+
+race_reading_pass <- add_row(race_reading_pass, year="2019-2020",race="Asian")
+race_reading_pass <- add_row(race_reading_pass, year="2019-2020",race="Black")
+race_reading_pass <- add_row(race_reading_pass, year="2019-2020",race="Hispanic")
+race_reading_pass <- add_row(race_reading_pass, year="2019-2020",race="White")
+race_reading_pass <- add_row(race_reading_pass, year="2019-2020",race="Multiracial")
+
+race_math_pass <- add_row(race_math_pass, year="2019-2020",race="Asian")
+race_math_pass <- add_row(race_math_pass, year="2019-2020",race="Black")
+race_math_pass <- add_row(race_math_pass, year="2019-2020",race="Hispanic")
+race_math_pass <- add_row(race_math_pass, year="2019-2020",race="White")
+race_math_pass <- add_row(race_math_pass, year="2019-2020",race="Multiracial")
+
+reading_subgroups <- add_row(reading_subgroups, year="2019-2020",subgroup="ACPS",
+                             data_level="ACPS")
+reading_subgroups <- add_row(reading_subgroups, year="2019-2020",subgroup="Economically Disadvantaged",
+                             data_level="Economic Advantage")
+reading_subgroups <- add_row(reading_subgroups, year="2019-2020",subgroup="SPED",
+                             data_level="SPED")
+reading_subgroups <- add_row(reading_subgroups, year="2019-2020",subgroup="English Learner",
+                             data_level="English Learner")
+
+math_subgroups <- add_row(math_subgroups, year="2019-2020",subgroup="ACPS",
+                          data_level="ACPS")
+math_subgroups <- add_row(math_subgroups, year="2019-2020",subgroup="Economically Disadvantaged",
+                          data_level="Economic Advantage")
+math_subgroups <- add_row(math_subgroups, year="2019-2020",subgroup="SPED",
+                          data_level="SPED")
+math_subgroups <- add_row(math_subgroups, year="2019-2020",subgroup="English Learner",
+                          data_level="English Learner")
+
+
+```
 ## Reading SOL Plots
 
 ```{r pressure, echo=FALSE}
@@ -49,12 +89,19 @@ ggplot() +
       theme_minimal() +
       scale_y_continuous(limits=c(0,100), breaks=seq(0,100,10),minor_breaks=seq(0,100,5)) +
       scale_x_discrete(labels=c("2010-11","2011-12","2012-13","2013-14","2014-15","2015-16",
-                              "2016-17","2017-18","2018-19", "2020-21", "2021-22",
+                              "2016-17","2017-18","2018-19","2019-20", "2020-21", "2021-22",
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
       scale_color_manual(name = "Division_name",
-                        values = c("#fa8775", "#04994b"))  + 
-      theme(legend.title=element_blank(), 
+                        values = c("#fa8775", "#04994b"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
+geom_rect(data = NULL, aes(
+    xmin = stage("2018-2019", after_scale = xmin+.1),
+    xmax = stage("2020-2021", after_scale = xmax-.1),
+    ymin = 0,
+    ymax = 100), color="grey", fill = "grey")+
+annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
+theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
       axis.text.x = element_text(color = "black", size = 12, angle = 45, hjust = 1), 
@@ -81,7 +128,14 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
       scale_color_manual(name = "Race",
-                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  +
+      geom_rect(data = NULL, aes(
+          xmin = stage("2018-2019", after_scale = xmin+.1),
+          xmax = stage("2020-2021", after_scale = xmax-.1),
+          ymin = 0,
+          ymax = 100), color="grey", fill = "grey")+
+      annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -103,10 +157,10 @@ ggplot() +
   geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="Economic Advantage",
                                         subgroup!="Non-ECD"),
             aes(x = year, y = pass_rate,color = subgroup, group = subgroup)) +
-  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="English Learner",
+  geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="English Learner",
                                         subgroup!="Non-English Learner"),
             aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
-  geom_line(data=math_subgroups %>% dplyr::filter(data_level=="SPED",
+  geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="SPED",
                                                   subgroup!="Non-SPED"),
             aes(x = year, y = pass_rate, color = subgroup, group = subgroup)) +
    geom_line(data=reading_subgroups %>% dplyr::filter(data_level=="ACPS"),
@@ -118,7 +172,18 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
 scale_color_manual(name = "subgroup",
-                        values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7")) +
+                   labels = c("Economically Disadvantaged"="Economically Disadvantaged",
+                            "English Learner"="English Learner",
+                            "SPED"="Students with Disabilities",
+                             "ACPS"="All Students"),
+                   values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"),
+                   guide = guide_legend(override.aes = list(linewidth = 2))) +
+  geom_rect(data = NULL, aes(
+          xmin = stage("2018-2019", after_scale = xmin+.1),
+          xmax = stage("2020-2021", after_scale = xmax-.1),
+          ymin = 0,
+          ymax = 100), color="grey", fill = "grey")+
+      annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
   theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -131,7 +196,7 @@ scale_color_manual(name = "subgroup",
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14))
 
- ggsave("../plots/sol_read_group.png",device="png",width=8,height=4,units="in")
+ ggsave("../plots/sol_read_group.png",device="png",width=8.1,height=4,units="in")
 
 ```
 
@@ -151,7 +216,14 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
       scale_color_manual(name = "Division_name",
-                        values = c("#fa8775", "#04994b"))  + 
+                        values = c("#fa8775", "#04994b"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
+   geom_rect(data = NULL, aes(
+            xmin = stage("2018-2019", after_scale = xmin+.1),
+            xmax = stage("2020-2021", after_scale = xmax-.1),
+            ymin = 0,
+            ymax = 100), color="grey", fill = "grey")+
+      annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -178,7 +250,14 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
       scale_color_manual(name = "Race",
-                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
+      geom_rect(data = NULL, aes(
+            xmin = stage("2018-2019", after_scale = xmin+.1),
+            xmax = stage("2020-2021", after_scale = xmax-.1),
+            ymin = 0,
+            ymax = 100), color="grey", fill = "grey")+
+      annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -215,7 +294,18 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Pass Rate") +
 scale_color_manual(name = "subgroup",
-                        values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7")) +
+                   labels = c("Economically Disadvantaged"="Economically Disadvantaged",
+                            "English Learner"="English Learner",
+                            "SPED"="Students with Disabilities",
+                             "ACPS"="All Students"),
+                   values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"),
+                   guide = guide_legend(override.aes = list(linewidth = 2)))+
+ geom_rect(data = NULL, aes(
+            xmin = stage("2018-2019", after_scale = xmin+.1),
+            xmax = stage("2020-2021", after_scale = xmax-.1),
+            ymin = 0,
+            ymax = 100), color="grey", fill = "grey")+
+      annotate("text", x=10, y=50, label= "No\n2019-20\nExam")+
   theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -228,6 +318,6 @@ scale_color_manual(name = "subgroup",
       plot.title = element_text(size = 16, hjust=.65), 
       plot.caption = element_text(size = 14))
 
- ggsave("../plots/sol_math_group.png",device="png",width=8,height=4,units="in")
+ ggsave("../plots/sol_math_group.png",device="png",width=8.1,height=4,units="in")
 
 ```

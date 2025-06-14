@@ -47,7 +47,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="Cohort Year", y="Rate of Enrollment")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
-  scale_color_manual(values = c("#f8be3d","#0c9ed9")) + 
+  scale_color_manual(values = c("#f8be3d","#0c9ed9"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) + 
   theme(legend.title=element_blank(), 
         legend.position = "top", 
         legend.text = element_text(size = 12, hjust=.5), 
@@ -68,6 +69,10 @@ ggplot() +
 # Student Membership Group Charts
 ##############################################################
 ```{r stu_membership, echo=FALSE}
+
+
+ihe_allyears <- ihe_allyears %>% mutate(student_group=if_else(student_group=="Disabled",
+                                                              "Students with Disabilities",student_group))
 
 ggplot() +
   geom_line(data=ihe_allyears %>% dplyr::filter(data_level=="Disability"),
@@ -91,7 +96,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="Cohort Year", y="Rate of Enrollment")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
-  scale_color_manual(values = c("#f8be3d","#0c9ed9")) + 
+  scale_color_manual(values = c("#f8be3d","#0c9ed9"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) + 
   theme(legend.title=element_blank(), 
         legend.position = "top", 
         legend.text = element_text(size = 12, hjust=.5), 
@@ -103,6 +109,7 @@ ggplot() +
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
         plot.caption = element_text(size = 14))
+  
 
  ggsave("../plots/highered_econ.png",device="png",width=8,height=4.5,units="in")
 

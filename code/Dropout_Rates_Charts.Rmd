@@ -56,7 +56,8 @@ ggplot() +
                      labels = c("Albemarle High School","Albemarle County Public Schools",
                                   "Monticello High School", "Virginia", 
                                   "Western Albemarle High School"),
-                     values= c("#9d02d7", "#04994b", "#0C9ED9", "#fa8775", "#F8BE3D"))+
+                     values= c("#9d02d7", "#04994b", "#0C9ED9", "#fa8775", "#F8BE3D"),
+                     guide = guide_legend(override.aes = list(linewidth = 2),nrow=2))+
   theme(legend.title=element_blank(), 
         legend.position = "top", 
         legend.text = element_text(size = 10, hjust=.5), 
@@ -67,9 +68,8 @@ ggplot() +
         axis.text.y = element_text(size = 10), 
         text = element_text(size = 12, family="sans"), 
         plot.title = element_text(size = 16, hjust=.65), 
-        plot.caption = element_text(size = 14))+
-  guides(color=guide_legend(nrow=2))
-
+        plot.caption = element_text(size = 14))
+  
  ggsave("../plots/dropout_school.png",device="png",width=8,height=4,units="in")
 
 
@@ -92,8 +92,13 @@ ggplot() +
   scale_y_continuous(limits=c(0,40),breaks=seq(0,40,10),minor_breaks=seq(0,40,5))+
   labs(x="Cohort Year", y="Dropout Rate")+
   scale_color_manual(name = "Race/Ethnicity",
-                       labels = c("Asian","Black","Hispanic","Multiracial","White"),
-                       values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"))+
+                     labels = c("Asian"="Asian",
+                                "Black, not of Hispanic origin"="Black",
+                                "Hispanic"="Hispanic",
+                                "Non-Hispanic, two or more races"="Multiracial",
+                                "White, not of Hispanic origin"="White"),
+                     values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2)))+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
   theme(legend.title=element_blank(),
         legend.position = "top",
@@ -137,9 +142,12 @@ ggplot() +
   labs(x="Cohort Year", y="Dropout Rate")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(name = "Membership Group",
-                     labels = c("Economically Disadvantaged","English Learner",
-                                  "Disabled", "All ACPS Students"),
-                     values= c("#04994b", "#0c9ed9", "#9d02d7", "#f8be3d"))+
+                     labels = c("Economically Disadvantaged"="Economically Disadvantaged",
+                                "English Learner"="English Learner",
+                                "Disabled"="Students with Disabilities",
+                                "None"="All Students"),
+                     values= c("#9d02d7", "#04994b", "#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2)))+
   theme(legend.title=element_blank(), 
         legend.position = "top", 
         legend.text = element_text(size = 10, hjust=.5), 

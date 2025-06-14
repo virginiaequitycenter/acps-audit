@@ -46,7 +46,8 @@ ggplot() +
       scale_color_manual(name = "Race",
                         labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
-                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"))  + 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -75,7 +76,8 @@ ggplot() +
       scale_color_manual(name = "Race",
                         labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
-                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"))  + 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -104,7 +106,8 @@ ggplot() +
       scale_color_manual(name = "Race",
                        labels = c("American Indian","Asian", "Black", "Hispanic", "Pacific Islander", 
                                     "Multiracial", "White"), 
-                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d")) + 
+                        values = c("#90f3c2","#04994b", "#fa8775", "#9d02d7", "#ff23bc", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2))) + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -139,7 +142,8 @@ ggplot() +
     labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
-                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
       theme(legend.title=element_blank(), 
       legend.position = "top" , 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -173,7 +177,8 @@ ggplot() +
     labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
-                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
       theme(legend.title=element_blank(), 
       legend.position = "top" , 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -207,7 +212,8 @@ ggplot() +
     labs(x="School Year", y="Percent Enrolled") +
     scale_color_manual(name = "Feeder Pattern",
                      labels = c("Northern","Southern", "Western"),
-                     values= c("#9d02d7", "#0c9ed9", "#f8be3d")) +
+                     values= c("#9d02d7", "#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
       theme(legend.title=element_blank(), 
       legend.position = "top" , 
       legend.text = element_text(size = 12, hjust=.5), 

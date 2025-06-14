@@ -40,7 +40,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
-  scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d")) + 
+  scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) + 
   theme(legend.title=element_blank(), 
         legend.position = "top", 
         legend.text = element_text(size = 12, hjust=.5), 
@@ -67,7 +68,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
-  scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d")) +
+  scale_color_manual(values = c("#9d02d7","#0c9ed9","#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
   theme(legend.title=element_blank(),
         legend.position = "top",
         legend.text = element_text(size = 12, hjust=.5),
@@ -95,7 +97,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
-  scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d")) +
+  scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
   theme(legend.title=element_blank(),
         legend.position = "top",
         legend.text = element_text(size = 12, hjust=.5),
@@ -123,7 +126,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students") +
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
-  scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d")) +
+  scale_color_manual(values = c("#04994b","#fa8775","#9d02d7","#0c9ed9", "#f8be3d"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
   theme(legend.title=element_blank(),
         legend.position = "top",
         legend.text = element_text(size = 12, hjust=.5),
@@ -148,7 +152,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
-  scale_color_manual(values = c("#f8be3d","#04994b")) +
+  scale_color_manual(values = c("#f8be3d","#04994b"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
   theme(legend.title=element_blank(),
         legend.position = "top",
         legend.text = element_text(size = 12, hjust=.5),
@@ -172,7 +177,8 @@ ggplot() +
   scale_y_continuous(limits=c(0,100),breaks=seq(0,100,10),minor_breaks=seq(0,100,5))+
   labs(x="School Year", y="Percentage of Students")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") +
-  scale_color_manual(values = c("#f8be3d","#04994b")) +
+  scale_color_manual(values = c("#f8be3d","#04994b"),
+                     guide = guide_legend(override.aes = list(linewidth = 2))) +
   theme(legend.title=element_blank(),
         legend.position = "top",
         legend.text = element_text(size = 12, hjust=.5),

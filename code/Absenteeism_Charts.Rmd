@@ -50,7 +50,10 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Percent Enrolled" ) +
       scale_color_manual(name = "subgroup",
-                        values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"))  + 
+                        values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)),
+                        labels=c("All Students", "Economically Disadvantaged", "English Learners",
+                                 "Students with Disabilities"))  + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -61,9 +64,10 @@ ggplot() +
       axis.text.y = element_text(size = 12), 
       text = element_text(size = 12, family="sans"), 
       plot.title = element_text(size = 16, hjust=.65), 
-      plot.caption = element_text(size = 14)) 
+      plot.caption = element_text(size = 14)) +
+      guides(linetype = guide_legend(override.aes = list(linewidth = 12)))
 
- ggsave("../plots/absentee_group.png",device="png",width=8,height=4,units="in")
+ ggsave("../plots/absentee_group.png",device="png",width=8.1,height=4,units="in")
 
 ## Absenteeism Chart by Race
 ggplot() +
@@ -78,7 +82,8 @@ ggplot() +
                               "2022-23","2023-24")) +
       labs(x="School Year", y="Percent Enrolled") +
       scale_color_manual(name = "subgroup",
-                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"))  + 
+                        values = c("#04994b", "#fa8775", "#9d02d7", "#0c9ed9", "#f8be3d"),
+                        guide = guide_legend(override.aes = list(linewidth = 2)))  + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 
@@ -89,7 +94,7 @@ ggplot() +
       axis.text.y = element_text(size = 12), 
       text = element_text(size = 12, family="sans"), 
       plot.title = element_text(size = 16, hjust=.65), 
-      plot.caption = element_text(size = 14)) 
+      plot.caption = element_text(size = 14))
 
  ggsave("../plots/absentee_race.png",device="png",width=8,height=4,units="in")
 
