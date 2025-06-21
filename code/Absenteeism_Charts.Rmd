@@ -52,8 +52,10 @@ ggplot() +
       scale_color_manual(name = "subgroup",
                         values = c("#f8be3d", "#04994b", "#0c9ed9", "#9d02d7"),
                         guide = guide_legend(override.aes = list(linewidth = 2)),
-                        labels=c("All Students", "Economically Disadvantaged", "English Learners",
-                                 "Students with Disabilities"))  + 
+                        labels=c("All Students"="All Students",
+                        "Economically Disadvantaged"="Economically Disadvantaged", 
+                        "English Learners"="English Learners",
+                        "SPED"="Students with Disabilities"))  + 
       theme(legend.title=element_blank(), 
       legend.position = "top", 
       legend.text = element_text(size = 12, hjust=.5), 

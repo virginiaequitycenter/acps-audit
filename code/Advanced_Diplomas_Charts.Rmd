@@ -45,9 +45,11 @@ ggplot() +
   labs(x="Cohort Year", y="Percentage of Graduates")+
   geom_text(size = 5, hjust=0.5, vjust=-1, color="black") + 
   scale_color_manual(guide = guide_legend(override.aes = list(linewidth = 2),nrow=2),
-                     labels = c("Albemarle High School","Albemarle County Public Schools",
-                                  "Monticello High School", "Virginia", 
-                                  "Western Albemarle High School"),
+                     labels = c("Albemarle High"="Albemarle High School",
+                     "Division"="Albemarle County Public Schools",
+                     "Monticello High"="Monticello High School",
+                     "State"="Virginia", 
+                     "Western Albemarle High"="Western Albemarle High School"),
                      values= c("#9d02d7", "#04994b", "#0C9ED9", "#fa8775", "#F8BE3D"))+
   theme(legend.title=element_blank(), 
         legend.position = "top", 
